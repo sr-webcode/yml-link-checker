@@ -1,8 +1,6 @@
-require('dotenv').config();
-
 const express = require('express'),
   app = express(),
-  port = process.env.PORT,
+  port = process.env.PORT || 8080,
   routeManager = require('./utils/routeManager'),
   path = require('path'),
   expBars = require('express-handlebars'),
@@ -27,6 +25,4 @@ app.set("view engine", "hbs");
 app.set("views", path.join(__dirname, "./views"));
 routeManager.serve(app);
 
-app.listen(port, () => {
-  console.log(`app started at ${port}`)
-})
+app.listen(port);
