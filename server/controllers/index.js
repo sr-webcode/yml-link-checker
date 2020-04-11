@@ -106,7 +106,7 @@ const postRequest = (req, res) => {
         checkLinksHealth(mapData).then((results) => {
           setTimeout(() => {
             res.status(200).json(results)
-          }, 2000);
+          }, 10000);
         }).catch((err) => {
           res.status(400).json(err)
         })
