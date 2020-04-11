@@ -54,7 +54,7 @@ const postData = (data) => {
     spinner = document.querySelector('.spinner');
 
   spinner.classList.add('run');
-  postRequest = new Request("/",
+  postRequest = new Request("/home",
     {
       method: 'POST', body: JSON.stringify({ data }),
       headers: new Headers({
