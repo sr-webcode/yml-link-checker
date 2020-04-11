@@ -7,7 +7,7 @@
     "live": "concurrently \"npm:start:server\" \"npm:start:sass\" ",
     "start:server": "nodemon ./server/index.js",
     "start:sass": "node-sass -w ./sass/style.scss -o ./server/public/css",
-    "build": "node ./server/index.js"
+    "start": "node ./server/index.js"
   },
   "keywords": [],
   "author": "sean <sr.webcode@gmail.com>",
