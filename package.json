@@ -1,0 +1,27 @@
+{
+  "name": "broken-link-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live": "concurrently \"npm:start:server\" \"npm:start:sass\" ",
+    "start:server": "nodemon ./server/index.js",
+    "start:sass": "node-sass -w ./sass/style.scss -o ./server/public/css",
+    "build": "node ./server/index.js"
+  },
+  "keywords": [],
+  "author": "sean <sr.webcode@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "js-yaml": "^3.13.1"
+  }
+}
