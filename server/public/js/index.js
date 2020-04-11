@@ -54,15 +54,14 @@ const postData = (data) => {
     spinner = document.querySelector('.spinner');
 
   spinner.classList.add('run');
-  const url = "http://localhost:4040/",
-    postRequest = new Request(url,
-      {
-        method: 'POST', body: JSON.stringify({ data }),
-        headers: new Headers({
-          'Content-Type': 'application/json'
-        }),
-      }
-    );
+  postRequest = new Request("/",
+    {
+      method: 'POST', body: JSON.stringify({ data }),
+      headers: new Headers({
+        'Content-Type': 'application/json'
+      }),
+    }
+  );
   fetch(postRequest)
     .then((res) => {
       return res.json();
