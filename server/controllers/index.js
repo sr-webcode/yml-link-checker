@@ -56,7 +56,15 @@ const checkLinks = async (mapData) => {
   const resultLinks = [];
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_CONTEXT,
-    maxConcurrency: 5
+    maxConcurrency: 5,
+    skipDuplicateUrls: true,
+    puppeteerOptions: {
+      headless: true,
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+      ]
+    }
   });
 
   await cluster.task(async ({ page, data: { url, section } }) => {
