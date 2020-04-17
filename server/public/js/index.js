@@ -1,8 +1,12 @@
 const extractData = (data) => {
   const linkContainer = document.querySelector('#link-container');
   const mappedLinks = { company: [], management: [], trustStructure: [], videos: [], portfolios: [] };
-  if (!data) {
-    linkContainer.textContent = "no data available.."
+  if (data.error) {
+    const { details } = data;
+    linkContainer.innerHTML = `<div>
+    <p>Error: ${details.name}</p>
+    <p>Reason: ${details.message}</p>
+    </div>`
     return;
   }
   //assign data's to proper keys

@@ -1,109 +1,273 @@
 company:
-  logo: https://res.cloudinary.com/reitscreener/image/upload/v1556505935/Singapore/CRPU.SI/photos/Sasseur_2BREIT_chuef5.png
-  name: SASSEUR REIT
+  logo: https://res.cloudinary.com/reitscreener/image/upload/v1556502741/Singapore/CMOU.SI/phssotos/logo_eosqgg.jpg
+  name: Keppel Pacific Oak US REIT
   images:
-    - https://res.cloudinary.com/reitscreener/image/upload/v1556506203/Singapore/CRPU.SI/photos/hefei_property_2_xuokm7.jpg
-    - https://res.cloudinary.com/reitscreener/image/upload/v1556506239/Singapore/CRPU.SI/photos/hefei_property_1_i091s5.jpg
-    - https://res.cloudinary.com/reitscreener/image/upload/v1556506269/Singapore/CRPU.SI/photos/chongqing_property_5_xcujma.jpg
-  companyInformation: http://www.sasseurreit.com/
+    - https://res.cloudinary.com/reitscreener/image/upload/v1555994294/Singapore/CMOU.SI/photos/company/company1.png
+    - https://res.cloudinary.com/reitscreener/image/upload/v1555994287/Singapore/CMOU.SI/photos/company/company2.png
+    - https://res.cloudinary.com/reitscreener/image/upload/v1555994273/Singapore/CMOU.SI/photos/company/company3.png
+  companyInformation: http://www.kepkbsusreit.com/en/
   about:
-    - SASSEUR REIT is the first outlet mall REIT to be listed in Asia, with an Initial Portfolio comprising four retail outlet malls located in the People's Republic of China ("PRC"), offering investors the opportunity to invest in the country's fast-growing retail outlet mall sector.
+    - Keppel Pacific Oak US REIT (KORE), previously known as Keppel-KBS US REIT, is a distinctive office REIT listed on the main board of the Singapore Exchange Securities Trading Limited (SGX-ST) on 9 November 2017. KORE's investment strategy is to principally invest in a diversified portfolio of income-producing commercial assets and real estate-related assets in key growth markets of the United States (US) with favourable economic and office fundamentals that are above the national average, so as to provide sustainable distributions and strong total returns for Unitholders.
   location:
-    name: SASSEUR ASSET MANAGEMENT PTE. LTD.
-    address: "7 Temasek Boulevard, #06-05, Suntec Tower One, Singapore 038987"
+    name: Keppel Pacific Oak US REIT Management Pte. Ltd.
+    address: 1 HabourFront Avenue 18-01 Keppel Bay Tower Singapore 098632
     contact:
-      fax: null
-      tel: 65 6360 0283
-      email: chenzhen@sasseur.com
-    map: https://res.cloudinary.com/reitscreener/image/upload/v1555994266/Singapore/CRPU.SI/photos/map.png
+      fax: (65) 6803 1717
+      tel: (65) 6803 1818
+      email:  enquiries@kepkbsusreit.com
+    map: https://res.cloudinary.com/reitscreener/image/upload/v1555994268/Singapore/CMOU.SI/photos/map.png
 management:
-  - name: MR. XU RONGCAN
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556506307/Singapore/CRPU.SI/photos/bod-1_kuvam1.jpg
+  - name: Mr David Snyder
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502850/Singapore/CMOU.SI/photos/image_gwnuup.jpg
     positions:
-      - Chairman and Non-Executive Director
+      - Chief Executive Officer / Chief Investment Officer
     about:
-      - Mr. Xu founded the Sponsor Group in 1989, and is currently an Executive Director of the Sponsor, as well as several entities within the Sponsor Group, where he is responsible for overall management of the Sponsor Group, including determination of the Sponsor Group's development plans, operating principles and investment programs. Under the guidance of Mr. Xu, the Sponsor Group had developed since 1989 to become a leading premium outlet group in the PRC. Prior to setting up the Sponsor Group, Mr. Xu was employed in the Southwest Normal University from July 1985 to December 1989, where he was responsible for office management and advertising. Mr. Xu is also the recipient of numerous awards, including the "2009 Chongqing Top 10 Fashion Icon" awarded by the Chongqing Morning News and New Female Newspaper in 2009 and the "Chongqing Top 10 Retailer" awarded by the Chongqing Morning News and Chongqing City Chamber of Commerce in 2013.
-  - name: Mr. Anthony Ang
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1555994318/Singapore/CRPU.SI/photos/mr-anthony-ang.jpg
-    positions:
-      - Chief Executive Officer
-    about:
-      - Mr. Ang worked at the Singapore Economic Development Board from January 1979 to October 1992 and rose up the ranks to become Regional Director of North America, where he managed investment promotion for North America, securing annual investments averaging approximately S$2 billion per annum. From March 1993 to December 1999, he was Executive Director and Group General Manager of Armstrong Industrial Corporation Limited, where he was overall in charge of the sales and manufacturing operations in six Asian countries, including Singapore, Malaysia, Thailand, Indonesia and the PRC. Subsequently, he joined Vertex Management Pte. Ltd. From January 2000 to August 2001 as Senior Vice President of Investment, where he was responsible for investments in Singapore, India and Japan with estimated assets under management of approximately S$50 million. From August 2001 to January 2003, Mr. Ang joined GIC Real Estate Pte. Ltd. as Executive Vice President of Administration and Corporate Affairs, where he was responsible for the administration of the corporate affairs of its global investment operations. From February 2003 to December 2005, Anthony served as Executive Director of Majulah Connection Limited, a non-governmental organisation supported by the Singapore government for consulting and networking. From February 2006 to December 2016, Mr. Ang joined the ARA Group and served in various roles in the ARA Group. He was the Chief Executive Officer of ARA's flagship US$1.13 billion1 ARA Asia Dragon Fund from March 2007 to March 2010, where he was in charge of fundraising and responsible for investing in a diversified portfolio of real estate investments with a pan Asian mandate. He was subsequently the Chief Executive Officer and Executive Director of ARA Asset Management (Fortune) Pte. Ltd., the manager of Fortune Real Estate Investment Trust ("Fortune REIT"), from March 2010 to January 2015 and continued to be Executive Director till December 2016. Fortune REIT owns 17 retail properties in Hong Kong with estimated assets under management of over HK$36 billion as at 31 December 2016. Mr. Ang has also been an Independent Director of Singapore-listed Europtronic Group Ltd. since May 2015 and Singapore-listed Heatec Jietong Holdings Ltd. since April 2017, and Independent Director of Malaysia-listed Yong Tai Berhad since January 2016. Mr. Ang has been Singapore's Ambassador Extraordinary and Plenipotentiary to the Republic of Tunisia since September 2016.
-  - name: Mr Fred Chee Kin Yuen
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1555994238/Singapore/CRPU.SI/photos/mr-fred-chee-kin-yuen.jpg
+      - Prior to his employment with the Manager, Mr Snyder was a consultant to KBS where he oversaw overall management of the AFRT portfolio and assisted in formulating the operational strategy and tactics for the portfolio. From 2008 to 2015, Mr Snyder was the Chief Financial Officer at KBS where he managed and advised five non-traded REITs. In addition, he oversaw, directed and participated in all aspects of investor relations, finance, financial reporting, accounting and financial planning including the negotiation and management of a portfolio transfer of over 800 properties with a value of over US$1 billion.
+      - Mr Snyder started out as a Senior Accountant with Arthur Andersen LLP in 1993 where he was responsible for the design, testing and supervision of the financial statements of various public and private enterprises. From 1996 to 1997, Mr Snyder joined Regency Health Services as its Director of Financial Reporting. Subsequently, from 1998 to 2008, Mr Snyder was with Nationwide Health Properties, starting out as a Financial Controller before rising to become Vice President & Financial Controller in 2005. He was one of four members on the senior management team which determined the corporate strategy and financial decisions of the firm.
+      - Mr Snyder graduated with a Bachelor of Science in Business Administration from Biola University in La Mirada, California.
+
+  - name: Mr Andy Gwee
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502919/Singapore/CMOU.SI/photos/image_eatzqw.jpg
     positions:
       - Chief Financial Officer
     about:
-      - Mr. Chee joined Sasseur Asset Management Pte Ltd as Deputy Chief Financial Officer in March 2018.
-      - Mr. Chee has 29 years of financial management in banking, real estate and property fund management. Mr. Chee started his career at PriceWaterhouse in 1989 where he was involved in the audit of major Singapore GLCs. Subsequently he was in banking till 1999, where he was last in Global Financial Markets financial control in BNP. Mr. Chee then joined Ascendas Pte Ltd, which is Asia's leading provider of business space solutions and is Asia's premier developer and manager of business space. He was the Head of Corporate Finance and Taxation, responsible for Group financing and reporting. He was also involved in structuring and setting up the private funds and property trusts in Ascendas. From 2006 to 2009, Mr. Chee was Chief Financial Officer South East Asia at Limitless LLC, an Integrated International Real Estate Development company and a business unit of Dubai World, a wholly owned entity of the Dubai government. Mr. Chee helped lead the establishment of Limitless LLC's office in Singapore and was involved in the acquisition of its key investments in Malaysia, Indonesia and Vietnam. He was overall in charge of financial management, treasury, human resource and information technology in the Singapore regional head office.
+      - Mr Gwee has more than 16 years of experience in the accounting, finance and auditing industry.
+      - Prior to joining Keppel-KBS US REIT Management, Mr Gwee was the Head of Finance of Keppel DC REIT Management, the manager of Keppel DC REIT. From 2012 to 2015, Mr Gwee was the Senior Finance Manager at Keppel Corporation, where he assisted the Chief Financial Officer and Group Controller in the Keppel Group's financial and reporting functions. In addition to these functions, he provided accounting and technical advisory to the various business units of the Keppel Group. From 2000 to 2012, Mr Gwee spent 12 years at PricewaterhouseCoopers LLP Singapore in an audit function where he was the engagement manager for leading clients and local listed groups.
+      - Mr Gwee graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from the Nanyang Technological University of Singapore. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
+
+  - name: Ms Grace Chia
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502992/Singapore/CMOU.SI/photos/image_fjexca.jpg
+    positions:
+      - Head of Investor Relations
+    about:
+      - Ms Chia has over 16 years of experience in corporate communications and investor relations. She started her career with Keppel Corporation and has held various positions within the Keppel Group over the last 16 years. Prior to joining the Manager, she was the Head, Investor Relations & Communications of Keppel Capital International. From 2014 to 2016, she was the Senior Manager of Investor Relations at Keppel REIT Management, the Manager of Keppel REIT, where she facilitated continuous two-way communication with investors, analysts and key stakeholders, as well as ensured clear and timely disclosure of pertinent information.
+      - Prior to that, Ms Chia was with the Group Corporate Communications division at Keppel Corporation where she managed the communications efforts for Keppel Group's offshore and marine and subsequently, the property division, for 14 years.
+      - Ms Chia graduated with a Bachelor of Commerce Degree from the University of Western Australia.
+
+  - name: Mr Chris Cheo
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503068/Singapore/CMOU.SI/photos/image_aplvv8.jpg
+    positions:
+      - Finance Manager
+    about:
+      - Prior to his appointment to the Manager, Mr Cheo was the Finance Manager of Keppel Capital International where he was responsible for financial and reporting functions.
+      - Mr Cheo started out as an Auditor at Deloitte & Touche LLP in 2008 in the general audit team. From 2010 to 2014, he joined DBS Bank Ltd. as an associate in the finance function of the stockbroking arm, where he led the general ledger accounting team and assisted in various functions including tax, statutory, financial and regulatory reporting. From 2014 to 2017, Mr Cheo was the Senior Manager of Leeden National Oxygen Ltd., where he oversaw the group consolidation and financial reporting function, established finance policies and conducted training for finance staff.
+      - Mr Cheo graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from Nanyang Technological University of Singapore in 2008. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
+
+  - name: Mr Tai Wai Kit
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503130/Singapore/CMOU.SI/photos/image_o7w46f.jpg
+    positions:
+      - Senior Investment Analyst
+    about:
+      - Mr Tai will support the Chief Executive Officer/Chief Investment Officer of Keppel-KBS US REIT Management with analytical, underwriting, and key investment thesis support.
+      - Prior to joining the Manager, he was a Senior Analyst in Keppel Capital International where he was responsible for sourcing and executing merger and acquisition opportunities. Mr Tai was responsible for leading the review of all 11 properties on Keppel's behalf, prior to the listing of Keppel-KBS US REIT. Additionally, Mr Tai had been involved in providing portfolio analysis and asset management support to the REITs and Trusts under Keppel Capital.
+      - Mr Tai was an analyst in Alpha Investment Partners from 2013 to 2016, where he was involved in various aspects of acquisition, asset management and portfolio management activities for the United States and European real estate and data centre markets.
+      - A Keppel Group Scholar, Mr Tai graduated with a Bachelor of Science (Real Estate) (Honours) with Specialisation in Real Estate Finance from the National University of Singapore.
+
 trustStructure:
-  image: https://res.cloudinary.com/reitscreener/image/upload/v1556506394/Singapore/CRPU.SI/photos/trust-structure_vf5bem.png
+  image: https://res.cloudinary.com/reitscreener/image/upload/v1556503206/Singapore/CMOU.SI/photos/image_lef47n.jpg
+
 videos:
-  - title: Listing ceremony of Sasseur REIT on SGX Mainboard
-    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1556506443/Singapore/CRPU.SI/photos/nuppsxuqerynr61u61wn.jpg
-    link: https://www.facebook.com/sgx.mygateway/videos/1201971663268453/
+  - title: Reputable Asset Managers
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1556503280/Singapore/CMOU.SI/photos/hqdefault_kcxqzd.webp
+    link: https://youtu.be/AJw9WlGOFgQ
     about: null
-    date: 4 months ago
+    date: null
+
 portfolios:
-  - name: SASSEUR (BISHAN) OUTLETS
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556506488/Singapore/CRPU.SI/photos/bishan_property_2_u2ibgh.jpg
-    link: http://www.sasseurreit.com/bishan.html
-    address:
-      - SASSEUR (Bishan) Outlets is situated south of Shuangxing Avenue, north of Baiyang Road, and east of Biqing Road and is within 3 km of downtown Bishan District. Bishan Outlets is located next to Jinjian Mountain, which is a tourist attraction and leisure area.
-      - SASSEUR (Bishan) Outlets is also situated in a convenient location with several main roads located nearby, including S109 Shuangxing Avenue, S108 Biqing Road, Daxuecheng Middle Road, the G319 Xiacheng Expressway, and the G5001 Chongqing Beltway. In addition, it is approximately 50 km away from Chongqing Jiangbei International Airport and is accessible by an hour's drive.
-    category:  null
-    country: Singapore
-    state: null
-    about:
-      - SASSEUR (Bishan) Outlets was designed to be a one-stop shopping destination in the Bishan and West Chongqing areas, combining retail shopping with entertainment, food, education and leisure. 
-      - " Commencement of Operations: January 2014(Soft Launch)October 2014(Zones A and B)February 2016(Zone C) "
-      - " Net Lettable Area: 45,171.5 sq m  "
-      - " Number of Tenants: 213 storeswith approx. 350 brands  "
-      - " Average Independent Valuation (with the Entrusted Management Agreements): RMB 789.0 million "
-      - " Average Independent Valuation (without the Entrusted Management Agreements): RMB 783.0 million  "
-  - name: SASSEUR (CHONGQING) OUTLETS
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556506533/Singapore/CRPU.SI/photos/chongqing_property_1_gc5wiq.jpg
-    link: http://www.sasseurreit.com/chongqing.html
-    address:
-      - SASSEUR (Chongqing) Outlets is located in the northeast of Chongqing, and is approximately 10 km away (a 15-minute drive) from the Chongqing Jiangbei International Airport and 20 km away (a 35-minute drive) from the Jiefangbei retail hub.
+  - name: The Plaza Buildings, Seattle
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503378/Singapore/CMOU.SI/photos/image_ykslj3.jpg
+    link: https://www.koreusreit.com/portfolio/seattle/the-plaza-building/
+    address: 10800 and 10900 NE 8th Street, Bellevue, King County, Washington
     category: null
-    country: China
-    state: null 
+    country: United States
+    state: Washington
     about:
-      - SASSEUR (Chongqing) Outlets has distinguished itself through an experiential shopping concept targeting the middle and upper class consumers with higher disposable incomes, and is one of the malls in Chongqing with the strongest international brands offering.
-      - " Commencement of Operations: September 2008  "
-      - " Net Lettable Area: 50,885.0 sq m  "
-      - " Number of Tenants: 414 storeswith approx. 600 brands  "
-      - " Average Independent Valuation (with the Entrusted Management Agreements): RMB 2,654.0 million "
-      - " Average Independent Valuation (without the Entrusted Management Agreements): RMB 2,616.5 million  "
-  - name: SASSEUR (HEFEI) OUTLETS
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556506636/Singapore/CRPU.SI/photos/hefei_property_1_ecju6u.jpg
-    link: http://www.sasseurreit.com/hefei.html
-    address:
-      - SASSEUR (Hefei) Outlets is located in the High-Tech Industrial Development Zone, which is one of China's national high-tech industrial development zones. It is also situated near four main urban roadways, including Changjiang West Road, Wangjiang West Road, Xiyou Road, and Chuangxin Avenue. It is 24 km away from the Hefei railway station and 23 km away from the Hefei Xinqiao International Airport and is served by public buses.
-    category: null 
-    country: China
-    state: null 
+      - Situated along one of the busiest corridors in the Bellevue central business district in Seattle, The Plaza Buildings consists of two Class A office buildings - Plaza Center and US Bank Plaza, which are surrounded by an array of retail amenities, dining options and parks. Both buildings have been extensively refurbished to meet the needs of modern and premier tenants from diverse industries, including finance, computer system design and programming, as well as real estate.
+      - The buildings enjoy full-block frontage along NE 8th street, the primary east-west arterial in downtown Bellevue that connects commercial users to Interstate 405. The Bellevue Transit Center, which is being served by more than 20 bus routes around Seattle and the Eastside, is a short distance away from The Plaza Buildings.
+      - The Plaza Buildings was awarded the US Leadership in Energy and Environmental Design (LEED) Gold status
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,254"
+      - "Number of Storeys  Plaza Center: 16; US Bank Plaza: 10"
+      - "Net Lettable Area (NLA)  490,994 sq ft"
+      - "Valuation as at June 2017  US$243.9m"
+
+  - name: Bellevue Technology Center, Seattle
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503476/Singapore/CMOU.SI/photos/image_bvhch2.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7441
+    address: 15805 NE 24th Street, Bellevue, King County, Washington
+    category: null
+    country: United States
+    state: Washington
     about:
-      - SASSEUR (Hefei) Outlets caters to middle class consumers by offering a wide range of entertainment choices as well as luxury brand stores. It also features one of the largest cinemas in east China and the first five-star cinema in Hefei under the UME cinema chain.
-      - " Commencement of Operations: May 2016  "
-      - " Net Lettable Area: 138,449.4 sq m "
-      - " Number of Tenants: 283 storeswith approx. 450 brands  "
-      - " Average Independent Valuation (with the Entrusted Management Agreements): RMB 2,434.5 million "
-      - " Average Independent Valuation (without the Entrusted Management Agreements): RMB 2,418.0 million  "
-  - name: SASSEUR (KUNMING) OUTLETS
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556506673/Singapore/CRPU.SI/photos/kunming_property_1_cgpgph.jpg
-    link: http://www.sasseurreit.com/kunming.html
-    address:
-      - SASSEUR (Kunming) Outlets is located in Taiping New City, a newly developed living and leisure area which the PRC government has provided strong support through its industrial development plans, including in retail, tourism and modern technology industries, so as to promote regional economic growth.
-      - SASSEUR (Kunming) Outlets is situated in a convenient transportation hub within Taiping New City. It is within a 5 minutes' drive from the highway exit and is connected to the Kun'an Highway, Anjin Highway, Gaohai Highway, and Northwest Highway, as well as Chengkun Railway and China National Highway G320 Shangrui Expressway, which cross through the city.
-    category: null 
-    country: China
-    state: null 
+      - The Bellevue Technology Center is located in the 520 Corridor submarket of the Seattle-Bellevue regional office market, and a few blocks away from the Microsoft global headquarters and Interstate 520 highway.
+      - Over the last five years, the office campus which features nine Class A/B buildings, has undergone capital improvements with an upgraded fitness centre, conference room, full-service café and new parking stalls. Its main tenants are from the financial services and technology sectors.
+      - Being situated close to Microsoft will benefit the Bellevue Technology Center as new ventures by Microsoft could result in an increase in vendors and contractors who work with the software company. This could drive demand for space at nearby properties, including the Bellevue Technology Center.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,320"
+      - "Number of Storeys  One or three-storey buildings"
+      - "Net Lettable Area (NLA)  330,508 sq ft"
+      - "Valuation as at June 2017  US$ 133.0m"
+
+  - name: BIron Point, Sacramento
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503561/Singapore/CMOU.SI/photos/image_gwxbfh.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7440
+    address: 1110-1180 Iron Point Rd, Folsom, Sacramento County, California
+    category: null
+    country: United States
+    state: California
     about:
-      - SASSEUR (Kunming) Outlets is the largest outlet mall (in terms of GFA) in the Yunnan province. It is targeted at middle class consumers, catering to their growing preference for luxury brands such as Burberry. It also offers a wide array of retail options including outlet mall shopping, healthcare services, entertainment and cultural facilities, thereby providing its customers with a comprehensive lifestyle and entertainment experience intended to promote retail spending and enhance customer loyalty.
-      - " Commencement of Operations: December 2016 "
-      - " Net Lettable Area: 70,067.2 sq m  "
-      - " Number of Tenants: 209 storeswith approx. 350 brands  "
-      - " Average Independent Valuation (with the Entrusted Management Agreements): RMB 1,460.5 million "
-      - " Average Independent Valuation (without the Entrusted Management Agreements): RMB 1,432.5 million  "
+      - Iron Point is centrally located in Folsom, Sacramento. Folsom is the preferred residence to many of Sacramento's higher income executives, hence positioning Iron Point as the choice business address.
+      - The five Class A office buildings are highly accessible via US Highway 50 and is close to numerous retail and service amenities. It is also located directly across Intel Corporation's Folsom Campus that serves as one of Intel's four major US sites.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,351"
+      - "Number of Storeys  One or three-storey buildings"
+      - "Net Lettable Area (NLA)  3211,887 sq ft"
+      - "Valuation as at June 2017  US$ 38.2m"
+
+  - name: Great Hills Plaza, Austin
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503602/Singapore/CMOU.SI/photos/image_j8mkka.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7439
+    address: 9600 Great Hills Trail, Austin, Texas
+    category: null
+    country: United States
+    state: Texas
+    about:
+      - Located in Northwest Austin, Texas, Great Hills Plaza is a Class B office building which is close to residential housing, retail centres including Arboretum - one of Austin's major retail centres, and is served by two freeways. The building is also minutes away from the Austin central business district.
+      - The property was upgraded recently and is occupied by tenants from a diverse range of trade sectors. It currently features a modernised lobby as well as remodeled atriums with enhanced landscaping.
+      - Great Hills Plaza is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 471"
+      - "Number of Storeys  Three"
+      - "Net Lettable Area (NLA)  139,252 sq ft"
+      - "Valuation as at June 2017  US$ 33.3m"
+
+  - name: Westech 360, Austin
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503621/Singapore/CMOU.SI/photos/image_yfadou.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7438
+    address: 8911 N Capital of Texas Hwy, Austin, Texas
+    category: null
+    country: United States
+    state: Texas
+    about:
+      - Located along the Loop 360 Corridor (also known as Capital of Texas Highway) in Northwest Austin, Westech 360 is an office park that comprises four Class B buildings. It enjoys excellent accessibility to the major business centres around Austin and is well served by two freeways and a network of primary and secondary neighbourhood roads.
+      - Tenants from the professional services as well as finance and insurance sectors largely occupy these buildings. The office park underwent significant capital improvements over the past few years, including an extensive upgrade of the landscaping, signage and lighting for the buildings to increase its visibility from Loop 360. 
+      - The property is a recipient of the US Environmental Protection Agency’s prestigious Energy STAR © label. 
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 628"
+      - "Number of Storeys  Three"
+      - "Net Lettable Area (NLA)  173,058 sq ft"
+      - "Valuation as at June 2017  US$ 43.8m"
+
+  - name: 1800 West Loop South, Houston
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503648/Singapore/CMOU.SI/photos/image_bc0rzf.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7437
+    address: 1800 West Loop South, Houston, Harris County, Texas
+    category: null
+    country: United States
+    state: Texas
+    about:
+      - Located in Uptown Houston in the Galleria submarket, 1800 West Loop South is a Class A landmark office tower. The property’s location within the well-established submarket offers close proximity to demand generators and local amenities. Additionally, its location within the uptown area has a significant household base to the north (Tanglewood) that is one of the wealthiest neighbourhoods in the Houston area.
+      - The property offers highly functional floorplates averaging 20,000 sq ft and can accommodate up to eight corner offices per floor. Recent asset enhancements include a complete renovation of the building lobby, elevator modernisation and an addition of a new conference room facility. 
+      - Its close proximity to major roads and public transportation with good accessibility to surrounding markets also benefitted its tenants from diverse trade sectors.
+      - 1800 West Loop South was the first high-rise office building in the city of Houston—and in the state of Texas, to receive the Leadership in Energy and Environmental Design (LEED) Silver Certification by the US Green Building Council for Existing Buildings. The building has since achieved LEED Gold status. Additionally, it is a multiple recipient of the US Environmental Protection Agency’s prestigious ENERGY STAR © label.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,024"
+      - "Number of Storeys  21"
+      - "Net Lettable Area (NLA)  398,490 sq ft"
+      - "Valuation as at June 2017  UUS$ 82.0m"
+
+
+  - name: West Loop I & II, Houston
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503671/Singapore/CMOU.SI/photos/image_n3vx2y.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7436
+    address: 6565 and 6575 West Loop South, Bellaire, Harris County, Texas
+    category: null
+    country: United States
+    state: Texas
+    about:
+      - West Loop I & II features two Class A office buildings located in Bellaire, an affluent suburb in Houston, Texas which has a significant residential household base. The buildings underwent significant refurbishments in 2013 and 2014, resulting in remodelled entrances, complete elevator modernisations and improved chillers and cooling towers to help retain existing tenants and attract new tenancy. 
+      - Situated about six miles west of the Houston central business district, the property benefits from its location near the Medical Center which contributed to its high concentration of tenants from the healthcare and professional services sectors.
+      - Also, the property is located near major thoroughfares and public transportation with good accessibility to surrounding markets.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,044"
+      - "Number of Storeys  West Loop I: Eight; West Loop II: Seven"
+      - "Net Lettable Area (NLA)  313,873 sq ft"
+      - "Valuation as at June 2017  US$ 50.7m"
+
+
+  - name: Westmoor Center, Denver
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503707/Singapore/CMOU.SI/photos/image_x6umyc.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7435
+    address: 10055-10385 Westmoor Drive, Westminister, Colorado
+    category: null
+    country: United States
+    state: Colorado
+    about:
+      - Westmoor Center is situated in Northwest Denver, comprising six Class A office buildings which are close to downtown Denver and Boulder, both of which are talent hubs. It is also within easy reach of large retail centres and a variety of entertainment and recreational facilities.
+      - Some major tenants of the property include Ball Aerospace, Oracle America, Convergys Corporation, Reed Group, Cabela's Inc, Health Inventures, LLC, and Zimmer Biomet Spine, Inc.. Asset enhancements such as a new access card system, upgraded lobby and common areas were completed at these buildings between 2014 to 2016.
+      - Westmoor Center is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 2,809"
+      - "Number of Storeys Two- to three-storey buildings"
+      - "Net Lettable Area (NLA)  607,755 sq ft"
+      - "Valuation as at June 2017  US$ 121.4m"
+
+  - name: Powers Ferry, Atlanta
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503735/Singapore/CMOU.SI/photos/image_f9jscc.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7434
+    address: 6190 Powers Ferry Road, Atlanta, Fulton County, Georgia
+    category: null
+    country: United States
+    state: Georgia
+    about:
+      - Powers Ferry is a Class B office building situated in the Cumberland/I-75 submarket of the Atlanta Office Market. The property benefits from being located within a well-established submarket that is easily accessible via Interstates 285 and 75, proximate to primary demand generators and local area amenities.
+      - n addition, the property is located within the city of Sandy Springs, which has a significant household base that supports professional and financial services and healthcare-related tenancy. In 2013, Powers Ferry renovated its common areas, conference facilities and tenant amenities to maintain and boost tenancy. 
+      - The property’s proximity to major Atlanta highways positions itself well for office usage as the building is easily accessible by potential tenants in the Atlanta metro area, which has enjoyed a steady stream of businesses relocating and expanding in the region.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 569"
+      - "Number of Storeys 6"
+      - "Net Lettable Area (NLA)  607,755 sq ft"
+      - "Valuation as at June 2017  US$ 19.2m"
+
+  - name: Northridge Center I and II, Atlanta
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503767/Singapore/CMOU.SI/photos/image_akepy2.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7432
+    address: 365 and 375 Northridge Road, Atlanta, Fulton County, Georgia
+    category: null
+    country: United States
+    state: Georgia
+    about:
+      - Northridge Center I & II features two Class B buildings, located in the Central Perimeter, one of the largest office submarkets in Atlanta, Georgia. Refurbished in 2011 with upgraded lobbies and common areas, Northridge Center I & II enjoys excellent access to affluent suburbs, medical facilities, interstate access and the Metropolitan Atlanta Rapid Transit Authority Rail System.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 724"
+      - "Number of Storeys Building 1: Four; Building 2: Six"
+      - "Net Lettable Area (NLA)  186,580 sq ft"
+      - "Valuation as at June 2017  US$ 20.5m"
+
+
+  - name: Maitland Promenade II, Orlando
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503798/Singapore/CMOU.SI/photos/image_cgr6wa.jpg
+
+    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7431
+    address: 495N Keller Road, Maitland, Orange County, Florida
+    category: null
+    country: United States
+    state: Florida
+    about:
+      - Maitland Promenade II is a Class A office building located in Orlando, Florida. Situated in the heart of Orlando's largest and well-established submarket, the Maitland Center and a few miles away from the central business district, the property is close to primary demand generators and amenities. Moreover, its location within the community of Maitland has a significant household base that supports professional and financial services and healthcare-related office tenancy.
+      - The property also provides direct access to destinations throughout the Orlando Metropolitan Statistical Area and Interstate 4 and is less than an hour's drive from the Orlando International Airport.
+      - Maitland Promenade II is designed and built with contemporary architecture, modern building systems, and highly functional floor plates which can accommodate large and small users. From 2013 to 2016, common areas in Maitland Promenade II were renovated and the property was equipped with a new conference facility.
+      - "Land Tenure  Freehold"
+      - "Parking Stalls 1,052"
+      - "Number of Storeys Eight (Five-storey office and three-storey parking garage)"
+      - "Net Lettable Area (NLA)  226,990 sq ft"
+      - "Valuation as at June 2017  US$ 43.4m"

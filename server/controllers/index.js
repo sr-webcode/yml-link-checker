@@ -1,8 +1,8 @@
 const fs = require('fs'),
   path = require('path'),
   yaml = require('js-yaml'),
-  http = require('http'),
-  url = require('url');
+  { Cluster } = require('puppeteer-cluster'),
+  { REIT_FOR_SCRAPING } = require("../utils/reitException")
 
 
 const mapImportantEntries = (entries) => {
@@ -52,42 +52,46 @@ const mapImportantEntries = (entries) => {
 }
 
 
-const checkLinksHealth = (mapData) => {
-  let linksResult = [];
-  return new Promise((resolve, reject) => {
+const checkLinks = async (mapData) => {
+  const resultLinks = [];
+  const cluster = await Cluster.launch({
+    concurrency: Cluster.CONCURRENCY_CONTEXT,
+    maxConcurrency: 5
+  });
 
-    const performHttpRequest = (link, section) => {
+  await cluster.task(async ({ page, data: { url, section } }) => {
+    //CHECKING PER-LINK REMEMBER!
+    const baseHostName = new URL(url).hostname;
+    const baseMatched = REIT_FOR_SCRAPING.filter((link) => link.urlBase === baseHostName);
+    const result = await page.goto(url);
 
-      return new Promise((resolve, reject) => {
-        const options = {
-          method: "HEAD",
-          host: url.parse(link).hostname,
-          port: 80,
-          path: url.parse(link).pathname,
-        }
-        const request = http.request(options, (re) => {
-          resolve({ section, link, status: re.statusCode });
-        })
-        request.on('error', (err) => {
-          reject(err)
-        })
-        request.end();
-      })
+    if (baseMatched.length > 0) {
+      // const text = await page.evaluate(() => document.querySelector('.c-section-content__hdr').textContent);
+      // console.log(text)
+
+      const selector = baseMatched[0].scrapeElem;
+      const text = await page.evaluate((selector) => {
+        return document.querySelector(selector).textContent;
+      }, selector)
+
+      if (text === baseMatched[0].scrapeText) {
+        resultLinks.push({ link: url, section, status: 404 });
+      } else {
+        resultLinks.push({ link: url, section, status: result.status() });
+      }
+    } else {
+      resultLinks.push({ link: url, section, status: result.status() });
     }
+  });
 
-    for (let section in mapData) {
-      mapData[section].forEach((link) => {
-        if (link) {
-          performHttpRequest(link, section).then((res) => {
-            linksResult.push(res)
-          })
-        }
-      })
+  for (let section in mapData) {
+    for (let x = 0; x < mapData[section].length; x++) {
+      cluster.queue({ url: mapData[section][x], section });
     }
-
-    resolve(linksResult)
-
-  })
+  }
+  await cluster.idle();
+  await cluster.close();
+  return resultLinks;
 }
 
 
@@ -99,27 +103,23 @@ const postRequest = (req, res) => {
     const ws = fs.createWriteStream(location, "utf8");
     ws.write(data);
     // convert data to json and check links health
-    try {
-      fs.readFile(location, "utf8", (err, data) => {
+    fs.readFile(location, "utf8", (err, data) => {
+      try {
         const jsonRecord = yaml.safeLoad(data, "utf8");
         const mapData = mapImportantEntries(jsonRecord);
-        checkLinksHealth(mapData).then((results) => {
-          setTimeout(() => {
-            res.status(200).json(results)
-          }, 10000);
-        }).catch((err) => {
-          res.status(400).json(err)
-        })
+        //perform lookup on mapped links
+        checkLinks(mapData).then((clusterResult) => {
+          res.status(200).send(clusterResult);
+        }).catch(err => console.log(err))
 
-      })
-    } catch (error) {
-      console.log(error);
-    }
+      } catch (error) {
+        res.status(409).send({ error: true, details: error })
+      }
+    })
+
   } else {
     res.status(400).send('something went wrong...')
   }
 
 }
-
 exports.postRequest = postRequest;
-

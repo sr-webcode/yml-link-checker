@@ -1,3 +1,4 @@
+
 const express = require('express'),
   app = express(),
   port = process.env.PORT || 8080,
@@ -6,12 +7,14 @@ const express = require('express'),
   expBars = require('express-handlebars'),
   cors = require('cors');
 
+
 app.use(cors());
 app.use(express.static(path.join(__dirname, "./public")));
 app.use(express.json());
 app.use(express.urlencoded({
   extended: false
 }));
+
 
 app.engine(
   "hbs",
@@ -27,5 +30,3 @@ routeManager.serve(app);
 
 app.listen(port);
 
-
-// localhost .
