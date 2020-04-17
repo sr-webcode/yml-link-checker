@@ -1,273 +1,136 @@
-company:
-  logo: https://res.cloudinary.com/reitscreener/image/upload/v1556502741/Singapore/CMOU.SI/phssotos/logo_eosqgg.jpg
-  name: Keppel Pacific Oak US REIT
+company: 
+  logo: https://res.cloudinary.com/reitscreener/image/upload/v1574058967/USA/ARE/tjxuo0fedneoimxhlv4d.jpg
+  name: Alexandria Real Estate Equities Inc
   images:
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994294/Singapore/CMOU.SI/photos/company/company1.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994287/Singapore/CMOU.SI/photos/company/company2.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994273/Singapore/CMOU.SI/photos/company/company3.png
-  companyInformation: http://www.kepkbsusreit.com/en/
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574652431/USA/ARE/company/hfhj2zsnona2ctq01udu.jpg
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574652507/USA/ARE/company/no5ko8c02tdoqxvlivci.jpg
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574652650/USA/ARE/company/bi94eyeim2easpcwraxt.jpg
+  companyInformation: http://www.are.com/
   about:
-    - Keppel Pacific Oak US REIT (KORE), previously known as Keppel-KBS US REIT, is a distinctive office REIT listed on the main board of the Singapore Exchange Securities Trading Limited (SGX-ST) on 9 November 2017. KORE's investment strategy is to principally invest in a diversified portfolio of income-producing commercial assets and real estate-related assets in key growth markets of the United States (US) with favourable economic and office fundamentals that are above the national average, so as to provide sustainable distributions and strong total returns for Unitholders.
-  location:
-    name: Keppel Pacific Oak US REIT Management Pte. Ltd.
-    address: 1 HabourFront Avenue 18-01 Keppel Bay Tower Singapore 098632
+    - Alexandria began as a garage startup with a vision to create a new kind of real estate company uniquely focused on serving the life science industry.
+    - We named the company after Alexandria, Egypt, the scientific capital of the ancient world, renowned for its iconic lighthouse whose beacon today still evokes the noble pursuit of scientific advancement and revolutionary discoveries. 
+    - Over the last 25 years, we have established ourselves as the leader in owning, operating, and developing collaborative and dynamic life science, technology, and agtech campuses in key urban innovation cluster locations.
+  location: 
+    name: Alexandria Real Estate Equities, Inc. Headquarters
+    address: 26 North Euclid Avenue, Pasadena, CA 91101
     contact:
-      fax: (65) 6803 1717
-      tel: (65) 6803 1818
-      email:  enquiries@kepkbsusreit.com
-    map: https://res.cloudinary.com/reitscreener/image/upload/v1555994268/Singapore/CMOU.SI/photos/map.png
+      fax: 626.578.0896
+      tel: 626.578.0777
+      email: corporateinformation@are.com
+    map: https://res.cloudinary.com/reitscreener/image/upload/v1574653423/USA/ARE/ft9te5sxnzexwage4f9m.png
 management:
-  - name: Mr David Snyder
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502850/Singapore/CMOU.SI/photos/image_gwnuup.jpg
-    positions:
-      - Chief Executive Officer / Chief Investment Officer
-    about:
-      - Prior to his employment with the Manager, Mr Snyder was a consultant to KBS where he oversaw overall management of the AFRT portfolio and assisted in formulating the operational strategy and tactics for the portfolio. From 2008 to 2015, Mr Snyder was the Chief Financial Officer at KBS where he managed and advised five non-traded REITs. In addition, he oversaw, directed and participated in all aspects of investor relations, finance, financial reporting, accounting and financial planning including the negotiation and management of a portfolio transfer of over 800 properties with a value of over US$1 billion.
-      - Mr Snyder started out as a Senior Accountant with Arthur Andersen LLP in 1993 where he was responsible for the design, testing and supervision of the financial statements of various public and private enterprises. From 1996 to 1997, Mr Snyder joined Regency Health Services as its Director of Financial Reporting. Subsequently, from 1998 to 2008, Mr Snyder was with Nationwide Health Properties, starting out as a Financial Controller before rising to become Vice President & Financial Controller in 2005. He was one of four members on the senior management team which determined the corporate strategy and financial decisions of the firm.
-      - Mr Snyder graduated with a Bachelor of Science in Business Administration from Biola University in La Mirada, California.
-
-  - name: Mr Andy Gwee
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502919/Singapore/CMOU.SI/photos/image_eatzqw.jpg
-    positions:
-      - Chief Financial Officer
-    about:
-      - Mr Gwee has more than 16 years of experience in the accounting, finance and auditing industry.
-      - Prior to joining Keppel-KBS US REIT Management, Mr Gwee was the Head of Finance of Keppel DC REIT Management, the manager of Keppel DC REIT. From 2012 to 2015, Mr Gwee was the Senior Finance Manager at Keppel Corporation, where he assisted the Chief Financial Officer and Group Controller in the Keppel Group's financial and reporting functions. In addition to these functions, he provided accounting and technical advisory to the various business units of the Keppel Group. From 2000 to 2012, Mr Gwee spent 12 years at PricewaterhouseCoopers LLP Singapore in an audit function where he was the engagement manager for leading clients and local listed groups.
-      - Mr Gwee graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from the Nanyang Technological University of Singapore. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Ms Grace Chia
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502992/Singapore/CMOU.SI/photos/image_fjexca.jpg
-    positions:
-      - Head of Investor Relations
-    about:
-      - Ms Chia has over 16 years of experience in corporate communications and investor relations. She started her career with Keppel Corporation and has held various positions within the Keppel Group over the last 16 years. Prior to joining the Manager, she was the Head, Investor Relations & Communications of Keppel Capital International. From 2014 to 2016, she was the Senior Manager of Investor Relations at Keppel REIT Management, the Manager of Keppel REIT, where she facilitated continuous two-way communication with investors, analysts and key stakeholders, as well as ensured clear and timely disclosure of pertinent information.
-      - Prior to that, Ms Chia was with the Group Corporate Communications division at Keppel Corporation where she managed the communications efforts for Keppel Group's offshore and marine and subsequently, the property division, for 14 years.
-      - Ms Chia graduated with a Bachelor of Commerce Degree from the University of Western Australia.
-
-  - name: Mr Chris Cheo
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503068/Singapore/CMOU.SI/photos/image_aplvv8.jpg
-    positions:
-      - Finance Manager
-    about:
-      - Prior to his appointment to the Manager, Mr Cheo was the Finance Manager of Keppel Capital International where he was responsible for financial and reporting functions.
-      - Mr Cheo started out as an Auditor at Deloitte & Touche LLP in 2008 in the general audit team. From 2010 to 2014, he joined DBS Bank Ltd. as an associate in the finance function of the stockbroking arm, where he led the general ledger accounting team and assisted in various functions including tax, statutory, financial and regulatory reporting. From 2014 to 2017, Mr Cheo was the Senior Manager of Leeden National Oxygen Ltd., where he oversaw the group consolidation and financial reporting function, established finance policies and conducted training for finance staff.
-      - Mr Cheo graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from Nanyang Technological University of Singapore in 2008. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Mr Tai Wai Kit
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503130/Singapore/CMOU.SI/photos/image_o7w46f.jpg
-    positions:
-      - Senior Investment Analyst
-    about:
-      - Mr Tai will support the Chief Executive Officer/Chief Investment Officer of Keppel-KBS US REIT Management with analytical, underwriting, and key investment thesis support.
-      - Prior to joining the Manager, he was a Senior Analyst in Keppel Capital International where he was responsible for sourcing and executing merger and acquisition opportunities. Mr Tai was responsible for leading the review of all 11 properties on Keppel's behalf, prior to the listing of Keppel-KBS US REIT. Additionally, Mr Tai had been involved in providing portfolio analysis and asset management support to the REITs and Trusts under Keppel Capital.
-      - Mr Tai was an analyst in Alpha Investment Partners from 2013 to 2016, where he was involved in various aspects of acquisition, asset management and portfolio management activities for the United States and European real estate and data centre markets.
-      - A Keppel Group Scholar, Mr Tai graduated with a Bachelor of Science (Real Estate) (Honours) with Specialisation in Real Estate Finance from the National University of Singapore.
+  - name: Joel S. Marcus
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574653668/USA/ARE/b99blzir09xqzse66y7m.jpg
+    positions: 
+      - Executive Chairman & Founder
+    about: 
+      - Joel S. Marcus is Executive Chairman and Founder of Alexandria Real Estate Equities, Inc. (NYSE:ARE), an urban office REIT that pioneered the life science real estate niche in 1994 and remains the longest-tenured owner, operator, and developer uniquely focused on collaborative life science, technology, and agtech campuses in AAA innovation cluster locations. Mr. Marcus co-founded Alexandria as a garage startup with $19 million in Series A capital and, as its Chief Executive Officer for 20 years from March 1997 to April 2018, led its growth into an S&P 500 company with a total market capitalization of over $18 billion and a total shareholder return of approximately 1,350% from the company’s IPO to December 31, 2017. The company, which reached its 20th anniversary as an NYSE listed REIT in May 2017, has a total market capitalization exceeding $22 billion and a total shareholder return of more than 1,500% as of June 30, 2019. Alexandria is a four-time Gold winner of the Nareit Investor CARE (Communications & Reporting Excellence) Award and the NAIOP 2019 Developer of the Year.
+  - name: Stephen A. Richardson
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574653723/USA/ARE/zabh3f9n51njv3zjngnk.jpg
+    positions: 
+      - Co-Chief Executive Officer
+    about: 
+      - Stephen A. Richardson has served as Co-Chief Executive Officer of Alexandria Real Estate Equities, Inc. since April 2018. A 19-year Alexandria veteran, Mr. Richardson jointly leads the company with a long-term focus on strategic planning and revenue growth.
+      - During his tenure at Alexandria, Mr. Richardson previously served as Chief Operating Officer from October 2011 to April 2018, and in positions of increasing responsibility as Regional Market Director of San Francisco from July 2005 to April 2018, during which time he led the management and growth of all aspects of its San Francisco asset base and operations. From February 2000 to July 2005, Mr. Richardson held the position of Vice President of Portfolio Services.
+  - name: Peter M. Moglia
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574653778/USA/ARE/jbijokeplriaoljmvwpa.jpg
+    positions: 
+      - Co-Chief Executive Officer & Co-Chief Investment Officer
+    about: 
+      - Peter M. Moglia is Co-Chief Executive Officer and Co-Chief Investment Officer of Alexandria Real Estate Equities, Inc. He has served as Co-Chief Executive Officer since April 2018 and Chief Investment Officer since January 2009. A 21-year Alexandria veteran, Mr. Moglia is a respected leader with extensive industry and market knowledge.
+      - Mr. Moglia jointly leads the company in his role as Co-CEO, and jointly oversees the company’s strategic growth as Co-CIO through a focus on acquisitions and dispositions, development and redevelopment, leasing, and joint ventures. He also concurrently leads Alexandria’s Real Estate Finance team, which provides critical support across a range of underwriting, due diligence, and financing activities.
+  - name: Dean A. Shigenaga
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574655093/USA/ARE/hjggxjdvfov7bspjx2id.jpg
+    positions: 
+      - Co-President & Chief Financial Officer
+    about: 
+      - Dean A. Shigenaga is Co-President and Chief Financial Officer of Alexandria Real Estate Equities, Inc. With more than 25 years of accounting and real estate experience, including 18 years with Alexandria, Mr. Shigenaga is committed to maximizing long-term asset value and total shareholder return, continuing to strengthen the company’s credit profile and balance sheet, and maintaining the best-in-class transparency, quality, and efficiency of disclosures and reporting for which Alexandria is known.
 
 trustStructure:
-  image: https://res.cloudinary.com/reitscreener/image/upload/v1556503206/Singapore/CMOU.SI/photos/image_lef47n.jpg
-
-videos:
-  - title: Reputable Asset Managers
-    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1556503280/Singapore/CMOU.SI/photos/hqdefault_kcxqzd.webp
-    link: https://youtu.be/AJw9WlGOFgQ
-    about: null
-    date: null
+  image: null
+videos: 
+  - title: Alexandria Real Estate Equities Says Cluster Model Allows Life Science Firms to Thrive
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574656317/USA/ARE/kk4oemtpckswbmro6geb.jpg
+    link: https://www.youtube.com/watch?v=dwcQ29unFJ0
+    about: CFO Dean Shigenaga says REIT is helping its client tenants attract world-class talent.
+    date: December 3, 2018
+  - title: Alexandria Real Estate CEO breaks down what ag-tech means
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574656363/USA/ARE/kex3ucoicgywmlftyfms.jpg
+    link: https://www.youtube.com/watch?v=Bpo2DJ4dIeM
+    about: Joel Marcus, Alexandria Real Estate Equities CEO, joins CNBC's "Power Lunch" to talk about ag-tech and what it means for the real estate industry.
+    date: April 1, 2019
+  - title: Alexandria Real Estate Equities Notes “Five Fundamental Pillars” Positive for Life Science Industry
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574656416/USA/ARE/bx3jgy2nkoorohvhbigt.png
+    link: https://www.youtube.com/watch?v=7112VFOlhjY
+    about: Co-President Dean Shigenaga says strong bipartisan support for NIH funding is essential.
+    date: November 28, 2018
+  - title: "Alexandria Real Estate Equities (ARE): Poised for growth"
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574657124/USA/ARE/ljspftpttyhz6r0cwnyv.jpg
+    link: https://www.youtube.com/watch?v=PKr7NYjw6Ro
+    about: We have a mixed earnings report day today with a lot of positive and negative moves. Lets look at a real estate stock that is poised for further upside after a positive earnings report. Today, we're looking at Alexandria Real Estate Equities (ARE).
+    date: May 1, 2018
 
 portfolios:
-  - name: The Plaza Buildings, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503378/Singapore/CMOU.SI/photos/image_ykslj3.jpg
-    link: https://www.koreusreit.com/portfolio/seattle/the-plaza-building/
-    address: 10800 and 10900 NE 8th Street, Bellevue, King County, Washington
+  - name: GREATER BOSTON
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657508/USA/ARE/xft5ls6wmup09ssrvzkr.png
+    link: http://www.are.com/greater-boston.html
+    address:  null
     category: null
-    country: United States
-    state: Washington
+    country: USA
+    state: Massachusetts
     about:
-      - Situated along one of the busiest corridors in the Bellevue central business district in Seattle, The Plaza Buildings consists of two Class A office buildings - Plaza Center and US Bank Plaza, which are surrounded by an array of retail amenities, dining options and parks. Both buildings have been extensively refurbished to meet the needs of modern and premier tenants from diverse industries, including finance, computer system design and programming, as well as real estate.
-      - The buildings enjoy full-block frontage along NE 8th street, the primary east-west arterial in downtown Bellevue that connects commercial users to Interstate 405. The Bellevue Transit Center, which is being served by more than 20 bus routes around Seattle and the Eastside, is a short distance away from The Plaza Buildings.
-      - The Plaza Buildings was awarded the US Leadership in Energy and Environmental Design (LEED) Gold status
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,254"
-      - "Number of Storeys  Plaza Center: 16; US Bank Plaza: 10"
-      - "Net Lettable Area (NLA)  490,994 sq ft"
-      - "Valuation as at June 2017  US$243.9m"
-
-  - name: Bellevue Technology Center, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503476/Singapore/CMOU.SI/photos/image_bvhch2.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7441
-    address: 15805 NE 24th Street, Bellevue, King County, Washington
+      - Preeminent in the realm of scientific breakthroughs and innovative medical technologies, Greater Boston is the center of life science research and development in the eastern United States. Interaction between scientific researchers in the world's most prestigious academic institutions, medical practitioners in renowned teaching hospitals and entrepreneurs in public and private life science companies has spawned major advances in medicine and science, including dozens of Nobel-prize winning discoveries.
+  - name: SAN FRANCISCO
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657591/USA/ARE/gbztgxzghpyhnmm44pkq.png
+    link: http://www.are.com/san-francisco.html
+    address: null
     category: null
-    country: United States
-    state: Washington
-    about:
-      - The Bellevue Technology Center is located in the 520 Corridor submarket of the Seattle-Bellevue regional office market, and a few blocks away from the Microsoft global headquarters and Interstate 520 highway.
-      - Over the last five years, the office campus which features nine Class A/B buildings, has undergone capital improvements with an upgraded fitness centre, conference room, full-service café and new parking stalls. Its main tenants are from the financial services and technology sectors.
-      - Being situated close to Microsoft will benefit the Bellevue Technology Center as new ventures by Microsoft could result in an increase in vendors and contractors who work with the software company. This could drive demand for space at nearby properties, including the Bellevue Technology Center.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,320"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  330,508 sq ft"
-      - "Valuation as at June 2017  US$ 133.0m"
-
-  - name: BIron Point, Sacramento
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503561/Singapore/CMOU.SI/photos/image_gwxbfh.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7440
-    address: 1110-1180 Iron Point Rd, Folsom, Sacramento County, California
-    category: null
-    country: United States
+    country: USA
     state: California
     about:
-      - Iron Point is centrally located in Folsom, Sacramento. Folsom is the preferred residence to many of Sacramento's higher income executives, hence positioning Iron Point as the choice business address.
-      - The five Class A office buildings are highly accessible via US Highway 50 and is close to numerous retail and service amenities. It is also located directly across Intel Corporation's Folsom Campus that serves as one of Intel's four major US sites.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,351"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  3211,887 sq ft"
-      - "Valuation as at June 2017  US$ 38.2m"
-
-  - name: Great Hills Plaza, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503602/Singapore/CMOU.SI/photos/image_j8mkka.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7439
-    address: 9600 Great Hills Trail, Austin, Texas
+      - The San Francisco Bay Area is the historical birthplace of the biotechnology industry. Alexandria is the dominant market leader in providing first-class office/laboratory space to the life science and technology industry in San Francisco. The Alexandria Center for Science and Technology® in Mission Bay is a dynamic and customized urban campus designed to foster business collaboration and innovation among its tenants with immediate proximity to the renowned University of California, San Francisco (UCSF). San Francisco is anchored by world-class biopharmaceutical and high-technology companies, and is a leader in the nation in attracting life science and technology venture funding.
+  - name: NEW YORK CITY
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657646/USA/ARE/xhvhmcvzpp1iippysmzp.png
+    link: http://www.are.com/new-york-city.html
+    address: null
     category: null
-    country: United States
-    state: Texas
+    country: USA
+    state: New York
     about:
-      - Located in Northwest Austin, Texas, Great Hills Plaza is a Class B office building which is close to residential housing, retail centres including Arboretum - one of Austin's major retail centres, and is served by two freeways. The building is also minutes away from the Austin central business district.
-      - The property was upgraded recently and is occupied by tenants from a diverse range of trade sectors. It currently features a modernised lobby as well as remodeled atriums with enhanced landscaping.
-      - Great Hills Plaza is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 471"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  139,252 sq ft"
-      - "Valuation as at June 2017  US$ 33.3m"
-
-  - name: Westech 360, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503621/Singapore/CMOU.SI/photos/image_yfadou.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7438
-    address: 8911 N Capital of Texas Hwy, Austin, Texas
+      - New York's first and only premier life science campus, the Alexandria Center® for Life Science fosters innovative collaborations among New York's renowned academic and medical institutions, preeminent scientific talent, top-tier investment capital, and the broad and diverse commercial life science industry. Serving New York City with its first world-class commercial laboratory space, the Alexandria Center enables the city to capitalize on its talent and speeds the translation of promising new life science discoveries "from bench to bedside."
+  - name: SAN DIEGO
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657781/USA/ARE/bvyfz7wwqpunxlyt8ncy.png
+    link: http://www.are.com/san-diego.html
+    address: null
     category: null
-    country: United States
-    state: Texas
+    country: USA
+    state: California
     about:
-      - Located along the Loop 360 Corridor (also known as Capital of Texas Highway) in Northwest Austin, Westech 360 is an office park that comprises four Class B buildings. It enjoys excellent accessibility to the major business centres around Austin and is well served by two freeways and a network of primary and secondary neighbourhood roads.
-      - Tenants from the professional services as well as finance and insurance sectors largely occupy these buildings. The office park underwent significant capital improvements over the past few years, including an extensive upgrade of the landscaping, signage and lighting for the buildings to increase its visibility from Loop 360. 
-      - The property is a recipient of the US Environmental Protection Agency’s prestigious Energy STAR © label. 
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 628"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  173,058 sq ft"
-      - "Valuation as at June 2017  US$ 43.8m"
-
-  - name: 1800 West Loop South, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503648/Singapore/CMOU.SI/photos/image_bc0rzf.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7437
-    address: 1800 West Loop South, Houston, Harris County, Texas
+      - With its proximity to research institutions and leading pharmaceutical, diagnostic, medical device, and biofuel companies, San Diego boasts a geography that encourages collaboration among the science and business talent that gives the region its entrepreneurial edge. In addition, the shimmering Pacific Ocean and mild climate provide an unparalleled lifestyle and talent recruiting advantage.
+  - name: SEATTLE
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657855/USA/ARE/hhxzmzrx5w4zj4ttn3rs.png
+    link: http://www.are.com/seattle.html
+    address: null
     category: null
-    country: United States
-    state: Texas
+    country: USA
+    state: Washington
     about:
-      - Located in Uptown Houston in the Galleria submarket, 1800 West Loop South is a Class A landmark office tower. The property’s location within the well-established submarket offers close proximity to demand generators and local amenities. Additionally, its location within the uptown area has a significant household base to the north (Tanglewood) that is one of the wealthiest neighbourhoods in the Houston area.
-      - The property offers highly functional floorplates averaging 20,000 sq ft and can accommodate up to eight corner offices per floor. Recent asset enhancements include a complete renovation of the building lobby, elevator modernisation and an addition of a new conference room facility. 
-      - Its close proximity to major roads and public transportation with good accessibility to surrounding markets also benefitted its tenants from diverse trade sectors.
-      - 1800 West Loop South was the first high-rise office building in the city of Houston—and in the state of Texas, to receive the Leadership in Energy and Environmental Design (LEED) Silver Certification by the US Green Building Council for Existing Buildings. The building has since achieved LEED Gold status. Additionally, it is a multiple recipient of the US Environmental Protection Agency’s prestigious ENERGY STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,024"
-      - "Number of Storeys  21"
-      - "Net Lettable Area (NLA)  398,490 sq ft"
-      - "Valuation as at June 2017  UUS$ 82.0m"
-
-
-  - name: West Loop I & II, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503671/Singapore/CMOU.SI/photos/image_n3vx2y.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7436
-    address: 6565 and 6575 West Loop South, Bellaire, Harris County, Texas
+      - Seattle has become the location of choice for innovative companies, drawing on water views, easy freeway access, excellent public transportation, and an abundance of employee amenities. With nearly one million square feet of Class A office/laboratory space primarily clustered in South Lake Union, Alexandria is well situated to continue to meet the needs of the life science community within the current portfolio.
+  - name: MARYLAND
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657901/USA/ARE/apb61hxbdpjrpotdovwp.png
+    link: http://www.are.com/suburban-dc.html
+    address: null
     category: null
-    country: United States
-    state: Texas
+    country: USA
+    state: Maryland
     about:
-      - West Loop I & II features two Class A office buildings located in Bellaire, an affluent suburb in Houston, Texas which has a significant residential household base. The buildings underwent significant refurbishments in 2013 and 2014, resulting in remodelled entrances, complete elevator modernisations and improved chillers and cooling towers to help retain existing tenants and attract new tenancy. 
-      - Situated about six miles west of the Houston central business district, the property benefits from its location near the Medical Center which contributed to its high concentration of tenants from the healthcare and professional services sectors.
-      - Also, the property is located near major thoroughfares and public transportation with good accessibility to surrounding markets.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,044"
-      - "Number of Storeys  West Loop I: Eight; West Loop II: Seven"
-      - "Net Lettable Area (NLA)  313,873 sq ft"
-      - "Valuation as at June 2017  US$ 50.7m"
-
-
-  - name: Westmoor Center, Denver
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503707/Singapore/CMOU.SI/photos/image_x6umyc.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7435
-    address: 10055-10385 Westmoor Drive, Westminister, Colorado
+      - With facilities well situated along the I-270 Corridor (known as DNA Alley), Alexandria is a leading life science real estate provider in Maryland. A combination of federal agencies, leading academic institutions, and a large cluster of life science companies make this a strategic cluster location for Alexandria.             
+  - name: RESEARCH TRIANGLE
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574657972/USA/ARE/layamiztbvgpr9gcsa5v.png
+    link: http://www.are.com/research-triangle-park.html
+    address: null
     category: null
-    country: United States
-    state: Colorado
+    country: USA
+    state: null
     about:
-      - Westmoor Center is situated in Northwest Denver, comprising six Class A office buildings which are close to downtown Denver and Boulder, both of which are talent hubs. It is also within easy reach of large retail centres and a variety of entertainment and recreational facilities.
-      - Some major tenants of the property include Ball Aerospace, Oracle America, Convergys Corporation, Reed Group, Cabela's Inc, Health Inventures, LLC, and Zimmer Biomet Spine, Inc.. Asset enhancements such as a new access card system, upgraded lobby and common areas were completed at these buildings between 2014 to 2016.
-      - Westmoor Center is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 2,809"
-      - "Number of Storeys Two- to three-storey buildings"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 121.4m"
-
-  - name: Powers Ferry, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503735/Singapore/CMOU.SI/photos/image_f9jscc.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7434
-    address: 6190 Powers Ferry Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
-    state: Georgia
-    about:
-      - Powers Ferry is a Class B office building situated in the Cumberland/I-75 submarket of the Atlanta Office Market. The property benefits from being located within a well-established submarket that is easily accessible via Interstates 285 and 75, proximate to primary demand generators and local area amenities.
-      - n addition, the property is located within the city of Sandy Springs, which has a significant household base that supports professional and financial services and healthcare-related tenancy. In 2013, Powers Ferry renovated its common areas, conference facilities and tenant amenities to maintain and boost tenancy. 
-      - The property’s proximity to major Atlanta highways positions itself well for office usage as the building is easily accessible by potential tenants in the Atlanta metro area, which has enjoyed a steady stream of businesses relocating and expanding in the region.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 569"
-      - "Number of Storeys 6"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 19.2m"
-
-  - name: Northridge Center I and II, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503767/Singapore/CMOU.SI/photos/image_akepy2.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7432
-    address: 365 and 375 Northridge Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
-    state: Georgia
-    about:
-      - Northridge Center I & II features two Class B buildings, located in the Central Perimeter, one of the largest office submarkets in Atlanta, Georgia. Refurbished in 2011 with upgraded lobbies and common areas, Northridge Center I & II enjoys excellent access to affluent suburbs, medical facilities, interstate access and the Metropolitan Atlanta Rapid Transit Authority Rail System.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 724"
-      - "Number of Storeys Building 1: Four; Building 2: Six"
-      - "Net Lettable Area (NLA)  186,580 sq ft"
-      - "Valuation as at June 2017  US$ 20.5m"
-
-
-  - name: Maitland Promenade II, Orlando
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503798/Singapore/CMOU.SI/photos/image_cgr6wa.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7431
-    address: 495N Keller Road, Maitland, Orange County, Florida
-    category: null
-    country: United States
-    state: Florida
-    about:
-      - Maitland Promenade II is a Class A office building located in Orlando, Florida. Situated in the heart of Orlando's largest and well-established submarket, the Maitland Center and a few miles away from the central business district, the property is close to primary demand generators and amenities. Moreover, its location within the community of Maitland has a significant household base that supports professional and financial services and healthcare-related office tenancy.
-      - The property also provides direct access to destinations throughout the Orlando Metropolitan Statistical Area and Interstate 4 and is less than an hour's drive from the Orlando International Airport.
-      - Maitland Promenade II is designed and built with contemporary architecture, modern building systems, and highly functional floor plates which can accommodate large and small users. From 2013 to 2016, common areas in Maitland Promenade II were renovated and the property was equipped with a new conference facility.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,052"
-      - "Number of Storeys Eight (Five-storey office and three-storey parking garage)"
-      - "Net Lettable Area (NLA)  226,990 sq ft"
-      - "Valuation as at June 2017  US$ 43.4m"
+      - The Research Triangle has a long tradition of life science and agtech innovation. Home to the largest assemblage of leading industry crop protection and seed companies, renowned academic institutions – Duke University, the University of North Carolina, and North Carolina State University, skilled scientific and managerial talent, and an expanding pool of ag-focused venture capital,  the Research Triangle has emerged as the country's most important, dense, and diverse agtech cluster.
