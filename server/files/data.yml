@@ -1,273 +1,1528 @@
-company:
-  logo: https://res.cloudinary.com/reitscreener/image/upload/v1556502741/Singapore/CMOU.SI/phssotos/logo_eosqgg.jpg
-  name: Keppel Pacific Oak US REIT
+company: 
+  logo: https://res.cloudinary.com/reitscreener/image/upload/v1574060008/USA/DEI/hndiflqe4e9va7gflmvd.jpg
+  name: Douglas Emmett, Inc.
   images:
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994294/Singapore/CMOU.SI/photos/company/company1.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994287/Singapore/CMOU.SI/photos/company/company2.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994273/Singapore/CMOU.SI/photos/company/company3.png
-  companyInformation: http://www.kepkbsusreit.com/en/
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574060129/USA/DEI/company/er94xhn6pncnsaplc1yc.jpg
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574060115/USA/DEI/company/wcpi04cdm4lbiwknk1mu.jpg
+    - https://res.cloudinary.com/reitscreener/image/upload/v1574060073/USA/DEI/company/yeegi4kjkfmzif6j0yub.jpg
+  companyInformation: https://www.douglasemmett.com/
   about:
-    - Keppel Pacific Oak US REIT (KORE), previously known as Keppel-KBS US REIT, is a distinctive office REIT listed on the main board of the Singapore Exchange Securities Trading Limited (SGX-ST) on 9 November 2017. KORE's investment strategy is to principally invest in a diversified portfolio of income-producing commercial assets and real estate-related assets in key growth markets of the United States (US) with favourable economic and office fundamentals that are above the national average, so as to provide sustainable distributions and strong total returns for Unitholders.
-  location:
-    name: Keppel Pacific Oak US REIT Management Pte. Ltd.
-    address: 1 HabourFront Avenue 18-01 Keppel Bay Tower Singapore 098632
+    - Between 1971 and 1991, Dan Emmett and partners formed three real estate companies, which collaboratively engaged in the acquisition, development, redevelopment, operation and management of high-quality real estate assets within supply-constrained markets in Los Angeles County. While the early focus was on multifamily properties, the Company's investment focus evolved to include high-quality office properties and complementary retail space in California and Honolulu, Hawaii. Since 1993, Douglas Emmett has acquired a substantial majority of its portfolio through nine institutional funds.
+    - Today, Douglas Emmett, through our interest in our Operating Partnership and its subsidiaries, consolidated JVs and unconsolidated Funds owns and operates approximately 18.4 million square feet of Class A office space and 4,147 luxury apartment units in nine highly desirable submarkets in Los Angeles County, six of which are located in Los Angeles' Westside - Brentwood, Century City, Santa Monica, Beverly Hills, the Olympic Corridor, and Westwood - and three submarkets in the San Fernando Valley - Sherman Oaks/Encino, Warner Center/Woodland Hills, and Burbank. The Company's Honolulu office portfolio is located in the downtown central business district with multifamily properties in nearby suburban communities.
+    - The Company utilizes the same focused business strategy that was implemented by its founding principals - managing, developing, redeveloping and acquiring multifamily and commercial real estate in high barrier-to-entry submarkets that exhibit strong economic characteristics such as population and job growth, as well as inherent supply constraints, such as limited developable land due to natural and political barriers. The Company strives to capitalize on the experience of its seasoned management team to create continued value.
+  location: 
+    name: Corporate Headquarters 
+    address: 1299 Ocean Avenue, Suite 1000, Santa Monica, CA 90401
     contact:
-      fax: (65) 6803 1717
-      tel: (65) 6803 1818
-      email:  enquiries@kepkbsusreit.com
-    map: https://res.cloudinary.com/reitscreener/image/upload/v1555994268/Singapore/CMOU.SI/photos/map.png
+      tel: 310.255.7700
+      email: https://www.douglasemmett.com/contact-us
+    map: https://res.cloudinary.com/reitscreener/image/upload/v1574060373/USA/DEI/irinxkovyqevczhxwaus.png
 management:
-  - name: Mr David Snyder
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502850/Singapore/CMOU.SI/photos/image_gwnuup.jpg
-    positions:
-      - Chief Executive Officer / Chief Investment Officer
-    about:
-      - Prior to his employment with the Manager, Mr Snyder was a consultant to KBS where he oversaw overall management of the AFRT portfolio and assisted in formulating the operational strategy and tactics for the portfolio. From 2008 to 2015, Mr Snyder was the Chief Financial Officer at KBS where he managed and advised five non-traded REITs. In addition, he oversaw, directed and participated in all aspects of investor relations, finance, financial reporting, accounting and financial planning including the negotiation and management of a portfolio transfer of over 800 properties with a value of over US$1 billion.
-      - Mr Snyder started out as a Senior Accountant with Arthur Andersen LLP in 1993 where he was responsible for the design, testing and supervision of the financial statements of various public and private enterprises. From 1996 to 1997, Mr Snyder joined Regency Health Services as its Director of Financial Reporting. Subsequently, from 1998 to 2008, Mr Snyder was with Nationwide Health Properties, starting out as a Financial Controller before rising to become Vice President & Financial Controller in 2005. He was one of four members on the senior management team which determined the corporate strategy and financial decisions of the firm.
-      - Mr Snyder graduated with a Bachelor of Science in Business Administration from Biola University in La Mirada, California.
-
-  - name: Mr Andy Gwee
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502919/Singapore/CMOU.SI/photos/image_eatzqw.jpg
-    positions:
+  - name: Jordan L. Kaplan
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574060476/USA/DEI/ylazvmpxid0un3fjrvqg.jpg
+    positions: 
+      - President & Chief Executive Officer
+    about: 
+      - Mr. Kaplan has served as our Chief Executive Officer and President and a member of our Board since our inception. Mr. Kaplan joined our predecessor operating companies in 1986, co-founded our immediate predecessor in 1991 and served as the Chief Financial Officer for our predecessor operating companies from 1991 to 2006. Mr. Kaplan received his bachelor’s degree from the University of California, Santa Barbara in 1983 and his M.B.A. from the University of California, Los Angeles in 1986.
+  - name: Kenneth M. Panzer
+    image: null
+    positions: 
+      - Chief Operating Officer
+    about: 
+      - Mr. Panzer has served as our Chief Operating Officer and a member of our Board since 2006. Mr. Panzer joined our predecessor operating companies in 1984, co-founded our immediate predecessor in 1991 and served as the Chief Operating Officer of our predecessor operating companies from 1991 to 2006. Mr. Panzer received his bachelor’s degree from Penn State University in 1982.
+  - name: Kevin A. Crummy
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574061052/USA/DEI/mgbg2n76xiequxjjc3vk.jpg
+    positions: 
+      - Chief Investment Officer
+    about: 
+      - Kevin A. Crummy is our Chief Investment Officer. Prior to joining us in 2014, Mr. Crummy spent 20 years at Eastdil Secured, a real estate investment banking company, where he was a Managing Director responsible for sales and recapitalizations in Los Angeles, Hawaii and other major West Coast markets. Mr. Crummy also led the Eastdil Secured team that sourced Asian based capital for real estate transactions in the United States and Europe. Mr. Crummy holds a Bachelor of Business Administration and a Master of Science in Real Estate and Urban Land Economics from the University of Wisconsin School of Business.
+  - name: Peter D. Seymour
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1574061152/USA/DEI/wftibmtrxxzjxgytiubn.jpg
+    positions: 
       - Chief Financial Officer
-    about:
-      - Mr Gwee has more than 16 years of experience in the accounting, finance and auditing industry.
-      - Prior to joining Keppel-KBS US REIT Management, Mr Gwee was the Head of Finance of Keppel DC REIT Management, the manager of Keppel DC REIT. From 2012 to 2015, Mr Gwee was the Senior Finance Manager at Keppel Corporation, where he assisted the Chief Financial Officer and Group Controller in the Keppel Group's financial and reporting functions. In addition to these functions, he provided accounting and technical advisory to the various business units of the Keppel Group. From 2000 to 2012, Mr Gwee spent 12 years at PricewaterhouseCoopers LLP Singapore in an audit function where he was the engagement manager for leading clients and local listed groups.
-      - Mr Gwee graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from the Nanyang Technological University of Singapore. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Ms Grace Chia
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502992/Singapore/CMOU.SI/photos/image_fjexca.jpg
-    positions:
-      - Head of Investor Relations
-    about:
-      - Ms Chia has over 16 years of experience in corporate communications and investor relations. She started her career with Keppel Corporation and has held various positions within the Keppel Group over the last 16 years. Prior to joining the Manager, she was the Head, Investor Relations & Communications of Keppel Capital International. From 2014 to 2016, she was the Senior Manager of Investor Relations at Keppel REIT Management, the Manager of Keppel REIT, where she facilitated continuous two-way communication with investors, analysts and key stakeholders, as well as ensured clear and timely disclosure of pertinent information.
-      - Prior to that, Ms Chia was with the Group Corporate Communications division at Keppel Corporation where she managed the communications efforts for Keppel Group's offshore and marine and subsequently, the property division, for 14 years.
-      - Ms Chia graduated with a Bachelor of Commerce Degree from the University of Western Australia.
-
-  - name: Mr Chris Cheo
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503068/Singapore/CMOU.SI/photos/image_aplvv8.jpg
-    positions:
-      - Finance Manager
-    about:
-      - Prior to his appointment to the Manager, Mr Cheo was the Finance Manager of Keppel Capital International where he was responsible for financial and reporting functions.
-      - Mr Cheo started out as an Auditor at Deloitte & Touche LLP in 2008 in the general audit team. From 2010 to 2014, he joined DBS Bank Ltd. as an associate in the finance function of the stockbroking arm, where he led the general ledger accounting team and assisted in various functions including tax, statutory, financial and regulatory reporting. From 2014 to 2017, Mr Cheo was the Senior Manager of Leeden National Oxygen Ltd., where he oversaw the group consolidation and financial reporting function, established finance policies and conducted training for finance staff.
-      - Mr Cheo graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from Nanyang Technological University of Singapore in 2008. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Mr Tai Wai Kit
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503130/Singapore/CMOU.SI/photos/image_o7w46f.jpg
-    positions:
-      - Senior Investment Analyst
-    about:
-      - Mr Tai will support the Chief Executive Officer/Chief Investment Officer of Keppel-KBS US REIT Management with analytical, underwriting, and key investment thesis support.
-      - Prior to joining the Manager, he was a Senior Analyst in Keppel Capital International where he was responsible for sourcing and executing merger and acquisition opportunities. Mr Tai was responsible for leading the review of all 11 properties on Keppel's behalf, prior to the listing of Keppel-KBS US REIT. Additionally, Mr Tai had been involved in providing portfolio analysis and asset management support to the REITs and Trusts under Keppel Capital.
-      - Mr Tai was an analyst in Alpha Investment Partners from 2013 to 2016, where he was involved in various aspects of acquisition, asset management and portfolio management activities for the United States and European real estate and data centre markets.
-      - A Keppel Group Scholar, Mr Tai graduated with a Bachelor of Science (Real Estate) (Honours) with Specialisation in Real Estate Finance from the National University of Singapore.
+    about: 
+      - Mr. Seymour, joined Douglas Emmett in 2017 as its Chief Strategic Officer. Before joining Douglas Emmett, Mr. Seymour spent 20 years at The Walt Disney Company, where he had served as Executive Vice President and Chief Financial Officer of the Disney-ABC Television Group. Mr. Seymour holds a Bachelor of Arts degree from Stanford University and an M.B.A. from Stanford Graduate School of Business.
 
 trustStructure:
-  image: https://res.cloudinary.com/reitscreener/image/upload/v1556503206/Singapore/CMOU.SI/photos/image_lef47n.jpg
-
-videos:
-  - title: Reputable Asset Managers
-    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1556503280/Singapore/CMOU.SI/photos/hqdefault_kcxqzd.webp
-    link: https://youtu.be/AJw9WlGOFgQ
+  image: null
+videos: 
+  - title: Discover Warner Center Towers - The Ultimate Vertical Campus Environment located in the heart of Warner Center!
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574061649/USA/DEI/uxgbcq9sce1hzqjtvtw1.webp
+    link: https://www.douglasemmett.com/media/discover-warner-center-towers-the-ultimate-vertical-campus-environment-located-in-the-heart-of-warner-center
+    about: At Warner Center Towers, a lush park-like setting, best-in-class views of the San Fernando Valley and various on-site amenities are just the beginning. Discover an office campus environment unlike any other with office space availability to fit ANY requirement. 
+    date: January 7, 2017
+  - title: Spotlight Team Member | Maria Kaltner, Property Manager for Encino Terrace Center
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574061722/USA/DEI/g1ry8jwdq3euzamdrpdk.jpg
+    link: https://vimeo.com/126285547
     about: null
-    date: null
+    date: April 28, 2015
+  - title: Customer Success Story – Billy Rose and Santiago Arana of The Agency discuss their Brentwood office space concept
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574061795/USA/DEI/z2btxwxhk3rmhrbc2z5a.webp
+    link: https://www.douglasemmett.com/media/customer-success-story%E2%80%93billy-rose-and-santiago-arana-of-the-agency-discuss-their-brentwood-office-space-concept
+    about: Billy Rose (Founder & President) and Santiago Arana (Principal) of The Agency discuss their company's rise to success, company culture and experience working with Douglas Emmett and Douglas Emmett Builders to achieve a stunning creative and collaborative office design for their Brentwood office located at our property, 11777 San Vicente, in the heart of the Brentwood/San Vicente corridor.
+    date: January 7, 2017
+  - title: View From Above | A Stunning Aerial Video of Warner Center Towers
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1574061859/USA/DEI/kkwuswdmvymkkbfp5yom.webp
+    link: https://www.douglasemmett.com/media/view-from-above-a-stunning-aerial-video-of-warner-center-towers
+    about: null
+    date: October 15, 2017
 
 portfolios:
-  - name: The Plaza Buildings, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503378/Singapore/CMOU.SI/photos/image_ykslj3.jpg
-    link: https://www.koreusreit.com/portfolio/seattle/the-plaza-building/
-    address: 10800 and 10900 NE 8th Street, Bellevue, King County, Washington
-    category: null
-    country: United States
-    state: Washington
+  - name: 100 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062088/USA/DEI/oeyg1t87e3ouoh5ejg4n.jpg
+    link: https://www.douglasemmett.com/100-Wilshires
+    address: 100 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Situated along one of the busiest corridors in the Bellevue central business district in Seattle, The Plaza Buildings consists of two Class A office buildings - Plaza Center and US Bank Plaza, which are surrounded by an array of retail amenities, dining options and parks. Both buildings have been extensively refurbished to meet the needs of modern and premier tenants from diverse industries, including finance, computer system design and programming, as well as real estate.
-      - The buildings enjoy full-block frontage along NE 8th street, the primary east-west arterial in downtown Bellevue that connects commercial users to Interstate 405. The Bellevue Transit Center, which is being served by more than 20 bus routes around Seattle and the Eastside, is a short distance away from The Plaza Buildings.
-      - The Plaza Buildings was awarded the US Leadership in Energy and Environmental Design (LEED) Gold status
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,254"
-      - "Number of Storeys  Plaza Center: 16; US Bank Plaza: 10"
-      - "Net Lettable Area (NLA)  490,994 sq ft"
-      - "Valuation as at June 2017  US$243.9m"
-
-  - name: Bellevue Technology Center, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503476/Singapore/CMOU.SI/photos/image_bvhch2.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7441
-    address: 15805 NE 24th Street, Bellevue, King County, Washington
-    category: null
-    country: United States
-    state: Washington
+      - 100 Wilshire is a 255,398 square-foot, Class-A office building located on the prominent corner of Ocean and Wilshire Boulevard in Santa Monica. Located directly across from the picturesque Palisades Park, this 21-story tower is an iconic building noted for its distinctive nautical architectural features. 100 Wilshire is Southern California’s preeminent office address, where breathtaking ocean, mountain and city views are unmatched anywhere in the Greater Los Angeles area.
+      - "Property Features:"
+      - Breathtaking views of the Pacific Ocean, Santa Monica Mountains, the Malibu Coastline, and of Century City and Downtown Los Angeles
+      - Santa Monica Pier and beach within walking distance
+      - Retail bank located on ground floor
+      - Sundry shop/café on-site
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient and nearby access to the 10 Freeway and Pacific Coast Highway
+      - 24-hour on-site security
+      - Located just blocks from the renowned Third Street Promenade and the newly re-opened Santa Monica Place mall which offers a wide diversity of retail, food, and entertainment options
+      - On-site building management
+  - name: 1299 Ocean
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062424/USA/DEI/f8pqyzxybmxmlztafosl.jpg
+    link: https://www.douglasemmett.com/1299-Ocean
+    address: 1299 Ocean Avenue, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - The Bellevue Technology Center is located in the 520 Corridor submarket of the Seattle-Bellevue regional office market, and a few blocks away from the Microsoft global headquarters and Interstate 520 highway.
-      - Over the last five years, the office campus which features nine Class A/B buildings, has undergone capital improvements with an upgraded fitness centre, conference room, full-service café and new parking stalls. Its main tenants are from the financial services and technology sectors.
-      - Being situated close to Microsoft will benefit the Bellevue Technology Center as new ventures by Microsoft could result in an increase in vendors and contractors who work with the software company. This could drive demand for space at nearby properties, including the Bellevue Technology Center.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,320"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  330,508 sq ft"
-      - "Valuation as at June 2017  US$ 133.0m"
-
-  - name: BIron Point, Sacramento
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503561/Singapore/CMOU.SI/photos/image_gwxbfh.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7440
-    address: 1110-1180 Iron Point Rd, Folsom, Sacramento County, California
-    category: null
-    country: United States
-    state: California
+      - 1299 Ocean Avenue is a 206,840 square foot, 11 story, class-A office building located on exclusive Ocean Avenue.  Few buildings enjoy an address as prestigious as this with panoramic ocean and beach views, walking distance to over 100 restaurants, first-class hotels, luxury residences and high-end retail at the Third Street Promenade. Unique to 1299 Ocean are the incredible beach and ocean views available throughout the building.  The property is half a mile from the I-10 freeway, and adjacent to the California incline, Ocean Avenue, and Pacific Coast Highway providing the most direct commute to neighboring cities. 1299 Ocean Avenue is truly one of the premier office properties in Southern California.
+      - "Property Features:"
+      - Convenient and nearby access to the 10 Freeway and Pacific Coast Highway
+      - Exclusive beach-view suites throughout of the building
+      - Incredible views of the Pacific Ocean, Santa Monica Mountains, the Malibu Coastline, Century City and Downtown Los Angeles
+      - Walking distance to the Santa Monica pier and Santa Monica State Beach
+      - On-site building management
+      - 24 hour security
+      - A short walk to the world famous Third Street Promenade and the Santa Monica Place mall which offers a wide variety of retail, food, and entertainment options
+  - name: 2001 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062539/USA/DEI/cr6zp6dlkf3fuhfj55td.jpg
+    link: https://www.douglasemmett.com/2001-Wilshire
+    address: 2001 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Iron Point is centrally located in Folsom, Sacramento. Folsom is the preferred residence to many of Sacramento's higher income executives, hence positioning Iron Point as the choice business address.
-      - The five Class A office buildings are highly accessible via US Highway 50 and is close to numerous retail and service amenities. It is also located directly across Intel Corporation's Folsom Campus that serves as one of Intel's four major US sites.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,351"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  3211,887 sq ft"
-      - "Valuation as at June 2017  US$ 38.2m"
-
-  - name: Great Hills Plaza, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503602/Singapore/CMOU.SI/photos/image_j8mkka.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7439
-    address: 9600 Great Hills Trail, Austin, Texas
-    category: null
-    country: United States
-    state: Texas
+      - 2001 Wilshire Boulevard is a 111,294 square - foot Class-A office building situated at the corner of Wilshire Blvd and 20th Street in Santa Monica. This six-story reflective glass office building offers the prestige of a Santa Monica business address coupled with convenient access to Brentwood, Century City, and Westwood.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Marina Del Rey, and Santa Monica Mountains
+      - On-site security system and rover guard
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient access to the 405 and 10 freeways
+      - Energy Star labeled building
+      - Retail bank located on ground floor
+      - Close proximity to downtown Santa Monica and Montana Ave
+  - name: 233 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062680/USA/DEI/xi64xugwz1fop6vmrlfi.jpg
+    link: https://www.douglasemmett.com/233-Wilshire
+    address: 233 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Located in Northwest Austin, Texas, Great Hills Plaza is a Class B office building which is close to residential housing, retail centres including Arboretum - one of Austin's major retail centres, and is served by two freeways. The building is also minutes away from the Austin central business district.
-      - The property was upgraded recently and is occupied by tenants from a diverse range of trade sectors. It currently features a modernised lobby as well as remodeled atriums with enhanced landscaping.
-      - Great Hills Plaza is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 471"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  139,252 sq ft"
-      - "Valuation as at June 2017  US$ 33.3m"
-
-  - name: Westech 360, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503621/Singapore/CMOU.SI/photos/image_yfadou.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7438
-    address: 8911 N Capital of Texas Hwy, Austin, Texas
-    category: null
-    country: United States
-    state: Texas
+      - 233 Wilshire Boulevard is a prestigious class A office building located adjacent to the 3rd Street Promenade in the highly desirable Santa Monica submarket. This beautiful 9 story, 130,242 square foot office building appropriately named "SeaRise Tower" features stunning ocean and mountain views. The building has a newly renovated lobby, common areas, and subterranean parking. The close proximity to the Pacific Coast Highway and Santa Monica I-10 freeway also make 233 Wilshire Boulevard easily accessible and conveniently located.
+      - "Property Features:"
+      - Stunning beach, ocean and mountain views
+      - Retail bank located on ground floor
+      - Web based facility management system for tenant work orders and fire safety training
+      - Floor to ceiling glass in all suites
+      - Across the street from the world famous Third Street Promenade providing an abundance of restaurants, retailers, banks and more
+      - Easy access to Pacific coast highway and I-10 freeway
+  - name: 401 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062761/USA/DEI/onglzsgghj5v0vqhdlkc.jpg
+    link: https://www.douglasemmett.com/401-Wilshire
+    address: 401 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Located along the Loop 360 Corridor (also known as Capital of Texas Highway) in Northwest Austin, Westech 360 is an office park that comprises four Class B buildings. It enjoys excellent accessibility to the major business centres around Austin and is well served by two freeways and a network of primary and secondary neighbourhood roads.
-      - Tenants from the professional services as well as finance and insurance sectors largely occupy these buildings. The office park underwent significant capital improvements over the past few years, including an extensive upgrade of the landscaping, signage and lighting for the buildings to increase its visibility from Loop 360. 
-      - The property is a recipient of the US Environmental Protection Agency’s prestigious Energy STAR © label. 
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 628"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  173,058 sq ft"
-      - "Valuation as at June 2017  US$ 43.8m"
-
-  - name: 1800 West Loop South, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503648/Singapore/CMOU.SI/photos/image_bc0rzf.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7437
-    address: 1800 West Loop South, Houston, Harris County, Texas
-    category: null
-    country: United States
-    state: Texas
+      - 401 Wilshire is a 234,979 square-foot Class-A office building located in the heart of Downtown Santa Monica. This 12-story office building is distinguished by sharp architectural lines and a spacious exterior plaza complemented by modern interior finishes. 401 Wilshire features scenic views of the ocean, the Santa Monica Mountains and the City of Santa Monica.
+      - "Property Features:"
+      - Stunning views of the Pacific Ocean and the Santa Monica Mountains
+      - Walk to the Santa Monica Place mall which offers a wide diversity of retail, food, and entertainment options
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Located just one block from the renowned Third Street Promenade
+      - Convenient access to the 10 Freeway and the Pacific Coast Highway
+      - Retail bank located on ground floor
+      - Multi-million dollar common area renovation completed
+      - On-site building management
+  - name: 429 Santa Monica
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574062885/USA/DEI/b7lz8cstjvos7b4cq7ua.jpg
+    link: https://www.douglasemmett.com/429-Santa-Monica
+    address: 429 Santa Monica Boulevard, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Located in Uptown Houston in the Galleria submarket, 1800 West Loop South is a Class A landmark office tower. The property’s location within the well-established submarket offers close proximity to demand generators and local amenities. Additionally, its location within the uptown area has a significant household base to the north (Tanglewood) that is one of the wealthiest neighbourhoods in the Houston area.
-      - The property offers highly functional floorplates averaging 20,000 sq ft and can accommodate up to eight corner offices per floor. Recent asset enhancements include a complete renovation of the building lobby, elevator modernisation and an addition of a new conference room facility. 
-      - Its close proximity to major roads and public transportation with good accessibility to surrounding markets also benefitted its tenants from diverse trade sectors.
-      - 1800 West Loop South was the first high-rise office building in the city of Houston—and in the state of Texas, to receive the Leadership in Energy and Environmental Design (LEED) Silver Certification by the US Green Building Council for Existing Buildings. The building has since achieved LEED Gold status. Additionally, it is a multiple recipient of the US Environmental Protection Agency’s prestigious ENERGY STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,024"
-      - "Number of Storeys  21"
-      - "Net Lettable Area (NLA)  398,490 sq ft"
-      - "Valuation as at June 2017  UUS$ 82.0m"
-
-
-  - name: West Loop I & II, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503671/Singapore/CMOU.SI/photos/image_n3vx2y.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7436
-    address: 6565 and 6575 West Loop South, Bellaire, Harris County, Texas
-    category: null
-    country: United States
-    state: Texas
+      - 429 Santa Monica Boulevard is a 86,859 square foot, 7 story class-A office building in the heart of Downtown Santa Monica.  This property boasts outstanding ocean and mountain views as well as immediate access to public transit via both the new Santa Monica Expo Line and the rapid lane metro system that is three blocks from the Property.  Adjacent to the famous Third Street Promenade and walking distance to the coast, 429 Santa Monica Boulevard has the sophistication of being in a metropolitan city while enjoying the pace of a coastal lifestyle.  429 Santa Monica Boulevard stands in the middle of “Silicon Beach”, the coastal region of the city home to over 500 tech start-up companies.  Recently renovated, this building is a prominent fixture in the Santa Monica skyline. 
+      - "Property Features:"
+      - Located in the heart of "Silicon Beach" the coastal business district with over 500 new tech startups
+      - Adjacent to the world famous Third Street Promenade with over 100 restaurants and retailers
+      - Beautiful ocean view suites throughout the building
+      - With a walk score of 95 you cannot be in a more central location in Santa Monica with so many amenities at your fingertips         
+  - name: 808 Wilshire Boulevard
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574063046/USA/DEI/mnxxwad4jyianitfj876.jpg
+    link: https://www.douglasemmett.com/Lincoln-Wilshire
+    address: 808 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - West Loop I & II features two Class A office buildings located in Bellaire, an affluent suburb in Houston, Texas which has a significant residential household base. The buildings underwent significant refurbishments in 2013 and 2014, resulting in remodelled entrances, complete elevator modernisations and improved chillers and cooling towers to help retain existing tenants and attract new tenancy. 
-      - Situated about six miles west of the Houston central business district, the property benefits from its location near the Medical Center which contributed to its high concentration of tenants from the healthcare and professional services sectors.
-      - Also, the property is located near major thoroughfares and public transportation with good accessibility to surrounding markets.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,044"
-      - "Number of Storeys  West Loop I: Eight; West Loop II: Seven"
-      - "Net Lettable Area (NLA)  313,873 sq ft"
-      - "Valuation as at June 2017  US$ 50.7m"
-
-
-  - name: Westmoor Center, Denver
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503707/Singapore/CMOU.SI/photos/image_x6umyc.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7435
-    address: 10055-10385 Westmoor Drive, Westminister, Colorado
-    category: null
-    country: United States
-    state: Colorado
+      - Lincoln Wilshire is a 81,698 square-foot office building located on the prestigious corner of Lincoln Blvd. and Wilshire Blvd. in Santa Monica. The building's exterior architecture features elegant rose-colored, polished Italian granite, accentuated by a series of landscaped terraces.
+      - "Property Features:"
+      - Convenient and nearby access to the 10 Freeway and Pacific Coast Highway
+      - AT&T Mobile store located on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Within walking distance to the renowned Third Street Promenade and near the re-opened Santa Monica Place mall which offers a wide diversity of retail, food, and entertainment options
+  - name: Palisades Promenade
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574063159/USA/DEI/un0dv8avbm1rbpenitx0.jpg
+    link: https://www.douglasemmett.com/Palisades-Promenade
+    address: 120 Broadway, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Westmoor Center is situated in Northwest Denver, comprising six Class A office buildings which are close to downtown Denver and Boulder, both of which are talent hubs. It is also within easy reach of large retail centres and a variety of entertainment and recreational facilities.
-      - Some major tenants of the property include Ball Aerospace, Oracle America, Convergys Corporation, Reed Group, Cabela's Inc, Health Inventures, LLC, and Zimmer Biomet Spine, Inc.. Asset enhancements such as a new access card system, upgraded lobby and common areas were completed at these buildings between 2014 to 2016.
-      - Westmoor Center is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 2,809"
-      - "Number of Storeys Two- to three-storey buildings"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 121.4m"
-
-  - name: Powers Ferry, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503735/Singapore/CMOU.SI/photos/image_f9jscc.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7434
-    address: 6190 Powers Ferry Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
-    state: Georgia
+      - Palisades Promenade is a 101,431 square-foot, Class-A office building located in the heart of Downtown Santa Monica. This five-story building features modern granite exteriors and upscale interior finishes. Palisades Promenade is located just steps from Ocean Avenue and offers breathtaking views of the Pacific Ocean and Santa Monica Mountains.
+      - "Property Features:"
+      - Views of the Pacific Ocean to the West, and West Los Angeles
+      - Located directly across the street from the newly re-opened Santa Monica Place mall which offers a wide diversity of retail, food and entertainment options and near the Third Street Promenade
+      - Convenient access to the 10 Freeway and Pacific Coast Highway
+      - Restaurant located on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Santa Monica Square
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574063939/USA/DEI/esgg8qnaswzkanqy7xvw.png
+    link: https://www.douglasemmett.com/Santa-Monica-Square
+    address: 201 Santa Monica Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Powers Ferry is a Class B office building situated in the Cumberland/I-75 submarket of the Atlanta Office Market. The property benefits from being located within a well-established submarket that is easily accessible via Interstates 285 and 75, proximate to primary demand generators and local area amenities.
-      - n addition, the property is located within the city of Sandy Springs, which has a significant household base that supports professional and financial services and healthcare-related tenancy. In 2013, Powers Ferry renovated its common areas, conference facilities and tenant amenities to maintain and boost tenancy. 
-      - The property’s proximity to major Atlanta highways positions itself well for office usage as the building is easily accessible by potential tenants in the Atlanta metro area, which has enjoyed a steady stream of businesses relocating and expanding in the region.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 569"
-      - "Number of Storeys 6"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 19.2m"
-
-  - name: Northridge Center I and II, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503767/Singapore/CMOU.SI/photos/image_akepy2.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7432
-    address: 365 and 375 Northridge Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
-    state: Georgia
+      - Santa Monica Square is a 78,494 square-foot office building located in the heart of downtown Santa Monica. Santa Monica Square features a modern glass entry lobby and offers a full-service Equinox Gym on-site. The property is strategically located just steps from the Third Street Promenade.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean and Santa Monica
+      - Located just one block from the renowned Third Street Promenade and near the newly re-opened Santa Monica Place mall which offers a wide diversity of retail, food, and entertainment options
+      - Convenient access to the 10 Freeway and Pacific Coast Highway
+      - Retail bank located on ground floor
+      - Equinox Gym on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Second Street Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574064101/USA/DEI/zanpbls2yl554ldkevwt.jpg
+    link: https://www.douglasemmett.com/Second-Street-Plaza
+    address: 1333 2nd St, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Northridge Center I & II features two Class B buildings, located in the Central Perimeter, one of the largest office submarkets in Atlanta, Georgia. Refurbished in 2011 with upgraded lobbies and common areas, Northridge Center I & II enjoys excellent access to affluent suburbs, medical facilities, interstate access and the Metropolitan Atlanta Rapid Transit Authority Rail System.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 724"
-      - "Number of Storeys Building 1: Four; Building 2: Six"
-      - "Net Lettable Area (NLA)  186,580 sq ft"
-      - "Valuation as at June 2017  US$ 20.5m"
-
-
-  - name: Maitland Promenade II, Orlando
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503798/Singapore/CMOU.SI/photos/image_cgr6wa.jpg
-
-    link: http://www.kepkbsusreit.com/en/content.aspx?sid=7431
-    address: 495N Keller Road, Maitland, Orange County, Florida
-    category: null
-    country: United States
-    state: Florida
+      - Second Street Plaza is an 81,313 square-foot office building located in the heart of Downtown Santa Monica. This six-story office property features a modern precast exterior, complemented by tiered outdoor balconies and exquisite interior finishes. Second Street Plaza offers stunning views of the Pacific Ocean and Santa Monica.
+      - "Property Features:"
+      - Impressive views of the Pacific Ocean and Santa Monica
+      - Located just one block from the renowned Third Street Promenade and near the newly re-opened Santa Monica Place mall which offers a wide diversity of retail, food, and entertainment options
+      - Convenient freeway access to the 10 freeway and Pacific Coast Highway
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: The Verona
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574064176/USA/DEI/g3mmnstw7ygyjhtsha38.jpg
+    link: https://www.douglasemmett.com/the-verona 
+    address: 530 Wilshire Blvd, Santa Monica
+    category: Office
+    country: USA
+    state: CA
     about:
-      - Maitland Promenade II is a Class A office building located in Orlando, Florida. Situated in the heart of Orlando's largest and well-established submarket, the Maitland Center and a few miles away from the central business district, the property is close to primary demand generators and amenities. Moreover, its location within the community of Maitland has a significant household base that supports professional and financial services and healthcare-related office tenancy.
-      - The property also provides direct access to destinations throughout the Orlando Metropolitan Statistical Area and Interstate 4 and is less than an hour's drive from the Orlando International Airport.
-      - Maitland Promenade II is designed and built with contemporary architecture, modern building systems, and highly functional floor plates which can accommodate large and small users. From 2013 to 2016, common areas in Maitland Promenade II were renovated and the property was equipped with a new conference facility.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,052"
-      - "Number of Storeys Eight (Five-storey office and three-storey parking garage)"
-      - "Net Lettable Area (NLA)  226,990 sq ft"
-      - "Valuation as at June 2017  US$ 43.4m"
+      - The Verona is a 49,601 square-foot office building located in the heart of Santa Monica on prestigious Wilshire Blvd. The four-story office property features open-air balconies with views of the Santa Monica Mountains. It is located just three blocks from the renowned Third Street Promenade and the newly re-opened Santa Monica Place mall offering a wide diversity of retail, food, and entertainment options. The Verona is perfectly situated in an ideal downtown Santa Monica location.
+      - "Property Features:"
+      - Fantastic open-air balconies with picturesque views of the Santa Monica Mountains
+      - Located just three blocks from the renowned Third Street Promenade and the newly re-opened Santa Monica Place mall which offer a wide diversity of retail, food, and entertainment options
+      - Convenient access to the 10 freeway and the Pacific Coast Highway
+      - Café on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 150 South Rodeo Drive
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574064318/USA/DEI/dalt0g7f5bgz2pb4foq0.jpg
+    link: https://www.douglasemmett.com/150-South-Rodeo-Drive
+    address: 150 South Rodeo Dr, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - One block from the celebrated intersection of Wilshire Boulevard and Rodeo Drive, this building provides an office environment with a residential feel. 150 South Rodeo features a prominent front entrance and lobby, with a 53-seat screening room and large patio deck on its third floor. Management and engineering services are responsive to your needs, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort.  Experience a world famous hotel around the corner and fine dining virtually at your doorstep.
+      - "Property Features:"
+      - Located just one block from the world-renown shops and restaurants along Rodeo Drive
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Prestigious Rodeo Drive business address
+      - Screening room located on ground floor
+      - Convenient access to the 405 and 10 Freeways 
+  - name: 8383 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574064395/USA/DEI/tfq9imgvfryam2xjmyyl.jpg
+    link: https://www.douglasemmett.com/8383-Wilshire
+    address: 8383 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - One of the largest and most prestigious properties situated at the eastern tip of Beverly Hills, 8383 is located on the corner of Wilshire and San Vicente Boulevards.  With its sprawling plaza and magnificent lobby, it’s a visual beauty.  Featuring floor-to-ceiling windows, you will enjoy the panoramic views of the Hollywood Hills, Beverly Hills and downtown Los Angeles from your office and appreciate the modern common areas. Offering management and engineering services on site, the building has an integrated energy management system for optimal efficiency and comfort. Other on-site amenities include a yoga studio, beauty salon and café.
+      - "Property Features:"
+      - Convenient access to the 10 Freeway
+      - On-site building management
+      - Excellent views of Beverly Hills and the Hollywood Hills
+      - On-site Yoga Studio, Beauty Salon and Trimana Café
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 8484 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574065294/USA/DEI/zzdouwztm04r6dko464x.jpg
+    link: https://www.douglasemmett.com/8484-Wilshire
+    address: 8484 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - With a unique oval shape, bronze glass and statue of John Wayne riding his horse, 8484 Wilshire is one of Beverly Hills’ most recognizable properties. Enter a beautiful and pristine lobby with marble floors and from your office with floor-to-ceiling windows, experience panoramic views of the Hollywood Hills, Beverly Hills, and downtown Los Angeles. The building has management and engineering services on site, is Energy Star Certified by the EPA, and it has a fully integrated energy management system for optimal efficiency and comfort.  Other on-site amenities include a bank, printing service and courtyard deli.
+      - "Property Features:"
+      - Excellent views of Beverly Hills and the Hollywood Hills
+      - Convenient access to the 10 Freeway  
+      - Walking distance to an array of restaurants and other retail institutions
+      - On-site building management
+  - name: 9100 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574065411/USA/DEI/xdfgtv1hefson6yewf9v.jpg
+    link: https://www.douglasemmett.com/9100-Wilshire
+    address: 9100 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - A prime example of modernism architecture 9100 Wilshire offers a beautifully designed and recently remodeled central lobby connecting twin statuesque office towers.  The buildings have dramatic views of the Hollywood Hills, Beverly Hills, Downtown and Century City.  A gym, café, sundry shop, valet parking and car detailing services are located at the towers. With fully staffed management and engineering services, the buildings are also equipped with a fully integrated energy management system for optimal efficiency and comfort.  Some of Beverly Hills’ finest shopping and dining options are just minutes away. 
+      - "Property Features:"
+      - Breathtaking views of the Hollywood Hills, Beverly Hills, Century City and Downtown Los Angeles
+      - Convenient access to the 10 Freeway
+      - Café located on ground floor
+      - Car detailing service on-site
+      - 24-hour on-site security personnel
+      - Valet services available for both visitor and monthly VIP tenant parking
+      - LA Fitness Gym located on ground floor
+      - Gift/sundry shop on-site
+      - On-site building management
+      - Close proximity to retail shops and fine dining in Beverly Hills
+  - name: 9401 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574065510/USA/DEI/iemuqrvgtnhvmmhwrlj3.jpg
+    link: https://www.douglasemmett.com/9401-Wilshire
+    address: 9401 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 9401 Wilshire is immediately adjacent to some of the most luxurious hospitality and fine dining in the world and only two short blocks from renowned Rodeo Drive.  Receiving a state-of-the art face-lift, its location at the corner of Wilshire Boulevard and Canon Drive allows for incredible views of the Hollywood Hills and Downtown Los Angeles.  The Metro Purple Line is right outside the door and management and engineering services are on site.  The building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal comfort and design.  All that Beverly Hills has to offer is at your fingertips.
+      - "Product Features:"
+      - Beautiful views of Beverly Hills, Downtown Los Angeles, Century City and the Hollywood Hills
+      - Highly desireable location in the Beverly Hills 'Golden Triangle'
+      - Financial services located on the ground floor
+      - Adjacent to high-end dining on Canon Drive and walking distance to numerous casual eateries on South Beverly Drive
+      - Walking distance to world famous Rodeo Drive shopping corridor
+      - Walking distance from upcoming Metro Purple Line Subway Extension
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 9601 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574065683/USA/DEI/pyjm0i7lgedyk9cqdmgl.jpg
+    link: https://www.douglasemmett.com/9601-Wilshire
+    address: 9601 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 9601 Wilshire is one of Beverly Hills’ superior properties, offering luxurious amenities including an elite fitness club, upscale café, dry cleaners, flower shop and watch store. The modern, sleek lobby features marble, granite and white glass throughout. On-site management and engineering services are available, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort.  You can’t miss this property driving down Wilshire Boulevard at Camden, where you enter its parking structure and enjoy visitor valet parking.
+      - "Property Features:"
+      - One block from the world famous Rodeo Drive
+      - Energy Star labeled building
+      - Walter's 2 Go Café and Oliver's Café on-site
+      - Visitor valet parking available
+      - Convenient access to 405 and 10 Freeways
+      - Equinox Gym located on ground-floor
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 9665 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574065770/USA/DEI/x51tnsd2uleaonnjdd5q.jpg
+    link: https://www.douglasemmett.com/9665-Wilshire
+    address: 9665 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - With impressive views of the Hollywood Hills and Century City, at 9665 Wilshire you are a short walk to Rodeo Drive for luxurious shopping and dining. At Bedford and Wilshire, the convenience of Santa Monica Boulevard and the Metro Purple Line makes for an easy commute.  Management and engineering services are on site, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort. You will love the newly remodeled building and parking lobbies and the outdoor patio with iconic Charles Perry red abstract sculpture, landscaped planters and seating. 
+      - "Property Features:"
+      - Impressive views of the Hollywood Hills, Beverly Hills, Century City and Downtown Los Angeles
+      - Unrivaled location in the world famous Golden Triangle of Beverly Hills
+      - Outdoor patio with shaded tables and seating for tenants
+      - Walking distance to an abundance of eateries, shopping and various amenities
+      - Web based facility management system for tenant work orders and fire safety training
+      - On-site management
+      - Convenient access to 405 Freeway
+  - name: Beverly Hills Medical Center
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574066632/USA/DEI/tq0jspyywzaktesfzzky.jpg
+    link: https://www.douglasemmett.com/Beverly-Hills-Medical-Center
+    address: 8920 Wilshire Blvd, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Beverly Hills Medical Center is a first-rate medical building located less than two miles away from the noted Cedars-Sinai Medical Center.  Featuring views of the surrounding Beverly Hills area and the Hollywood Hills, you have all the amenities of a medical building available to you, including an on-site pharmacy, surgery center, valet parking with friendly attendants, and sundry shop with cafe. Or choose to walk to numerous restaurants nearby. Management and engineering services are on site, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort. 
+      - "Property Features:"
+      - Convenient access to the 10 Freeway
+      - Walking distance to a wide array of Beverly Hills retail shops, restaurants, and financial institutions
+      - On-site Sundry Shop/Café
+      - Visitor valet parking available
+      - Located less than two miles from prestigious Cedars-Sinai Medical Center
+      - On-site Pharmacy
+      - On-site Building Management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Camden Medical Arts
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574066807/USA/DEI/loymfrxou85e8k44ra7h.jpg
+    link: https://www.douglasemmett.com/Camden-Medical-Arts
+    address: 414 N. Camden Dr, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Camden Medical Arts is a high-end medical building located in the heart of Beverly Hills, just one block from world-famous Rodeo Drive. One of the tallest structures in the area, Camden Medical Arts has sweeping mountain and city views. Management and engineering services are responsive to your needs, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort. With its prime location and amenities, including a day spa, pharmacy, gift store and valet parking, Camden Medical Arts is one of the most desirable medical buildings in all of Los Angeles.
+      - "Property Features:"
+      - Sweeping city and mountain views
+      - Day Spa on-site
+      - Located in the heart of Beverly Hills, just one block from Rodeo Drive
+      - Pharmacy/Gift Shop on-site
+      - Visitor valet parking available
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Distinctive entrance featuring art deco décor
+      - Hair Salon on-site
+  - name: Carthay Campus
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574066939/USA/DEI/ixyatfank9tqhyydcmku.jpg
+    link: https://www.douglasemmett.com/Carthay-Campus
+    address: 6310-6330 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Twin towers rise at the site of the once famous movie palace of Hollywood’s Golden Age, the Carthay Circle Theatre.  It is a campus-style complex located at the gateway to Beverly Hills, where you can appreciate a quiet neighborhood conveniently just two blocks from Wilshire Boulevard. Surrounded by a beautiful landscaped and historic park marked by Juan Bautista de Anza’s historic trail from Mexico to California, enjoy park seating and outdoor tables for a pleasant lunch. Pick-up lunch at the building’s on-site deli.  Management and engineering services are on site and the building is equipped with a fully integrated energy management system for optimal efficiency and comfort. 
+      - "Property Features:"
+      - Twin five-story office buildings
+      - Panoramic views of Los Angeles
+      - Renovated lobbies, elevators, common areas and restrooms
+      - Beautifully landscaped park-like atmosphere
+      - On-site deli with outdoor seating
+      - Centrally located between Beverly Hills, Miracle Mile and Downtown
+  - name: Village on Canon
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067003/USA/DEI/ymfaneaqritwis6gpvfb.jpg
+    link: https://www.douglasemmett.com/Village-on-Canon
+    address: 301 N. Canon Dr, Beverly Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Village on Canon features distinct Mediterranean architecture.  Office suites surround a central courtyard with a cascading fountain, bronze sculptures, and hand-painted decorative tiles for a beautiful and relaxing atmosphere.  Management and engineering services are responsive to your needs, the Building is Energy Star Certified by the EPA, and it is equipped with a fully integrated energy management system for optimal efficiency and comfort.  You will also enjoy its trendy on-site restaurant has indoor and patio seating, great for a business meeting or people-watching.
+      - "Property Features:"
+      - Located just one block east of Beverly Drive
+      - Via Allora Restaurant located on ground floor
+      - Convenient access to the 10 and 405 Freeways
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 10880 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067265/USA/DEI/ibbjzshdy2fajw3pxlsk.jpg
+    link: https://www.douglasemmett.com/10880-Wilshire
+    address: 10880 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 10880 Wilshire sits in the very center of the action in Westwood at the corner of Wilshire and Westwood Boulevards. It boasts enduring architectural appeal and will soon feature a newly re-imagined arrival experience with a brand new lobby, lush landscaping and signature water feature. Its floor plans offer maximum perimeter windows for city and Westwood views. Management and engineering services are on site, the building is Energy Star Certified by the EPA and it has a fully integrated energy management system for optimal efficiency and comfort.  Beverly Hills, Century City, Brentwood and the 405 freeway are minutes away and theatres, shops and restaurants in Westwood Village are an easy walk.
+      - "Property Features:"
+      - Located at the "Gateway to Westwood" 10880 Wilshire is walking distance to Westwood Village, home to an abundance of restaurants, movie theaters, retailers and more
+      - Web based facility management system for tenant work orders and fire safety training
+      - Convenient access to 405 Freeway
+      - On-site building management
+      - Impressive panoramic views from the Pacific Ocean to Downtown Los Angeles
+      - Distinguished by a beautifully landscaped plaza, a distinctive portal entry
+      - Building has 24-hour manned security enhanced by a surveillance system and after-hours sign-in procedures
+  - name: 10960 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067427/USA/DEI/kvfmocex92pikqcopdcu.jpg
+    link: https://www.douglasemmett.com/10960-Wilshire
+    address: 10960 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - The central Wilshire Boulevard location offers immediate access to the San Diego Freeway, and multiple points of egress at Wilshire Boulevard and Ashton and Midvale Avenues. 24-hour manned security backed by a monitored surveillance system and after-hours key card access. Ample visitor space found in the adjacent covered parking structure and car detailing services are available. 10960 Wilshire's strong, clean architectural lines project a strong corporate image. The expansive lobby and plaza provide bright and contemporary public spaces and feature a park-like courtyard with seating at the southern entrance. Outstanding panoramic views from all floors. The view on the north side of the building captures Bel Air and the Getty Center, while the south side features an ocean view. The spacious and beautifully landscaped south plaza features table seating with umbrellas. The property also features a deli/carryout restaurant, an ATM, an overnight courier drop, and a car wash. This building was awarded an Energy Star label in 2010 for its operating efficiency.
+      - "Property Features:"
+      - Incredible views of the Santa Monica Mountains, Downtown Los Angeles and the surrounding landscape
+      - Home to the Westwood location of Equinox Gym
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders and fire safety training
+      - On-site café
+      - Beautiful park-like courtyard with abundant seating
+      - Convenient access to 405 Freeway
+      - On-site building management
+  - name: One Westwood
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067707/USA/DEI/ha5n5a3tbyebbtar6kfn.jpg
+    link: https://www.douglasemmett.com/One-Westwood
+    address: 10990 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - One Westwood is an award winning 205,961 square-foot, Class-A office property located at the forefront of the prestigious Wilshire corridor. The 17-story office tower is distinguished by its unique architecture and landmark location. One Westwood offers panoramic views of the Pacific Ocean, surrounding cityscapes and the Santa Monica Mountains. It is within close proximity to UCLA and Westwood Village.
+      - "Property Features:"
+      - Panoramic views of the Pacific Ocean, surrounding cityscapes and The Santa Monica Mountains
+      - Convenient access to the 405 and 10 freeways
+      - Energy Star labeled building
+      - On-site café
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Walking distance to UCLA, restaurants, movie theatres, museums and retail shops
+      - Winner of the 2007 Office Building of the Year Award (TOBY)
+      - 24-hour on-site security personnel
+      - On-site building management
+      - Full valet parking services available for visitors and monthly VIP tenants
+  - name: The Glendon Retail
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067881/USA/DEI/xxeexo9ai3gqbziiw8pe.jpg
+    link: https://www.douglasemmett.com/the-glendon-retail
+    address: 1067 Glendon Avenue, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - The Glendon is a beautiful mixed use residential/retail property located in the heart of Westwood. The Glendon is home to well known retailers such as Trader Joes and Rite Aid as well as being adjacent to Target.  Walking distance to Westwood Village, UCLA and UCLA Medical Center, The Glendon is unrivaled in convenience and location.
+      - "Property Features:"
+      - Located in the heart of Westwood Village
+      - Abundant parking and easy pedestrian access
+      - Steps from UCLA and UCLA Medical Center
+      - Premier mixed-use building in Westwood Village
+  - name: The Tower
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574067959/USA/DEI/yqoimjdc7ywebjdrctec.jpg
+    link: https://www.douglasemmett.com/The-Tower
+    address: 10940 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Designed by renowned architect Helmut Jahn, The Tower is constructed of Verde Antique granite, Brazilian Navy marble and Kasota limestone.  A 30-foot high, open-air solarium, featuring a distinct water fountain surrounded by palm trees, leads to a marble lobby and floor-to-ceiling glass windows.  The views of Bel Air, Getty Center and the ocean are spectacular. Energy Star Certified by the EPA, the building has management and engineering services and a fully integrated energy management system for optimal efficiency and comfort. Dine at the on-site café and enjoy an outdoor garden plaza with seating or in Westwood Village with its numerous restaurants.
+      - "Property Features:"
+      - Beautifully landscaped outdoor plaza
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders and fire safety training
+      - Granite, marble and limestone “Tower” with a 30 foot solarium
+      - Convenient access to 405 Freeway
+      - Walking distance to Westwood Village, UCLA, restaurants, movie theaters, museums and retail shops
+      - Incredible panoramic views from the Pacific Ocean to Downtown Los Angeles
+  - name: Westwood Center
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574068046/USA/DEI/pyqt7wutsm3jwbbwz569.jpg
+    link: https://www.douglasemmett.com/Westwood-Center
+    address: 1100 Glendon Ave, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Striking Westwood Center stands out as you drive along Wilshire Boulevard. A BOMA International Office Building of the Year award winner, this building is truly special. Through its floor-to-ceiling windows, you have unobstructed ocean and mountain views, and even a glimpse of the Hollywood sign.  The lobby is beautiful with abundant natural light. The property is Energy Star Certified by the EPA and has a fully integrated energy management system for optimal efficiency and comfort. Amenities include state-of-the-art communication systems, fiber optics and high-speed internet, a restaurant and an easy walk to numerous other restaurants in Westwood Village. 
+      - "Property Features:"
+      - Web based facility management system for tenant work orders and fire safety training
+      - Building boasts sweeping ocean and mountain views
+      - Suites enjoy floor to ceiling glass
+      - Located in Westwood Village, home to an abundance of restaurants, movie theaters, retailers and more
+      - Full service restaurant located on-site
+      - Convenient access to 405 freeway
+  - name: Westwood Place
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574068173/USA/DEI/naky31ta8ezz1wjpdpfl.jpg
+    link: https://www.douglasemmett.com/Westwood-Place
+    address: 10866 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - This building features a contemporary façade comprised of marble, glass and complemented by granite interiors. Take a short walk into Westwood Village for your dining, shopping and entertainment pleasure, or take a five-minute drive into Beverly Hills. View the beautiful Hammer Museum right across the street. Westwood Place offers fully staffed management and engineering services on site, is Energy Star Certified by the EPA and has a fully integrated energy management system for optimal efficiency and comfort. Easy parking access is located in the structure to the rear.
+      - "Property Features:"
+      - Stunning views of the Pacific Ocean, Santa Monica Mountains, Downtown, Bel Air, Century City, and Beverly Hills
+      - Energy Star labeled building
+      - On-site Building Management
+      - On-site Sundry shop/café
+      - Located adjacent to Westwood Village and UCLA
+      - Convenient access to the 405 freeway
+      - Retail bank located on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 11777 San Vicente
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574068342/USA/DEI/coqgnhrv9k6k4cyqwwnq.jpg
+    link: https://www.douglasemmett.com/11777-San-Vicente
+    address: 11777 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 11777 San Vicente is a 99,111 square-foot, Class-A office building located in the heart of the Brentwood-San Vicente corridor. The pedestrian oriented boulevard is noted for its beautiful coral tree-lined median. The nine-story building offers sweeping views of the Pacific Ocean, Los Angeles and the nearby Santa Monica Mountains. 11777 San Vicente also features a full-service bank and restaurant on the ground level.
+      - "Property Features:"
+      - Views of the Pacific Ocean, Los Angeles and Santa Monica Mountains
+      - Convenient access to the 405 Freeway
+      - Located just steps from a wide array of retail shops and restaurants
+      - Famed Katsuya restaurant located on ground floor
+      - Secured after-hours access entry system with evening and weekend roving security patrol
+      - 24-hour automated access controlled
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Retail bank located on ground floor
+  - name: 12100 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574129042/USA/DEI/gymczwrbf1hck0ec55c1.jpg
+    link: https://www.douglasemmett.com/12100-Wilshire
+    address: 12100 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 12100 Wilshire Boulevard is a prestigious class A office building located in the heart of West Los Angeles in the highly desirable Brentwood submarket. This beautiful 19 story, 365,325 square foot office building boasts bands of reflective glass and dark-gray granite as well as being easily identified by its ziggurat-style roofline providing for outdoor balconies on the top two floors.
+      - "Property Features:"
+      - BOMA TOBY Building of the Year in 2012
+      - Sweeping views of Los Angeles to the Pacific
+      - On-site building management
+      - Energy Star labeled building
+      - Retail bank located on the ground floor
+      - Convenient access to the 405 and 10 freeways
+  - name: 12400 Wilshire
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574129132/USA/DEI/wfnvmmhtngdsontrzsas.jpg
+    link: https://www.douglasemmett.com/12400-wilshire
+    address: 12400 Wilshire Blvd, Los Angeles
+    category: Office 
+    country: USA
+    state: CA
+    about:
+      - 12400 Wilshire is a prime 246,575 square-foot Class-A office building located in the heart of Brentwood. 12400 Wilshire boasts panoramic views of the Pacific Ocean, surrounding cityscapes, and dramatic mountain ranges.
+      - "Property Features:"
+      - Spacious atrium-style lobby
+      - On-site building management
+      - Convenient access to the 405 and 10 freeways
+      - Walking distance to an array of retail shops and restaurants along Wilshire Blvd
+      - Energy Star labeled building
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Excellent views of the Pacific Ocean, Santa Monica Mountains, and Downtown Los Angeles
+  - name: Barrington Plaza Commercial
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574129400/USA/DEI/k9gfz5psu6sxc8rgxrct.jpg
+    link: https://www.douglasemmett.com/Barrington-Plaza-Commercial
+    address: 11704 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Barrington Plaza Commercial is a 33,991 square-foot boutique office/retail center located in the heart of Brentwood. The two-story property features a mix of office tenants, service providers and retail shops and is strategically located on the corner of Barrington Ave and Wilshire Blvd.
+      - "Property Features:"
+      - Strategically located on the corner of Barrington Ave. and Wilshire Blvd. in Brentwood
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Walking distance to a wide array of retail shops, restaurants, and entertainment options
+      - Convenient access to the 405 and 10 freeways
+      - Bandera restaurant located on ground floor
+  - name: Brentwood Court
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574129481/USA/DEI/rozslosbflqg3nwvlmvd.jpg
+    link: https://www.douglasemmett.com/Brentwood-Court
+    address: 11990 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Brentwood Court is a 27,329 square-foot boutique office building located in the heart of the Brentwood/San Vicente corridor. The pedestrian oriented boulevard is noted for its beautiful coral tree-lined median. This three-story office building is within walking distance to an array of popular restaurants, retail shopping, and financial institutions along San Vicente Blvd. in Brentwood.
+      - "Property Features:"
+      - Great views of Getty center, Santa Monica Mountains and the Pacific Ocean
+      - Convenient access to the 405 Freeway
+      - Located just steps from a wide array of popular Brentwood retail shops, restaurants, and financial institutions
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Secured after-hours access entry system
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Brentwood Executive Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574129595/USA/DEI/xgmpzfpkhbwrhauffmcm.jpg
+    link: https://www.douglasemmett.com/Brentwood-Executive-Plaza
+    address: 11726 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Brentwood Executive Plaza is a 90,307 square-foot office building located in the heart of the Brentwood/San Vicente corridor. The pedestrian-oriented boulevard is noted for its beautiful coral tree-lined median. Brentwood Executive Plaza is one of the area’s finest office buildings.
+      - "Property Features:"
+      - Views of the city of Los Angeles and surrounding mountains
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Chang’s Chinese Restaurant located on ground floor
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Located just steps from a wide array of retail shops and restaurants
+      - Convenient access to the 405 and 10 Freeways
+      - Retail bank and print shop located on ground floor
+      - On-site Building Management
+  - name: Brentwood Medical Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574130303/USA/DEI/dylwq017fv17zjxwyan2.jpg
+    link: https://www.douglasemmett.com/brentwood-medical-plaza
+    address: 11980 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Brentwood Medical Plaza is a 89,476 square-foot medical building located in the heart of the Brentwood/San Vicente corridor. This nine-story medical building is within close proximity to the UCLA Medical Center, St. John's Medical Center and Santa Monica hospitals. Brentwood Medical Plaza offers the amenities of a premium medical building such as an on-site pharmacy and also features a prime location on San Vicente Blvd. The pedestrian-oriented boulevard is noted for its beautiful coral tree-lined median.
+      - "Property Features:"
+      - On-site gym and pharmacy
+      - Convenient access to the 405 Freeway
+      - Located just steps from a wide array of popular Brentwood retail shops, restaurants, and financial institutions
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Valet-assisted visitor parking
+      - Secured access entry with evening and weekend security guard
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Excellent views of the Getty Center, Santa Monica Mountains and the Pacific Ocean
+  - name: Brentwood Saltair
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574130534/USA/DEI/ywccrzv4junooh4t9jyl.jpg
+    link: https://www.douglasemmett.com/brentwood-saltair
+    address: 11999 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Brentwood Saltair is a 60,502 square-foot office building located in the heart of Brentwood/San Vicente corridor. The pedestrian-oriented boulevard is noted for its beautiful coral tree-lined median. Many office suites at Brentwood Saltair feature access to terraces with views of the Pacific Ocean and Santa Monica Mountains.
+      - "Property Features:"
+      - Excellent views of the Getty Center and the Santa Monica Mountains
+      - Convenient access to the 405 Freeway
+      - Secured after-hours access entry system with evening and weekend security guard
+      - Located just steps from a wide array of popular Brentwood retail shops, restaurants and financial institutions
+      - Close proximity to exclusive Westside residential neighborhoods
+      - All corridors fully renovated as of 2009
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - On-site building management
+  - name: Brentwood San Vicente Medical
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574130631/USA/DEI/jp1gughbfr09q7jdxota.jpg
+    link: https://www.douglasemmett.com/brentwood-san-vicente-medical
+    address: 11633 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Brentwood San Vicente Medical Building is a 46,953 square-foot medical office building located in the heart of the Brentwood/San Vicente corridor. The pedestrian-oriented boulevard is noted for its beautiful coral tree-lined median. The property provides high-end medical office space to a variety of health service providers and is situated near the UCLA campus and medical center.
+      - "Property Features:"
+      - Views of the city of Los Angeles and surrounding mountains
+      - Convenient access to the 405 Freeway
+      - Located just steps from a wide array of popular Brentwood retail shops, restaurants, and financial institutions
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Famed Toscana Italian Restaurant located on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Coral Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574131126/USA/DEI/lyvtcq0cgbo6ska1fble.jpg
+    link: https://www.douglasemmett.com/Coral-Plaza
+    address: 11812 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Coral Plaza is a 73,423 square-foot office building located in the heart of the Brentwood/San Vicente corridor. The pedestrian-oriented boulevard is noted for its beautiful coral tree-lined median. This six-story property offers sweeping views of the city of Los Angeles and the Santa Monica Mountains.
+      - "Property Features:"
+      - Convenient access to the 405 Freeway
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Walking distance to a wide array of Brentwood retail shops, restaurants and financial institutions
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - 24-hour automated access controlled
+      - Views of the Santa Monica Mountains and the City of Los Angeles
+      - Secured after-hours access entry system with evening and weekend roving security patrol
+  - name: Gateway Los Angeles
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574131319/USA/DEI/oadgoh5topamcryxjc2z.jpg
+    link: https://www.douglasemmett.com/Gateway-Los-Angeles
+    address: 12424 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Gateway Los Angeles is a 154,898 square-foot office property on Wilshire Boulevard in Brentwood. Gateway Los Angeles is conveniently located near the Santa Monica and San Diego Freeways and offers panoramic views of the Pacific Ocean, Los Angeles and the Santa Monica Mountains.
+      - "Property Features:"
+      - Sweeping views of the Pacific Ocean, Los Angeles and the Santa Monica Mountains.
+      - Energy Star labeled building
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Retail bank on-site
+      - Walking distance to an array of retail shops and restaurants on Wilshire Blvd.
+      - Sundry/sandwich shop on-site
+      - Close proximity to Westwood, Brentwood and Santa Monica
+      - Convenient access to the 405 and 10 Freeways
+      - Full-service Gym located on ground floor
+  - name: Landmark II
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574135789/USA/DEI/jo7sduj13p8moofisovd.jpg
+    link: https://www.douglasemmett.com/Landmark-II
+    address: 11766 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA 
+    about:
+      - Landmark II is a 393,744 square-foot Class-A office building located in the heart of the Brentwood/Wilshire corridor. Landmark II features a modern glass and stone exterior, accentuated by granite and marble interior finishes. A cascading waterfall and contemporary art in the lobby create a sophisticated business setting.
+      - "Property Features:"
+      - Sweeping views of the Pacific Ocean and the Santa Monica Mountains
+      - Retail bank located on the ground floor
+      - Energy Star labeled building
+      - On-site building management
+      - Convenient access to the 405 and 10 freeways
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - 24-hour on-site security personnel
+      - Sundry shop/café on-site
+      - Private gym available for tenants at discounted rates
+  - name: Saltair San Vicente
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574135977/USA/DEI/ghp2bzlytvr47zwm8khl.jpg
+    link: https://www.douglasemmett.com/Saltair-San-Vicente
+    address: 12011 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Saltair San Vicente is a 55,730 square-foot office property located in the heart of the Brentwood/San Vicente corridor. The pedestrian oriented boulevard is noted for its beautiful coral tree-lined median. This upscale, seven-story office building offers sweeping views of the Pacific Ocean, Los Angeles and the Santa Monica Mountains.
+      - "Property Features:"
+      - Sweeping views of the Pacific Ocean, Los Angeles and the Santa Monica Mountains
+      - Convenient access to 405 freeway
+      - Located just steps from a wide array of Brentwood retail shops, restaurants and financial institutions
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Close proximity to exclusive Westside residential neighborhoods
+      - Retail bank located on ground-floor
+      - Secured access entry system with evening and weekend security guard hour
+  - name: San Vicente Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136065/USA/DEI/vbpkvfgszevlw8movait.jpg
+    link: https://www.douglasemmett.com/San-Vicente-Plaza
+    address: 11740 San Vicente Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - San Vicente Plaza is a 34,632 square-foot retail center located in the heart of the Brentwood/San Vicente corridor. The pedestrian oriented boulevard is noted for its beautiful coral tree-lined median. As one of the most recognizable retail centers in the area, San Vicente Plaza offers the remarkable prestige of a landmark location in the heart of the trendy San Vicente/Brentwood corridor.
+      - "Property Features:"
+      - Located just steps from a wide array of Brentwood retail shops and restaurants, and financial institutions
+      - Located on a heavily-trafficked intersection
+      - Valet-assisted parking for visitors
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Well known tenants include La Scala Italian Restaurant, Chin Chin, Burger Lounge, GNC, Fresh Brother Pizza and many more
+      - Convenient access to the 405 Freeway
+      - Evening and weekend roving security patrol
+      - Close proximity to exclusive Westside residential neighborhoods
+  - name: Wilshire Bundy Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136249/USA/DEI/fq3z23ivo0gooaqquj5c.jpg
+    link: https://www.douglasemmett.com/Wilshire-Bundy-Plaza
+    address: 12121 Wilshire Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Wilshire Bundy Plaza is a 313,749 RSF Class-A office building located on the prominent corner of Wilshire Blvd and Bundy Drive in the heart of Brentwood. The building offers spectacular views of the Santa Monica Mountains and Pacific Ocean and is conveniently located within a close proximity to the 405 and 10 Freeways.
+      - "Property Features:"
+      - Sweeping views of the Pacific Ocean and the Santa Monica Mountains
+      - Retail Bank and printshop on-site
+      - 24-hour on-site security personnel
+      - Walking distance to an array of high-end restaurants and retail institutions
+      - Convenient access to the 405 and 10 freeways
+      - Energy Star labeled building
+      - Sundry shop/café on-site
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: The Trillium
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136398/USA/DEI/koukt57zgcu43un3hjaj.jpg
+    link: https://www.douglasemmett.com/The-Trillium
+    address: 6300-6320 Canoga Ave, Woodland Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Distinctive twin high-rise towers featuring spectacular views and timeless architectural style in a campus-like setting make The Trillium a premiere office locale. Enjoy a new private park with lush landscaping, tranquil water features, fire pits and abundant seating. Trillium has management and engineering services on site, is Energy Star Certified by the EPA, and has a fully integrated energy management system for optimal efficiency and comfort. Perfectly situated for 101 freeway, Ventura Boulevard and the Metro Orange Line access, you are also within walking distance of numerous shopping, dining, fitness and entertainment destinations. On-site amenities include a café, restaurant and The Hilton Hotel with Conference Center.
+      - "Property Features:"
+      - Breathtaking views of the San Fernando Valley
+      - Immediately adjacent to Hilton Hotel
+      - On-site deli/cafe
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient access to the 101 freeway
+      - On-site building management
+      - 24-hour security personnel
+      - Located within close proximity to the Westfield Topanga & Promenade Shopping Mall
+  - name: Warner Center Towers
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136493/USA/DEI/s1ckyramx9ggrpkr7xrj.jpg
+    link: https://www.douglasemmett.com/Warner-Center-Towers
+    address: 21500-21800 Oxnard St, Woodland Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Warner Center Towers is one of Southern California’s  largest and most prestigious office complexes. Located a few minutes from the 101 Freeway, in the heart of the master-planned Warner Center community in Woodland Hills, Warner Center Towers offers nearly 2 million  square feet of premiere office space in five shimmering high-rise office towers. Spectacular panoramic views of the San Fernando Valley and surrounding mountains are seen from most suites. The high-rise campus-like setting features exquisitely  landscaped plazas and stunning water features. Enjoy the surroundings while you have lunch at either a sit-down restaurant or casual dining choices located  onsite. The buildings offer on-site fully staffed management and engineering services, a fully integrated energy management system for optimal efficiency and comfort, and 24-hour monitored and manned security. The property’s other amenities include banks, sundry shops, dry cleaning and car detailing services. Join the luxurious Equinox Fitness Club where at Earth Bar you can enjoy a juice or snack, or dine at Trejo’s Cantina  or one of three cafes on site, including Trimana Grill. Banquet and conference room facilities are available  at the adjacent Marriott Hotel, and located just across the street is the Westfield Topanga and Village Shopping Center for countless other dining and entertainment choices. Warner Center Towers is everything you could ask for in a work environment.
+      - "Property Features:"
+      - Award-winning grounds, landscaped plazas and waterfalls
+      - Breathtaking views of the Santa Monica Mountains and San Fernando Valley
+      - Trimana Restaurant and two sundry shops on-site
+      - Convenient access to the 101 freeway
+      - Equinox Gym on-site
+      - 24-hour on-site security personnel
+      - Noble Dry Cleaners and Auto Detailing/Car Wash Service on-site
+      - Located directly adjacent to the Westfield Topanga & Promenade Shopping Mall and Marriott Hotel at Warner Center
+      - Multi-million dollar renovations recently completed
+      - Energy Star labeled buildings
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Warner Corporate Center
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136699/USA/DEI/iesbelu9onzmcmuox6d3.jpg
+    link: https://www.douglasemmett.com/Warner-Corporate-Center
+    address: 21300 Victory Blvd, Woodland Hills
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Warner Corporate Center is located on Victory Boulevard near Canoga Avenue in Woodland Hills, with panoramic views of the mountains and the Valley. The property boasts lovely landscaped grounds and a prominent water feature. Entering from the parking structure, you will pass through a courtyard to a beautiful recently remodeled lobby. The property offers management and engineering services on site, is Energy Star Certified by the EPA and has a fully  integrated energy management system for optimal efficiency and comfort. Warner Corporate Center is directly adjacent  to the Hilton Hotel, LA Fitness and is walking distance from numerous shopping, dining and entertainment venues. 
+      - "Property Features:"
+      - Floor-to-Ceiling panoramic views of the San Fernando Valley
+      - Close proximity to the Westfield Topanga & Promenade Shopping Mall, Starbucks, Cheesecake Factory, Morton's Steakhouse, BJ's Brewery and Gaucho Grill
+      - On-site building management
+      - Common area renovations completed on multiple floors
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Recently completed main lobby renovation
+      - Convenient access to the 101 Freeway
+  - name: Bundy Olympic
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136842/USA/DEI/mht5eyfnvqz8ooxe9h6q.jpg
+    link: https://www.douglasemmett.com/Bundy-Olympic
+    address: 11900 W. Olympic Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Bundy Olympic is a 115,837 square-foot Class-A office building located in the prestigious Olympic Corridor submarket of Los Angeles. This eight-story contemporary office building features a distinctive precast and glass exterior, complemented by granite interior finishes. This statuesque office building offers panoramic views of the Pacific Ocean and surrounding cityscapes.
+      - "Property Features:"
+      - Within close proximity to a variety of retail shops, restaurants, and financial institutions.
+      - Views of the city of Los Angeles, ocean, and Santa Monica Mountains
+      - Convenient access to the 10 and 405 freeways
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Located in the heart of the prestigious Olympic Corridor
+  - name: Cornerstone Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574136944/USA/DEI/k2khxdvfduug6ocgvva4.jpg
+    link: https://www.douglasemmett.com/Cornerstone-Plaza
+    address: 1990 S. Bundy Dr, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Cornerstone Plaza is a 177,954 square-foot Class-A office building located in the heart of the Olympic Corridor. The prestigious eight-story building is distinguished by an impressive architectural design which provides exterior terraces on virtually every floor. Cornerstone Plaza offers unobstructed panoramic views of the Pacific Ocean and surrounding cityscapes.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean and Santa Monica Mountains
+      - Convenient access to the 10 and 405 freeways
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Multi-million dollar common area renovation recently completed
+      - On-site Garden Café
+      - Located in the heart of the prestigious Olympic Corridor
+  - name: Executive Tower
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137041/USA/DEI/eiqmiyzujqunmobymqej.jpg
+    link: https://www.douglasemmett.com/Executive-Tower
+    address: 11400 W. Olympic Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Executive Tower is a prestigious Class-A office property located in the heart of the Olympic Corridor. Two exterior 25-foot cascading waterfalls look onto the 17-story reflective glass façade. The building offers fantastic on-site amenities as well as an art deco lobby with granite floors and marble accents. Executive Tower is the epitome of a prestigious office building in a prime location.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Downtown Los Angeles, Century City, Bel Air and Beverly Hills
+      - Walking distance to a wide array of retail shops and restaurants
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient freeway access to the 405 and 10 Freeways
+      - Il Moro Italian Restaurant on ground floor
+      - Krav Maga Fitness Center on ground floor
+      - On-site sundry shop
+      - 24-hour on-site security personnel
+  - name: Olympic Center
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137174/USA/DEI/rwalasqjqwiqqx9mvn2h.jpg
+    link: https://www.douglasemmett.com/Olympic-Center
+    address: 11150 W. Olympic Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - The Olympic Center is a 165,898 square-foot office building located at the forefront of the Olympic Corridor. Its 11 stories provide picturesque views of the Pacific Ocean, Downtown Los Angeles, Century City, Bel Air, and Beverly Hills. Recent renovations have been completed on all corridors.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Downtown, Century City, Bel Air and Beverly Hills
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Walking distance to numerous restaurants & retail shops on Sawtelle Blvd & Olympic Blvd
+      - Convenient access to the 405 and 10 freeways
+      - All common corridors recently renovated
+      - Retail bank located on ground floor
+  - name: Westside Towers
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137297/USA/DEI/axjs21pzywbf3qfdxniz.jpg
+    link: https://www.douglasemmett.com/Westside-Towers
+    address: 11835-45 W. Olympic Blvd, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Westside Towers is comprised of twin Class-A office towers totaling 423,273 square-feet in the heart of the Olympic Corridor. The two magnificent 12-story distinctive office towers offer panoramic views of the Pacific Ocean, surrounding cityscapes and mountain ranges.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Westwood, Century City and Downtown Los Angeles
+      - On-site Building Management
+      - Gym on-site
+      - Walking distance to an array of retail institutions including Trader Joes, Walgreens, Ralphs and Bed Bath & Beyond
+      - Convenient access to the 405 and 10 freeways
+      - Retail bank located on ground floor
+      - Energy Star labeled building
+      - Sundry Shop on-site
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 1901 Avenue of the Stars
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137417/USA/DEI/euhusj8bcbwewyoqghul.jpg
+    link: https://www.douglasemmett.com/1901-Avenue-of-the-Stars
+    address: 1901 Avenue of the Stars, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - 1901 Avenue of the Stars is a premier 520,327 square-foot Class-A office property situated in the heart of Century City. 1901 Avenue of the Stars offers spectacular views of the Pacific Ocean, Santa Monica Mountains and the downtown Los Angeles skyline. The property is strategically located directly adjacent to the Westfield Shopping Center, which features an extensive array of shopping and dining options. 1901 Avenue of the Stars is among Century City’s most prestigious and desirable office properties.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Hollywood Hills, Downtown Los Angeles, Bel Air, and Beverly Hills
+      - Winner of the 2008 Office Building of the Year Award (TOBY)
+      - Retail bank located on ground floor
+      - On-site café
+      - Located directly adjacent to the Westfield Shopping Center offering an array of shopping venues, movie theatres and popular restaurants
+      - Beautiful expansive lobby featuring glass and marble finishes throughout
+      - Valet-assisted visitor parking
+      - Convenient access to the 405 and 10 freeways
+  - name: Century Park Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137515/USA/DEI/ohnlhclb5tktkglv7ca1.jpg
+    link: https://www.douglasemmett.com/Century-Park-Plaza
+    address: 1801 Century Park East, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Century Park Plaza is a 386,863 square-foot, Class-A office building located in the heart of Century City. This 26-story office tower is strategically situated to provide impressive views of the Pacific Ocean, Santa Monica Mountains, Hollywood Hills and the Los Angeles Country Club golf course. The property features floor-to-ceiling glass windows and a modern diagonal architectural design.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Hollywood Hills, Downtown Los Angeles, Bel Air, and Beverly Hills
+      - Convenient access to the 405 and 10 Freeways
+      - 24-hour on-site security personnel
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Within short walking distance to the Westfield Shopping Center offering an array of shopping venues, movie theatres and popular restaurants
+      - Energy Star labeled building
+      - On-site sundry shop, café and print shop
+      - Full valet parking services available for visitors and monthly VIP tenants
+  - name: Century Park West
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137673/USA/DEI/rxpgkmeqtkuccic6bavr.jpg
+    link: https://www.douglasemmett.com/Century-Park-West
+    address: 1801 Century Park West, Los Angeles
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Century Park West is a 50,079 square-foot office building located in Century City. Century Park West offers impressive views of the Pacific Ocean, the Santa Monica Mountains and the Hollywood Hills. Situated at the forefront of Century City, Century Park West, features floor-to-ceiling glass windows and modern finishes.
+      - "Property Features:"
+      - Excellent views of the Pacific Ocean, Hollywood Hills, Downtown Los Angeles, Bel Air, Beverly Hills and the Los Angeles Country Club golf course
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Located directly adjacent to the Westfield Shopping Center which offers an array of shopping venues, movie theatres and popular restaurants
+      - Convenient access to the 405 and 10 freeways
+  - name: 15250 Ventura
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574137906/USA/DEI/ibch2zbpchveooa41miv.jpg
+    link: https://www.douglasemmett.com/15250-Ventura
+    address: 15250 Ventura Blvd, Sherman Oaks
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - This mid-rise building will welcome you under its archway, where courteous parking attendants will greet you. All floors have an airy and light elevator lobby, and the single corridor makes it easy for your visitors to find your new office. 15250 is located at the intersection of Ventura and Sepulveda Boulevards and offers excellent access to the 101 and 405 freeways. Right across the street the Sherman Oaks Galleria offers a wide variety of dining, shopping and entertainment. The building offers management and engineering  services, and has a fully integrated energy management system for optimal efficiency and comfort. 
+      - "Property Features:"
+      - Twelve-story office building in a very prime location
+      - Within walking distance to the Sherman Oaks Galleria with restaurants, shops, 24-hr Fitness and Arclight Cinemas
+      - Lobby featuring glass and granite finishes throughout
+      - Excellent access to the Ventura (101) and San Diego (405) freeways
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: 16000 Ventura
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574138007/USA/DEI/hrbxbldn8r47bpfxe97v.jpg
+    link: https://www.douglasemmett.com/16000-Ventura
+    address: 16000 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - At the center of the Encino business district, this eye-popping, reflective glass property boasts efficiency from top to bottom. Walk from the attached parking structure directly into the chic marble lobby. This property has large floor plates to accommodate any office space required. Your office suite will have a  stunning view of the mountains or across the Valley. 16000 Ventura offers management and engineering services on site, is Energy Star certified by the EPA, and has a fully integrated energy management system for optimal efficiency and comfort. On-site amenities include a bank, café, car detail service and ample storage space to lease.   
+      - "Property Features:"
+      - High-profile, twelve-story Class-A office building
+      - Situated in the heart of the Encino financial district
+      - Web based facility management system for tenant work orders, fire safety training
+      - Excellent views of the San Fernando Valley
+      - Within walking distance to numerous restaurants and retail shop
+      - Convenient access to the Ventura (101) and San Diego (405) freeways
+      - On-site building management
+      - Close proximity to the Sherman Oaks Galleria Shopping Center
+  - name: 16501 Ventura
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574138087/USA/DEI/wurl6eaqzmummlpojosl.jpg
+    link: https://www.douglasemmett.com/16501-Ventura
+    address: 16501 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - On the corner of Ventura Boulevard and Hayvenhurst Avenue, with Gelson’s on one corner and Ralph’s/CVS shopping center on yet another, this property is at the hub of Encino.  It has a campus-like feel, with a lush landscaped exterior plaza and water feature, perfect for a lunch spot or just enjoying the sunshine.  As a bonus, it has ample storage space to lease.  Convenient to the 101 freeway and minutes from the 405 interchange, 16501 offers fully staffed management and engineering services, is Energy Star Certified by the EPA and has a fully integrated energy management system for optimal efficiency and comfort. 
+      - "Property Features:"
+      - Newly renovated common areas
+      - Expansive views of the San Fernando Valley
+      - Walking distance to an array of retail shops and restaurants on Ventura Blvd.
+      - Newly upgraded HVAC system
+      - Convenient access to the 101 and 405 Freeways
+      - On-site building management
+      - Web based facility management system for tenant work orders
+  - name: Columbus Center
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574138237/USA/DEI/pbfhmuenoaxl0tooftoq.jpg
+    link: https://www.douglasemmett.com/Columbus-Center
+    address: 15165 Ventura Blvd, Sherman Oaks
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Enjoy the intimacy and convenience of this low-rise property located just one short block from the intersection of Ventura and Sepulveda Boulevards, the hub of Sherman Oaks. Experience dining, shopping and entertainment all within easy walking distance. The polished granite and reflective-glazed exterior features angled corners which provides a sleek, modern look. The building’s granite lobby, efficient and renovated corridors and easy-to-use subterranean parking garage combine to make it a casual but elegant treasure. Columbus Center offers fully staffed management and engineering services, is Energy Star Certified by the EPA, has a fully integrated energy management system for optimal efficiency and comfort, and includes a bank in its lobby.
+      - "Property Features:"
+      - Four-story Class A office building with high ceilings and granite lobby
+      - Conveniently located near the intersection of the San Diego (405) and the Ventura (101) Freeways
+      - Web based facility management system for tenant work orders
+      - Within walking distance to the Sherman Oaks Galleria with restaurants, shops, 24-hr Fitness and Arclight Cinemas
+      - Retail bank located on ground floor
+  - name: Encino Gateway
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574138324/USA/DEI/nh36ztfpdom4awocbenz.jpg
+    link: https://www.douglasemmett.com/Encino-Gateway
+    address: 15760 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - This high-rise property with sprawling front landscaped planters makes an impressive statement on Ventura Boulevard. The building combines classic architectural style with an aluminum and reflective glass exterior.  Enter from Ventura Boulevard through a glass and steel canopy to a light and airy limestone lobby. Four of its twenty stories consist of covered parking for tenants, providing you with easy access to elevators and your office. You will experience spectacular, unobstructed views. Its strategic location offers numerous options for dining and shopping in both Encino and Sherman Oaks and is close to 101 and 405 freeway access. Encino Gateway offers fully staffed management and engineering services, is Energy Star Certified by the EPA and has a fully integrated energy management system for optimal efficiency and comfort.  On-site amenities include a bank, sundry shop, car wash, tenant conference/meeting room and ample storage leasing options.
+      - "Property Features:"
+      - Twenty-story high-rise Class A office building
+      - Walking distance to an array of retail shops and restaurants along Ventura Boulevard
+      - On-site Auto Detail Services, On-site sundry shop
+      - Full service bank located on ground floor
+      - On-site building management
+      - Competitive Ventura Boulevard rates
+      - Breathtaking views of the San Fernando Valley and Encino Hills
+      - Convenient access to 405 and 101 freeways
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Encino Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574138427/USA/DEI/lhnv2zcrchqohorzsmdb.jpg
+    link: https://www.douglasemmett.com/Encino-Plaza
+    address: 15910 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - This property features a reflective glass exterior and granite lobby. Its seventeen stories include five parking levels, allowing direct access from the parking garage to your floor. Unobstructed mountain and valley views from most suites are a highlight of this property. Encino Plaza offers fully staffed management and engineering services on site, is Energy Star Certified by the EPA, and has a fully integrated energy management system for optimal efficiency and comfort. On-site amenities include a bank, a restaurant, a snack shop and ample storage space to lease.
+      - "Property Features:"
+      - Eighteen story Class- A office high-rise
+      - Beautiful views of the San Fernando Valley
+      - High speed internet access available
+      - Retail bank located on ground floor
+      - Convenient freeway access to the 405 and 101 freeways
+      - 24-hour on-site security personnel
+      - On site storage facilities available for lease
+      - Common area renovations completed on multiple floors
+      - Walking distance to an array of retail shops and restaurants on Ventura Blvd.
+      - Close proximity to the Sherman Oaks Galleria
+      - On-site sundry shop/café
+      - Energy Star labeled building
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Encino Terrace
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574139328/USA/DEI/rkkmcgpt4mzfblrjvoy7.jpg
+    link: https://www.douglasemmett.com/Encino-Terrace
+    address: 15821 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Extending a full city block, Encino Terrace is impressive.  Enjoy a spacious plaza with landscaped suite terraces that overlook the view and Ventura Boulevard. With its magnificent marble lobby, art showcases with rotating art exhibits, friendly security director to assist tenants and guests, a set of elevators for each wing, Trimana Café, bank and private tenant gym, this property is a community unto itself. Parking is made simple with access from east and west building entrances and exits. Encino Terrace offers fully staffed management and engineering services on site, is Energy Star Certified by the EPA, and has a fully integrated energy management system for optimal efficiency and comfort.  Other amenities include a car wash and ample storage to lease.
+      - "Property Features:"
+      - Six-story Class A office building with exquisite granite and marble lobby
+      - On-site building management
+      - Close proximity to the Sherman Oaks Galleria
+      - Energy Star Labeled Building
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Many suites feature beautiful views and terraces
+      - Private gym available for tenants
+      - Trimana Cafe located on ground floor
+      - Convenient access to the 405 and 101 freeways
+      - Walking distance to an array of retail shops and restaurants along Ventura Boulevard
+      - On-site car wash
+  - name: First Financial Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574139464/USA/DEI/fra7zev9rktdwwmfkw1u.jpg
+    link: https://www.douglasemmett.com/First-Financial-Plaza
+    address: 16830 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - With an easy commute to and from the 101 freeway and at the corner of Ventura and Balboa Boulevards, this property’s parking structure can be easily accessed from either.  Before entering the building’s beautiful lobby, you will pass by a dramatic waterfall and through a landscaped courtyard with tables, benches and chairs. Most suites have expansive views of the mountains and Valley.  Join the luxurious and prestigious Equinox Fitness Club and enjoy Earth Bar, the juice bar and snack shop. First Financial Plaza offers fully staffed management and engineering services on site, is Energy Star Certified by the EPA, and has a fully integrated energy management system for optimal efficiency and comfort.  The property is also the home of many prominent businesses including the Graduate Campus for Pepperdine University in Encino.
+      - "Property Features:"
+      - Great location on the corner of Balboa Avenue and Ventura Boulevard
+      - Walking distance to an array of retail shops and restaurants on Ventura Blvd.
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - EQUINOX Fitness on ground floor
+      - Expansive views of the San Fernando Valley
+      - Convenient access to the 101 and 405 Freeways
+      - On-site building management
+  - name: MB Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574139814/USA/DEI/h9gqhup51tyeazwh3hvc.jpg
+    link: https://www.douglasemmett.com/MB-Plaza
+    address: 16255 Ventura Blvd, Encino
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - This property’s prominent location on Ventura Boulevard offers easy walking access to Gelsons, the Ralphs/CVS center and numerous restaurants and shops. The Building has floor-to-ceiling windows providing dramatic views of the Valley.  MB Plaza offers fully staffed management and engineering services on site, is Energy Star Certified by the EPA and has a fully integrated energy management system for optimal efficiency and comfort.  On-site amenities include a bank, a café and valet parking.
+      - "Property Features:"
+      - Twelve-story Class A office building
+      - Located in the heart of the Encino financial district
+      - Excellent access to the San Diego (405) and Ventura (101) Freeways
+      - Excellent views of the San Fernando Valley
+      - Electronic tenant directory
+      - Retail bank located on ground floor
+      - On-site building management
+      - Cable ready for TV/Hi-Speed internet access
+      - Competitive Ventura Boulevard rates
+      - Floor-to-ceiling windows with spectacular panoramic views
+      - Close proximity to the Sherman Oaks Galleria
+      - Within walking distance to many restaurants, shops and financial institutions
+      - Sundry shop/café on ground floor
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Sherman Oaks Galleria
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574139942/USA/DEI/plrmw7kseqmd5ij4rxha.jpg
+    link: https://www.douglasemmett.com/Sherman-Oaks-Galleria
+    address: 15301 - 15303 Ventura Blvd, Sherman Oaks
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - The Sherman Oaks Galleria is a state-of-the-art, open-air lifestyle center that includes 700,000 square feet of beautifully appointed Class-A office, overlooking a 300,000-square-foot-retail and entertainment complex. The Property is located at the interchange of the 101 Ventura and 405/San Diego freeways. Choose among the high-rise Comerica Bank Building or the intimate low-rise Garden, Courtyard or Atrium office buildings. All buildings offer fully staffed management and engineering services on-site and have a fully integrated energy management systems for optimal efficiency and comfort.
+      - The Galleria hosts a vibrant business and diverse tenant community during the day and transforms into a lively shopping, dining and entertainment destination during evenings and weekends. In addition to ArcLight Cinemas’ state-of-the-art movie theatre complex, the Galleria boasts its own “Restaurant Row” that includes ArcLight Cafe, Buffalo Wild Wings, The Cheesecake  Factory, P.F. Chang’s China Bistro and Frida Mexican Cuisine. If you’re seeking more casual dining options there is Salad Farm, Hana Grill Fresh Japanese, Starbucks Coffee, Ben & Jerry’s and Robeks Juice. Explore retail shopping options such as DSW and Tuso Clothing Boutique.
+      - The Sherman Oaks Galleria is also a lifestyle and wellness destination featuring 24 Hour Fitness, Burke Williams Day Spa, DENT-ALL by Dr. Z, European Wax Center, Adam’s Garden indoor playground and Paul Mitchell the School. You can even treat yourself and your car with VIP service at the on-site Pro Auto Detail shop.
+      - "Property Features:"
+      - Excellent views of the San Fernando Valley from the 16-story Comerica Bank Building
+      - "Our fine dining restaurants include: The Cheesecake Factory and P.F. Chang’s. We also have quick serve restaurants including, Frida Mexican Cuisine, Buffalo Wild Wings, Hana Grill, Starbucks and Ben & Jerry’s"
+      - On-site building management and 24-Hour on-site Security personnel
+      - Paul Mitchell The School located on-site
+      - "Entertainment and Shopping amenities include: Arclight Cinemas, Burke Williams Day Spa, Paul Mitchell the School, Magic Johnson’s 24-Hour Fitness Sport and DSW Shoe Warehouse"
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Located directly adjacent to the 405 and 101 freeways
+  - name: Valley Executive Tower
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140073/USA/DEI/dluix9wpswm6knkjoor8.jpg
+    link: https://www.douglasemmett.com/Valley-Executive-Tower
+    address: 15260 Ventura Blvd, Sherman Oaks
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Spectacular panoramic views are the hallmark of this property, one of the largest and most prominent properties in the area and located a mere minute from 101 and 405 freeway access.  Walk through the relaxing courtyard and into the classic, timeless lobby, where high-rise and low-rise elevators will get you to your floor quickly and efficiently. Valley Executive Tower offers fully staffed management and engineering services on site, and has a fully integrated energy management system for optimal efficiency and comfort. On-site amenities include a bank and Hot 8 Yoga offering yoga classes and spa-like facilities.
+      - "Property Features:"
+      - Twenty-one story Class-A office high-rise
+      - Within walking distance to the Sherman Oaks Galleria with restaurants, shops, 24-hr Fitness and Arclight Cinemas
+      - City National Bank located on ground floor
+      - Immediate access to the San Diego (405) and Ventura (101) Freeways
+      - Beautiful granite and marble lobby entry
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - 24-hour on-site security personnel
+      - On-site building management
+  - name: Valley Office Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140208/USA/DEI/lgnscshi4x4boknlpwmc.jpg
+    link: https://www.douglasemmett.com/Valley-Office-Plaza
+    address: 15233 Ventura Blvd, Sherman Oaks
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Located in the heart of Sherman Oaks at the intersection of Ventura and Sepulveda Boulevards, this property provides excellent access to the 101 and 405 freeways from its easily accessible parking facilities.  Most suites have dramatic valley and mountain views through floor-to-ceiling windows, and the lobby features a glass-walled entrance with granite and wood finishes throughout. Valley Office Plaza offers fully staffed management services on site, and is Energy Star Certified by the EPA.  On-site amenities include a bank, Cost Plus World Market and Krav Maga, which offers self –defense and fitness classes.
+      - "Property Features:"
+      - Prominent location at the corner of Sepulveda and Ventura Boulevards
+      - Floor-to-ceiling windows with spectacular panoramic views
+      - Within walking distance to the Sherman Oaks Galleria with restaurants, shops, 24-hr Fitness and Arclight Cinemas
+      - Immediate access to the San Diego (405) and Ventura (101) Freeways
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - On-site building management
+  - name: Studio Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140403/USA/DEI/z5bujzavdhi8iocirnz0.jpg
+    link: https://www.douglasemmett.com/Studio-Plaza
+    address: 3400 W. Riverside Dr, Burbank
+    category: Office
+    country: USA
+    state: CA
+    about:
+      - Studio Plaza is a 456,205 square-foot Class A office building strategically situated in the heart of the Burbank Media District just off the Ventura Freeway. Designed by the architecture firm of Gensler & Associates, the building's distinctive saw-tooth lines are accentuated by its natural stone exterior finish. The building features a distinctive stone floor and maple-walled lobby. The property is directly adjacent to the Warner Bros. Studios lot and is minutes from Disney and NBC/Universal Studios.
+      - "Property Features:"
+      - Excellent views of the San Fernando Valley
+      - Located in the heart of the Burbank Media District
+      - Impressive and distinctive architecture as designed by Gensler
+      - Convenient access to the 101 freeway
+      - Within close proximity to an array of restaurants
+  - name: Bishop Place
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140588/USA/DEI/v1cq9cco64rk4z94vjtm.jpg
+    link: https://www.douglasemmett.com/Bishop-Place
+    address: 1132 Bishop St, Honolulu
+    category: Office
+    country: USA
+    state: HI
+    about:
+      - Bishop Place is a 492,560 square-foot Class-A office property situated in Honolulu's financial district. This 25-story office building features an impressive granite and glass exterior, accented by a lavish water wall in the entry and high-quality interior finishes. Suites look onto spectacular views of the Honolulu Harbor and the Ko'olau Mountains.
+      - "Property Features:"
+      - Breathtaking views of the Pacific Ocean, Downtown Honolulu, Pearl Harbor, and Diamond Head
+      - On-site convenience store and café
+      - Corridor renovations recently completed
+      - 24-hour on-site security personnel
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Located near major transportation hubs, as well as an array of retail shops, dining and entertainment venues
+      - On-site bookstore
+      - On-site building management
+      - Convenient access to the Pali Highway, H-1, and Nimitz Highway
+  - name: Bishop Square
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140748/USA/DEI/ora3qyswcjmd4gswegks.jpg
+    link: https://www.douglasemmett.com/Bishop-Square
+    address: 1001-1003 Bishop St, Honolulu
+    category: Office
+    country: USA
+    state: HI
+    about:
+      - Bishop Square is the largest and most prestigious office complex in the heart of downtown Honolulu. It is comprised of two Class-A office towers totaling almost 1 million square feet, which are linked together by a one-acre landscaped park. The 30-story American Savings Bank Tower features an exterior of poured-in-place, ribbed concrete panels with engraved designs, which accentuates the traditional Hawaiian presence in the Honolulu skyline. The 28-story Pauahi Tower features a travertine marble and bronze tinted glass exterior, reflecting the modern international trade center that Hawaii has become. Tamarind Park not only ties the complex together, but also serves as a setback from the popular intersection of King and Bishop Streets.
+      - "Property Features:"
+      - Breathtaking ocean, mountain, and park views
+      - On-site Tamarind Park
+      - On-site Sundry Shop
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient access to the H-1 Freeway
+      - On-site restaurants
+      - On-going common area renovations
+      - 24-hour on-site security personnel
+  - name: Harbor Court
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574140918/USA/DEI/bmnhegn3tyvnyapn4rol.jpg
+    link: https://www.douglasemmett.com/harbor-court
+    address: 55 Merchant St, Honolulu
+    category: Office
+    country: USA
+    state: HI
+    about:
+      - Harbor Court is a 214,934 square-foot Class-A office property strategically situated near Honolulu's waterfront. The 31-story office building is the focal point of the downtown skyline because of its distinctive architectural features and reflective blue glass exterior. With spectacular views of the Honolulu Harbor and the Ko'olau Mountains, this is one of Honolulu's landmark commercial office buildings.
+      - "Property Features:"
+      - Breathtaking views of the Honolulu Harbor and Ko’olau Mountains
+      - Close proximity to Honolulu Harbor
+      - On-site building management
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+      - Convenient freeway access that leads into downtown from Waikiki
+      - 24-hour on-site security personnel
+      - Located directly across from the Aloha Tower Marketplace
+  - name: Honolulu Club
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141107/USA/DEI/llr9wc2uirkxahlpyt5s.jpg
+    link: https://www.douglasemmett.com/Honolulu-Club
+    address: 932 Ward Avenue, Honolulu
+    category: Office
+    country: USA
+    state: HI
+    about:
+      - Honolulu Club is a 80,450 Class-A office building located in downtown Honolulu. The building includes a mix of traditional office tenants and is home to an exclusive membership athletic and Social Club - The Honolulu Club. The building is conveniently situated near Honolulu's central business district. This property offers a combination of desirable office space with key lifestyle amenities for its tenants, guests and members of the community.
+      - "Property Features:"
+      - On-site athletic and social club – The Honolulu Club
+      - Close proximity to major transportation hubs, an array of retail shops, dining and entertainment venues
+      - Convenient access to the Pali Highway, H-1, and Nimitz Highway
+      - Web based facility management system for tenant work orders, fire safety training, and building news alerts
+  - name: Moanalua Hillside Apartments
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141418/USA/DEI/cca9howfg2mqdiakssnt.jpg
+    link: https://www.douglasemmett.com/moanalua-hillside-apartments
+    address: 1221 Ala Kapuna St, Honolulu, HI
+    category: Apartment Communities
+    country: USA
+    state: HI
+    about:
+      - Discover beautiful Moanalua Hillside Apartments, perfectly situated in the heart of Honolulu, where residents have easy access to downtown, Pearl Harbor, The Navy Exchange, Tripler, Ala Moana and Pearlridge Shopping Centers. Offering a variety of floor plans, ocean views and resort style amenities. Living here you’ll find the best of the Hawaiian lifestyle right beyond your doorstep.
+      - "Property Features:"
+      - Resort-style pool
+      - On-site laundry facility
+      - Open kitchens with built-in breakfast bars
+      - Brand New Fully-equipped fitness center
+      - Outdoor recreational areas
+      - Spacious floor plans
+      - Red Hill Elementary on site
+      - Select apartment homes with ocean views
+      - Child playgrounds
+      - Pet Friendly
+  - name: Villas at Royal Kunia
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141557/USA/DEI/i2o0iwgsolzfaggpqoxk.jpg
+    link: https://www.douglasemmett.com/villas-at-royal-kunia
+    address: 94-994 Eleu St, Waipahu, HI
+    category: Apartment Communities
+    country: USA
+    state: HI
+    about:
+      - Discover Villas at Royal Kunia apartments, where residents have easy access to Mamala Bay, Mamala Golf Course, and the Royal Kunia Country Club. These Honolulu apartments offer spacious floor plans, bay views, in-home washers/dryers, and a brand new fitness center. At Villas at Royal Kunia apartments you’ll find the best of the Hawaiian lifestyle right beyond your doorstep.
+      - "Property Features:"
+      - Air Conditioning
+      - Pet friendly
+      - On-site tot lot
+      - Located within close proximity to Schofield Barracks and Pearl Harbor Military Bases
+      - Brand New State-of-the-art fitness center
+      - Spacious and efficient floor plans
+      - In-home washer/dryer
+      - Spacious closets
+      - Prime location with convenient access to H1 Freeway
+      - PGA-caliber golf course located nearby
+      - Convenient access to major freeways
+  - name: Waena Apartments
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141699/USA/DEI/wt9rn7x2buwesmd0hfrn.jpg
+    link: https://www.douglasemmett.com/waena-apartments
+    address: 1320 Aala St, Honolulu, HI
+    category: Apartment Communities
+    country: USA
+    state: HI
+    about:
+      - Discover yourself at Waena apartments in Honolulu, Hawaii. These newly renovated one, two, three and four bedroom apartment homes are ideally located just steps from downtown Honolulu, Hawaii. Experience spacious floor plans and fresh new amenities, including a fitness center, business center, club room, playground, barbecue and picnic areas. Waena Apartments in Honolulu are walking distance to parks, shopping, dining and nightlife, adding more convenience and excitement to your lifestyle. Be happy to be home at Waena, our community of apartments in Honolulu. Contact us today for more information on available apartments for rent in Honolulu.
+      - "Property Features:"
+      - Spacious Floor Plans
+      - Renovated Interiors
+      - Hard Surface Flooring
+      - On-site Business Center
+      - Courtesy Patrol
+      - New Playground
+      - New Barbecue / Picnic Areas
+      - On-site Fitness Center
+      - On-site Laundry Center
+      - On-site Parking
+  - name: Pacific Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141833/USA/DEI/cjeuoqjnazmolfayrxmz.jpg
+    link: https://www.douglasemmett.com/pacific-plaza
+    address: 1431 Ocean Ave, Santa Monica
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Experience the quintessential Santa Monica coastal lifestyle at Pacific Plaza. These Santa Monica apartments offer floor plans with stunning views of the Pacific Ocean and city lights. Located in the heart of Santa Monica, one of the most popular beach communities in Los Angeles, Pacific Plaza residents can enjoy the incredible neighboring parks, extensive dining and shopping, weekly Farmer’s market, and the Santa Monica Pier. Whether you venture out for a night on the town, break a sweat in the brand new fitness center, or unwind on your balcony with ocean views, you’ll find that these Santa Monica apartment homes offer luxury amenities and an address you want.
+      - "Property Features:"
+      - Well-designed floor plans
+      - Set in the heart of Downtown Santa Monica
+      - Convenient access to Pacific Coast Highway and the 10 Freeway
+      - Located just two blocks from the 3rd Street Promenade and Santa Monica Place
+      - Breathtaking ocean and city views
+      - 24-hour valet parking
+      - Close to Main Street with extensive shopping and dining
+      - Located just steps from the Santa Monica Pier, 3rd Street Promenade and Tongva Park
+      - Fully-equipped fitness center
+  - name: The Shores
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574141962/USA/DEI/b9xz4zmapykenbzwryya.jpg
+    link: https://www.douglasemmett.com/the-shores
+    address: 2720 Neilson Way, Santa Monica
+    category: Apartment Communities
+    country: uSA
+    state: CA 
+    about:
+      - Discover the premier ocean-front location at The Shores, which combines classic sophistication with casual elegance. These Santa Monica apartments boast stunning views of the Pacific Ocean, Malibu and Catalina Island. Take in the radiant atmosphere of Main Street, with its trendy boutiques and various dining options, relax on your balcony with the ocean breeze on your face, or unwind at the new fitness center. At The Shores, residents can experience the coastal lifestyle at one of the most highly sought-after addresses in Santa Monica.
+      - "Property Features:"
+      - Walk-in closets
+      - Corian® countertops (in select apartments)
+      - 24-hour courtesy attendants
+      - One block to the shops and dining of Main Street Santa Monica
+      - Plush media room and community library
+      - Close proximity to the Santa Monica Pier and Third Street Promenade
+      - Bike paths, tennis and basketball courts immediately adjacent
+      - On-site dry cleaners, convenience market, and salon
+      - Stone floors
+      - Balconies with ocean views
+      - Sweeping views of the Pacific Ocean, Malibu and Catalina Island
+      - Located just steps from Santa Monica Beach
+      - Complimentary conference rooms available
+      - Fitness center with extensive cardiovascular and weight training equipment
+      - Large swimming pool and spa with an expansive sun deck
+  - name: 555 Barrington
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142089/USA/DEI/jvxdz3bdcoyb3yxkz8gh.jpg
+    link: https://www.douglasemmett.com/555-barrington
+    address: 555 Barrington Ave, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Venture into the heart of Brentwood at 555 Barrington, where trendy meets sophistication at this luxury apartment community. Each residence features carefully thought-out floor plans, designed for comfortable and spacious living. These Brentwood apartments are just minutes away from Brentwood’s finest parks, restaurants and trendy boutiques. Residents can expect the chic lifestyle that makes Brentwood one of the most sought-after communities in Los Angeles.
+      - "Property Features:"
+      - Large floor plans
+      - Large private swimming pool and spa with an expansive courtyard
+      - Two blocks from the shops and dining of San Vicente Blvd.
+      - High quality fixtures
+      - Convenient access to Santa Monica, Century City, and surrounding areas
+      - Beautiful views of the surrounding neighborhood
+      - Brand New Fully-equipped fitness center!
+  - name: Barrington Kiowa
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142208/USA/DEI/ulxxlqocyj4eflwxjioi.jpg
+    link: https://www.douglasemmett.com/barrington-kiowa
+    address: 11668 Kiowa Ave, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Discover Barrington Kiowa, a boutique apartment community nestled in the heart of the prestigious Brentwood residential area. These Brentwood apartment homes offer floor plans for every lifestyle, ranging from studios to 3 bedrooms, and provide comfortable and spacious living. Residents can unwind in the rooftop spa or plan a day of shopping and dining on San Vicente Blvd. Come experience well-located living at these Brentwood apartments.
+      - "Property Features:"
+      - Floor plans for every lifestyle
+      - Gated parking with controlled access
+      - Convenient access to the 405 and 10 freeways
+      - Rooftop spa
+      - Set in the heart of trendy and popular Brentwood
+      - Located one block from the popular shops and restaurants on San Vicente Blvd.
+  - name: Barrington Plaza
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142340/USA/DEI/gb7zgsrhlngycrxa2gdy.jpg
+    link: https://www.douglasemmett.com/barrington-plaza
+    address: 11740 Wilshire Blvd, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Discover Barrington Plaza apartment homes, Westside’s most prominent high-rise apartment community. These Brentwood apartments boast stunning views of the ocean, city and mountains, and are perfectly situated on the corner of Barrington Avenue and Wilshire Boulevard, in one of the most desirable residential areas in Los Angeles. Swim laps year-round at the heated Olympic-size swimming pool, get healthy in the fitness center, or enjoy a day of shopping and dining on San Vicente Blvd. At Barrington Plaza, residents can expect luxurious amenities in a prime location in Brentwood.
+      - "Property Features:"
+      - Efficient and spacious floor plans
+      - Solid surface countertops
+      - Upgraded flooring in kitchens
+      - Breakfast bar
+      - Heated Olympic-size swimming pool
+      - On-site dry cleaning services
+      - Convenient access to the 405 and 10 freeways
+      - Select units with Stainless Steel Appliances
+      - Upgraded cabinetry with soft closures
+      - Upgraded vanities
+      - Stunning city, ocean, and mountain views
+      - Brand new fitness center
+      - Around the corner from prestigious San Vicente Blvd. with shopping and dining
+  - name: Barry Apartments
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142456/USA/DEI/cguxl7er1cj9yepblvar.jpg
+    link: https://www.douglasemmett.com/barry-apartments
+    address: 1145 Barry Ave, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Discover Barry apartments, a boutique community nestled in the heart of the prestigious Brentwood residential area. These Brentwood apartment homes offer floor plans for every lifestyle, ranging from studios to 2-bedrooms, and provide comfortable and spacious living. Come experience convenient living at these Brentwood apartments.
+      - "Property Features:"
+      - Spacious floor plans
+      - Gated parking with controlled access
+      - Convenient access to the 405 and 10 freeways
+      - Located one block from restaurants and shops on San Vicente Blvd
+      - Private swimming pool
+      - One block from the prestigious San Vicente Blvd.
+      - Set in the heart of trendy and popular Brentwood
+      - Rooms feature private balconies, air conditioning, and major kitchen appliances
+  - name: Kiowa Apartments
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142556/USA/DEI/lpveeqr8sosstpsuivci.jpg
+    link: https://www.douglasemmett.com/kiowa-apartments
+    address: 11717 Kiowa Ave, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Discover the Kiowa Apartments, a boutique community nestled in the heart of the prestigious Brentwood residential neighborhood. The Kiowa apartments offer floor plans for every lifestyle, ranging from 1 to 2 bedrooms and feature in-home fireplaces and private balconies. Residents can spend a day of shopping and dining on San Vicente Blvd. Come experience convenient living at Kiowa apartments.
+      - "Property Features:"
+      - Set in the heart of trendy and popular Brentwood
+      - Located just steps from the trendy shops and restaurants on San Vicente Blvd.
+      - Private swimming pool
+      - Convenient access to the 405 and 10 freeways
+  - name: The Glendon
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1574142718/USA/DEI/ed9oxlaacas87et5cktb.jpg
+    link: https://www.douglasemmett.com/the-glendon
+    address: 1040 Glendon Avenue, Los Angeles
+    category: Apartment Communities
+    country: USA
+    state: CA
+    about:
+      - Welcome to The Glendon, Douglas Emmett’s premier apartment community located in the Los Angeles neighborhood of Westwood. The Glendon enjoys an ideal location on the west side of Los Angeles minutes from the 405 freeway and Wilshire Boulevard.  This community is steps from retailers such as Trader Joes, Target, Rite Aid and much more. Also within walking distance are some of the city’s best known cultural and entertainment venues including the Geffen Playhouse, Fox Theatre, Hammer Museum and one of the country's top universities, UCLA.
+      - The Glendon provides best-in-class amenities such as a fitness center with group classes, dry sauna and an infinity pool with a sundeck. Aside from fitness options, The Glendon also has a beautiful common areas for residents to enjoy as well as a business center with broadband internet and a conference room.  Whether you are looking for convenience, luxurious amenities, spacious floor plans or a prime location, The Glendon has it all.
+      - "Property Features:"
+      - Easily accessible, minutes from 405 Freeway
+      - Located in Westwood Village with countless amenities
+      - State of the art fitness center
+      - Oversized bedroom windows for abundant lighting
+      - Designer granite countertops for kitchens and baths
+      - Walking distance to Trader Joes, Rite Aid and Target
+      - Group fitness classes
+      - Edgeless infinity pool & sundeck
+      - Private terraces with soothing courtyard views
+      - Cozy fireplaces and designer mantels
+      - One, two, and three bedroom floorplans available

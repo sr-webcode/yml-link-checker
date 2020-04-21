@@ -54,8 +54,7 @@ const extractData = (data) => {
 }
 
 const postData = (data) => {
-  const outputSection = document.querySelector('.output-section'),
-    spinner = document.querySelector('.spinner');
+  const spinner = document.querySelector('.spinner');
 
   spinner.classList.add('run');
   const postRequest = new Request("/home",
