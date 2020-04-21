@@ -49,7 +49,7 @@ const mapImportantEntries = (entries) => {
         return null;
     }
   })
-  return { name: company.name, data: mappedResult }
+  return { name: company.name, linkMaps: mappedResult }
 }
 
 const getValidUrls = (dataSet) => {
@@ -84,14 +84,14 @@ const promisifyLinkRequest = (link, section) => {
 }
 
 
-const checkLinks = async ({ name, data }) => {
+const checkLinks = async ({ name, linkMaps }) => {
   let finalResult;
   let promiseLinks = [];
   const isForScraping = REIT_FOR_SCRAPING.filter(reit => reit.name === name).length > 0;
   if (!isForScraping) {
     //url follow redirect
-    for (let section in data) {
-      const validLinks = getValidUrls(data[section]);
+    for (let section in linkMaps) {
+      const validLinks = getValidUrls(linkMaps[section]);
       if (validLinks.length > 0) {
         for (let y = 0; y < validLinks.length; y++) {
           promiseLinks.push(promisifyLinkRequest(validLinks[y], section))
@@ -100,7 +100,7 @@ const checkLinks = async ({ name, data }) => {
     }
     finalResult = promiseLinks;
   } else {
-
+    let clusterResult = [];
     ///scraping method
     const cluster = await Cluster.launch({
       concurrency: Cluster.CONCURRENCY_CONTEXT,
@@ -127,22 +127,23 @@ const checkLinks = async ({ name, data }) => {
         }, selector)
 
         if (text === baseMatched[0].scrapeText) {
-          resolve({ link: url, section, status: 404 });
+          clusterResult.push({ link: url, section, status: 404 });
         } else {
-          resolve({ link: url, section, status: result.status() });
+          clusterResult.push({ link: url, section, status: result.status() });
         }
       } else {
-        resolve({ link: url, section, status: result.status() });
+        clusterResult.push({ link: url, section, status: result.status() });
       }
     });
 
-    for (let section in mapData) {
-      for (let x = 0; x < mapData[section].length; x++) {
-        cluster.queue({ url: mapData[section][x], section });
+    for (let section in linkMaps) {
+      for (let x = 0; x < linkMaps[section].length; x++) {
+        cluster.queue({ url: linkMaps[section][x], section });
       }
     }
     await cluster.idle();
     await cluster.close();
+    finalResult = clusterResult;
   }
   // return resultLinks;
   return finalResult;
@@ -163,17 +164,16 @@ const postRequest = (req, res) => {
         const mapData = mapImportantEntries(jsonRecord);
         //perform lookup on mapped links
         checkLinks(mapData).then((checkResults) => {
-          console.log(checkResults);
-          // if (checkResults[0] instanceof Promise) {
-          //   //this was result of follow-redirects
-          //   Promise.all(checkResults).then((data) => {
-          //     const results = [...data];
-          //     res.status(200).json(results);
-          //   }).catch(err => console.log(err))
-          // } else {
-          //   //this was using puppeteer cluster
-
-          // }
+          if (checkResults[0] instanceof Promise) {
+            //this was result of follow-redirects
+            Promise.all(checkResults).then((data) => {
+              const results = [...data];
+              res.status(200).json(results);
+            }).catch(err => console.log(err))
+          } else {
+            //this was using puppeteer cluster
+            res.status(200).json(checkResults);
+          }
         }).catch(err => console.log(err))
       } catch (error) {
         console.log(error);
