@@ -100,12 +100,13 @@ const checkLinks = async ({ name, linkMaps }) => {
     }
     finalResult = promiseLinks;
   } else {
+
     let clusterResult = [];
     ///scraping method
     const cluster = await Cluster.launch({
       concurrency: Cluster.CONCURRENCY_CONTEXT,
       maxConcurrency: 5,
-      skipDuplicateUrls: true,
+      skipDuplicateUrls: false,
       puppeteerOptions: {
         headless: true,
         args: [
@@ -117,19 +118,25 @@ const checkLinks = async ({ name, linkMaps }) => {
 
     await cluster.task(async ({ page, data: { url, section } }) => {
       const baseHostName = new URL(url).hostname;
-      const baseMatched = REIT_FOR_SCRAPING.filter((link) => link.urlBase === baseHostName);
+      const baseMatched = REIT_FOR_SCRAPING.filter((each) => each.urlBases.indexOf(baseHostName) > -1);
       const result = await page.goto(url);
 
       if (baseMatched.length > 0) {
         const selector = baseMatched[0].scrapeElem;
+        clusterResult.push({ link: url, section, status: result.status() });
         const text = await page.evaluate((selector) => {
           return document.querySelector(selector).textContent;
-        }, selector)
+        }, selector);
 
-        if (text === baseMatched[0].scrapeText) {
-          clusterResult.push({ link: url, section, status: 404 });
-        } else {
-          clusterResult.push({ link: url, section, status: result.status() });
+        if (text && text === baseMatched[0].scrapeText) {
+          // clusterResult.push({ link: url, section, status: 404 });
+          //overwriting those 404 links already inside...
+          clusterResult = clusterResult.map((each) => {
+            if (each.link === url) {
+              return { link: url, section, status: 404 }
+            }
+            return each;
+          })
         }
       } else {
         clusterResult.push({ link: url, section, status: result.status() });

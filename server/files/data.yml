@@ -1,261 +1,220 @@
-company:
-  logo: https://res.cloudinary.com/reitscreener/image/upload/v1556502741/Singapore/CMOU.SI/photos/logo_eosqgg.jpg
-  name: Keppel Pacific Oak US REIT
-  images:
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994294/Singapore/CMOU.SI/photos/company/company1.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994287/Singapore/CMOU.SI/photos/company/company2.png
-    - https://res.cloudinary.com/reitscreener/image/upload/v1555994273/Singapore/CMOU.SI/photos/company/company3.png
-  companyInformation: http://www.kepkbsusreit.com
-  about:
-    - Keppel Pacific Oak US REIT (KORE), previously known as Keppel-KBS US REIT, is a distinctive office REIT listed on the main board of the Singapore Exchange Securities Trading Limited (SGX-ST) on 9 November 2017. KORE's investment strategy is to principally invest in a diversified portfolio of income-producing commercial assets and real estate-related assets in key growth markets of the United States (US) with favourable economic and office fundamentals that are above the national average, so as to provide sustainable distributions and strong total returns for Unitholders.
-  location:
-    name: Keppel Pacific Oak US REIT Management Pte. Ltd.
-    address: 1 HabourFront Avenue 18-01 Keppel Bay Tower Singapore 098632
-    contact:
-      fax: (65) 6803 1717
-      tel: (65) 6803 1818
-      email:  enquiries@kepkbsusreit.com
-    map: https://res.cloudinary.com/reitscreener/image/upload/v1555994268/Singapore/CMOU.SI/photos/map.png
+company: 
+  logo: https://res.cloudinary.com/reitscreener/image/upload/v1579700563/USA/CCI/jd56brclfs3etecma8zg.png
+  name: Crown Castle Inc.
+  images: 
+  - https://res.cloudinary.com/reitscreener/image/upload/v1584944408/USA/CCI/fhxd9dcfwmofm7mbvfzp.jpg
+  companyInformation: https://www.crowncastle.com/
+  about: 
+  - Technology is changing the way we interact with the world. We don't go online anymore. We exist there. Our smartphones and tablets are connected, of course, but soon things like traffic lights, machines, appliances, and autonomous cars will all be online.
+  - These connections are all made possible by our unique network of communications infrastructure—towers, small cells, and fiber. They all work together to set the stage for new innovation—to bring the world's biggest ideas and possibilities to people and businesses who need them.
+  location: 
+    name: Crown Castle Inc.
+    address: 1220 Augusta Dr, Houston, TX 77057, United States
+    contact: 
+      fax: null
+      tel: null
+      email: null
+    map: null
 management:
-  - name: Mr David Snyder
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502850/Singapore/CMOU.SI/photos/image_gwnuup.jpg
-    positions:
-      - Chief Executive Officer / Chief Investment Officer
+  - name: Jay A. Brown
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580103786/USA/CCI/dfrihdmdkog0gikvxt8m.jpg
+    positions: 
+    - President and Chief Executive Officer 
+    about: 
+    - Jay A. Brown was appointed President and Chief Executive Officer in June 2016. Mr. Brown was Crown Castle’s Chief Financial Officer from July 2008 to May 2016. Prior to that, Mr. Brown served as Treasurer of Crown Castle from May 2004. Since joining Crown Castle in August 1999, he has served in a number of positions in corporate development and corporate finance. Prior to joining Crown Castle, Mr. Brown worked for a start-up health care company and Arthur Andersen LLP. Mr. Brown holds a BBA from Baylor University.
+  - name: Robert C. Ackerman
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580104517/USA/CCI/ptr5u8nqnn6geaj3pg06.jpg
+    positions: 
+    - Senior Vice President and Chief Operating Officer - Towers and Small Cells
+    about: 
+    - Robert C. Ackerman was appointed Senior Vice President and Chief Operating Officer - Towers and Small Cells in September 2017. Mr. Ackerman is responsible for the management of all tower and small cell operational groups. Prior to this appointment, he served as Area President since 2002. Mr. Ackerman joined Crown Castle in August 1998 and has over 20 years of experience in the telecom industry. Prior to joining Crown Castle, he served as a Deputy Commissioner for the New York State Division of Housing and Community Renewal. Mr. Ackerman holds a BA from the College of Saint Rose in Albany.
+  - name: James D. Young
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580104708/USA/CCI/nhwzp3i93zblivkktt4n.jpg
+    positions: 
+    - Senior Vice President and Chief Operating Officer – Fiber
+    about: 
+    - James D. Young was appointed Chief Operating Officer – Fiber in September 2017. Prior to this appointment, he served as Chief Operating Officer from 2009 and President, US Tower Operations from 2005. He is responsible for the management of the fiber solutions business. With more than 30 years of experience in the telecom industry, Mr. Young has served in leadership roles across multiple disciplines and organizations. Prior to joining Crown Castle, he served as the Northeast Region Vice President of Network Operations for Sprint/Nextel and started his career with GTE. Mr. Young currently serves on several civic and community Boards including the Pittsburgh Regional Authority Economic Development Council. Mr. Young holds a BA from DePauw University, a BS in Systems Engineering from Washington University in St. Louis, and a Masters of Science in Management degree from Purdue University.
+  - name: Daniel K. Schlanger
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580104834/USA/CCI/cypaapgq1jyxyd7w1dbc.jpg
+    positions: 
+    - Senior Vice President and Chief Financial Officer
+    about: 
+    - Daniel K. Schlanger joined Crown Castle in April 2016 and currently serves as Senior Vice President and Chief Financial Officer. Mr. Schlanger previously served as Senior Vice President and Chief Financial Officer of Exterran GP LLC, the general partner of Exterran Partners, L.P., from June 2006 through March 2009 and as a director of Exterran GP LLC’s board of directors from October 2006 through November 2015. More recently, Mr. Schlanger served as Senior Vice President of Global Products at Exterran Corporation, an oil and gas products and services company, where he was responsible for global product strategy development and implementation. From 2009 to 2015, Mr. Schlanger also served as Senior Vice President in various capacities, including marketing and operations, with Exterran Holdings, Inc. and Exterran GP LLC. Prior to working with Exterran Partners, L.P. and Exterran Corporation, Mr. Schlanger was employed as an investment banker with Merrill Lynch & Co. where he focused on mergers and acquisitions and capital markets transactions in the energy sector. Mr. Schlanger holds a BS in economics from the Wharton School at the University of Pennsylvania.
+  - name: Kenneth J. Simon
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580104917/USA/CCI/x3lyl64jtz1cm0vteyn3.jpg
+    positions: 
+    - Senior Vice President and General Counsel
     about:
-      - Prior to his employment with the Manager, Mr Snyder was a consultant to KBS where he oversaw overall management of the AFRT portfolio and assisted in formulating the operational strategy and tactics for the portfolio. From 2008 to 2015, Mr Snyder was the Chief Financial Officer at KBS where he managed and advised five non-traded REITs. In addition, he oversaw, directed and participated in all aspects of investor relations, finance, financial reporting, accounting and financial planning including the negotiation and management of a portfolio transfer of over 800 properties with a value of over US$1 billion.
-      - Mr Snyder started out as a Senior Accountant with Arthur Andersen LLP in 1993 where he was responsible for the design, testing and supervision of the financial statements of various public and private enterprises. From 1996 to 1997, Mr Snyder joined Regency Health Services as its Director of Financial Reporting. Subsequently, from 1998 to 2008, Mr Snyder was with Nationwide Health Properties, starting out as a Financial Controller before rising to become Vice President & Financial Controller in 2005. He was one of four members on the senior management team which determined the corporate strategy and financial decisions of the firm.
-      - Mr Snyder graduated with a Bachelor of Science in Business Administration from Biola University in La Mirada, California.
-
-  - name: Mr Andy Gwee
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502919/Singapore/CMOU.SI/photos/image_eatzqw.jpg
-    positions:
-      - Chief Financial Officer
-    about:
-      - Mr Gwee has more than 16 years of experience in the accounting, finance and auditing industry.
-      - Prior to joining Keppel-KBS US REIT Management, Mr Gwee was the Head of Finance of Keppel DC REIT Management, the manager of Keppel DC REIT. From 2012 to 2015, Mr Gwee was the Senior Finance Manager at Keppel Corporation, where he assisted the Chief Financial Officer and Group Controller in the Keppel Group's financial and reporting functions. In addition to these functions, he provided accounting and technical advisory to the various business units of the Keppel Group. From 2000 to 2012, Mr Gwee spent 12 years at PricewaterhouseCoopers LLP Singapore in an audit function where he was the engagement manager for leading clients and local listed groups.
-      - Mr Gwee graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from the Nanyang Technological University of Singapore. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Ms Grace Chia
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556502992/Singapore/CMOU.SI/photos/image_fjexca.jpg
-    positions:
-      - Head of Investor Relations
-    about:
-      - Ms Chia has over 16 years of experience in corporate communications and investor relations. She started her career with Keppel Corporation and has held various positions within the Keppel Group over the last 16 years. Prior to joining the Manager, she was the Head, Investor Relations & Communications of Keppel Capital International. From 2014 to 2016, she was the Senior Manager of Investor Relations at Keppel REIT Management, the Manager of Keppel REIT, where she facilitated continuous two-way communication with investors, analysts and key stakeholders, as well as ensured clear and timely disclosure of pertinent information.
-      - Prior to that, Ms Chia was with the Group Corporate Communications division at Keppel Corporation where she managed the communications efforts for Keppel Group's offshore and marine and subsequently, the property division, for 14 years.
-      - Ms Chia graduated with a Bachelor of Commerce Degree from the University of Western Australia.
-
-  - name: Mr Chris Cheo
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503068/Singapore/CMOU.SI/photos/image_aplvv8.jpg
-    positions:
-      - Finance Manager
-    about:
-      - Prior to his appointment to the Manager, Mr Cheo was the Finance Manager of Keppel Capital International where he was responsible for financial and reporting functions.
-      - Mr Cheo started out as an Auditor at Deloitte & Touche LLP in 2008 in the general audit team. From 2010 to 2014, he joined DBS Bank Ltd. as an associate in the finance function of the stockbroking arm, where he led the general ledger accounting team and assisted in various functions including tax, statutory, financial and regulatory reporting. From 2014 to 2017, Mr Cheo was the Senior Manager of Leeden National Oxygen Ltd., where he oversaw the group consolidation and financial reporting function, established finance policies and conducted training for finance staff.
-      - Mr Cheo graduated with a Bachelor of Accountancy, Second Class Honours (Upper Division), from Nanyang Technological University of Singapore in 2008. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
-
-  - name: Mr Tai Wai Kit
-    image: https://res.cloudinary.com/reitscreener/image/upload/v1556503130/Singapore/CMOU.SI/photos/image_o7w46f.jpg
-    positions:
-      - Senior Investment Analyst
-    about:
-      - Mr Tai will support the Chief Executive Officer/Chief Investment Officer of Keppel-KBS US REIT Management with analytical, underwriting, and key investment thesis support.
-      - Prior to joining the Manager, he was a Senior Analyst in Keppel Capital International where he was responsible for sourcing and executing merger and acquisition opportunities. Mr Tai was responsible for leading the review of all 11 properties on Keppel's behalf, prior to the listing of Keppel-KBS US REIT. Additionally, Mr Tai had been involved in providing portfolio analysis and asset management support to the REITs and Trusts under Keppel Capital.
-      - Mr Tai was an analyst in Alpha Investment Partners from 2013 to 2016, where he was involved in various aspects of acquisition, asset management and portfolio management activities for the United States and European real estate and data centre markets.
-      - A Keppel Group Scholar, Mr Tai graduated with a Bachelor of Science (Real Estate) (Honours) with Specialisation in Real Estate Finance from the National University of Singapore.
+    - Ken Simon joined Crown Castle in September 2015 and currently serves as Senior Vice President and General Counsel. Prior to joining Crown Castle, Mr. Simon was the Managing Partner-Houston of the global law firm of Locke Lord LLP, where he practiced corporate and tax law for 30 years. While practicing with Locke Lord, Mr. Simon held several leadership positions, including serving as the Administrative Partner, the Co-Financial Partner and a member of the Management Committee. He is a past Chair and current Board member of the Make-A-Wish Foundation, and has served on numerous civic and community Boards, including the Greater Houston Partnership, Teach for America and the American Heart Association. Mr. Simon holds a BBA in Accounting from the University of Texas at Austin and a JD from the University of Texas School of Law.
+  - name: Mike Kavanagh
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580104985/USA/CCI/hl5edivxc9ixauvabj5x.jpg
+    positions: 
+    - Senior Vice President of Sales and Chief Commercial Officer
+    about: 
+    - Mike Kavanagh was appointed Senior Vice President of Sales and Chief Commercial Officer in January 2017. Mr. Kavanagh joined Crown Castle in 2010 as the President of DAS operations and became President of Small Cell Sales in 2012. Before joining Crown Castle, Mr. Kavanagh was a co-founder & CEO of NewPath Networks from 2004-2010. Earlier in his career, Mr. Kavanagh co-founded Metawave Communications where he served in executive roles in both sales and project management. With more than 25 years in the telecommunications industry, he has held key positions for organizations including Opencell Corporation, US West NewVector and the Raytheon Corporation. Mr. Kavanagh holds a Bachelor of Science degree from the Rochester Institute of Technology and a Master of Business Administration from Seattle University.
+  - name: Phil Kelley
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580105079/USA/CCI/pf00mtsdzfns5huxp6tr.jpg
+    positions: 
+    - Senior Vice President, Corporate Development and Strategy
+    about: 
+    - Phil Kelley was appointed Senior Vice President, Corporate Development and Strategy in September 2008. Prior to that appointment, Mr. Kelley served as Managing Director of Crown Castle Australia from May 2004. Before that he served as Vice President of Crown Castle in the US, with primary responsibility for the strategic oversight of Crown Castle’s subsidiary companies and mergers and acquisitions efforts. Prior to joining Crown Castle in April 1997, Mr. Kelley was a financial analyst, then an asset manager, with Archon Group, a wholly owned subsidiary of Goldman Sachs of New York. He graduated cum laude from Harvard University with a concentration in Economics.
+  - name: Laura Nichol
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1580105159/USA/CCI/i5ae63sog8hbekkigrwd.jpg
+    positions: 
+    - Senior Vice President, Business Support
+    about: 
+    - Laura Nichol was appointed Senior Vice President, Business Support in May 2014. She brings to Crown Castle over a decade of leadership consulting experience to boards and CEOs, in addition to experience in executive leadership roles at American General and Chase Bank of Texas. In her role, Ms. Nichol focuses on implementation of strategies to support Crown Castle’s unique culture.
+  - name: W. Benjamin Moreland
+    image: https://res.cloudinary.com/reitscreener/image/upload/v1584897961/USA/CCI/npgeo7vc3agmnnybnz3h.jpg
+    positions: 
+    - Executive Vice Chairman
+    about: 
+    - W. Benjamin (Ben) Moreland was appointed Executive Vice Chairman of Crown Castle in June 2016. Prior to his current role, Mr. Moreland served as President and CEO from July 2008 until May 2016 and Chief Financial Officer from 2000. He joined Crown Castle in 1999 after 15 years with Chase Manhattan Bank, primarily in corporate finance and real estate investment banking. Mr. Moreland is a former board member and Chairman of the Board of WIA-The Wireless Infrastructure Association and former member of the Executive Board of the National Association of Real Estate Investment Trusts (NAREIT). He serves on the Board of Directors of Calpine Corporation (NYSE CPN) and is a former board member of Monogram Residential Trust (NYSE MORE), until its privatization in September 2017. Mr. Moreland also serves on the boards of the Greater Houston Partnership and Houston Methodist Hospital, where he chairs the subsidiary, Methodist Health Centers Board. He is a member of the University of Texas McCombs School of Business Advisory Council, and holds a BBA from The University of Texas at Austin and an MBA from The University of Houston.
 
 trustStructure:
-  image: https://res.cloudinary.com/reitscreener/image/upload/v1556503206/Singapore/CMOU.SI/photos/image_lef47n.jpg
-videos:
-  - title: Reputable Asset Managers
-    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1556503280/Singapore/CMOU.SI/photos/hqdefault_kcxqzd.webp
-    link: https://youtu.be/AJw9WlGOFgQ
-    about: null
-    date: null
+  image: null
+    - 
+videos: 
+  - title: Crown Castle CEO Says Wireless Operators Bolstering Small Cell Capability
+    thumbnail: https://res.cloudinary.com/reitscreener/image/upload/v1580108750/USA/CCI/w0eddpgysd6etjtkyjpq.png
+    link: https://www.youtube.com/watch?v=gfUdRSBU38c
+    about: Jay Brown sees small cells potentially rivaling tower business in long term.
+    date: Jun 23, 2017
+
 portfolios:
-  - name: The Plaza Buildings, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503378/Singapore/CMOU.SI/photos/image_ykslj3.jpg
-    link: https://www.koreusreit.com/portfolio/seattle/the-plaza-buildings/
-    address: 10800 and 10900 NE 8th Street, Bellevue, King County, Washington
-    category: null
-    country: United States
-    state: Washington
-    about:
-      - Situated along one of the busiest corridors in the Bellevue central business district in Seattle, The Plaza Buildings consists of two Class A office buildings - Plaza Center and US Bank Plaza, which are surrounded by an array of retail amenities, dining options and parks. Both buildings have been extensively refurbished to meet the needs of modern and premier tenants from diverse industries, including finance, computer system design and programming, as well as real estate.
-      - The buildings enjoy full-block frontage along NE 8th street, the primary east-west arterial in downtown Bellevue that connects commercial users to Interstate 405. The Bellevue Transit Center, which is being served by more than 20 bus routes around Seattle and the Eastside, is a short distance away from The Plaza Buildings.
-      - The Plaza Buildings was awarded the US Leadership in Energy and Environmental Design (LEED) Gold status
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,254"
-      - "Number of Storeys  Plaza Center: 16; US Bank Plaza: 10"
-      - "Net Lettable Area (NLA)  490,994 sq ft"
-      - "Valuation as at June 2017  US$243.9m"
-
-  - name: Bellevue Technology Center, Seattle
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503476/Singapore/CMOU.SI/photos/image_bvhch2.jpg
-    link: https://www.koreusreit.com/portfolio/seattle/bellevue-technology-center/
-    address: 15805 NE 24th Street, Bellevue, King County, Washington
-    category: null
-    country: United States
-    state: Washington
-    about:
-      - The Bellevue Technology Center is located in the 520 Corridor submarket of the Seattle-Bellevue regional office market, and a few blocks away from the Microsoft global headquarters and Interstate 520 highway.
-      - Over the last five years, the office campus which features nine Class A/B buildings, has undergone capital improvements with an upgraded fitness centre, conference room, full-service café and new parking stalls. Its main tenants are from the financial services and technology sectors.
-      - Being situated close to Microsoft will benefit the Bellevue Technology Center as new ventures by Microsoft could result in an increase in vendors and contractors who work with the software company. This could drive demand for space at nearby properties, including the Bellevue Technology Center.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,320"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  330,508 sq ft"
-      - "Valuation as at June 2017  US$ 133.0m"
-
-  - name: Iron Point, Sacramento
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503561/Singapore/CMOU.SI/photos/image_gwxbfh.jpg
-    link: https://www.koreusreit.com/portfolio/sacramento/iron-point/
-    address: 1110-1180 Iron Point Rd, Folsom, Sacramento County, California
-    category: null
-    country: United States
+  - name: California
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585031916/USA/CCI/pyuu5srvbrna1nln7a0x.png
+    link: https://www.crowncastle.com/communities/anaheim-ca.aspx
+    address: null
+    category: Diversified
+    country: USA
     state: California
     about:
-      - Iron Point is centrally located in Folsom, Sacramento. Folsom is the preferred residence to many of Sacramento's higher income executives, hence positioning Iron Point as the choice business address.
-      - The five Class A office buildings are highly accessible via US Highway 50 and is close to numerous retail and service amenities. It is also located directly across Intel Corporation's Folsom Campus that serves as one of Intel's four major US sites.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,351"
-      - "Number of Storeys  One or three-storey buildings"
-      - "Net Lettable Area (NLA)  3211,887 sq ft"
-      - "Valuation as at June 2017  US$ 38.2m"
-
-  - name: Great Hills Plaza, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503602/Singapore/CMOU.SI/photos/image_j8mkka.jpg
-    link: https://www.koreusreit.com/portfolio/austin/great-hills-plazaasdasd/
-    address: 9600 Great Hills Trail, Austin, Texas
-    category: null
-    country: United States
+    - Crown Castle is working to install 177 low-powered antennas (known as "small cells") throughout Anaheim. Designed to handle large volumes of data at high speeds, small cells are powered by cutting-edge fiber optic cable. Small cells will add the required capacity to relieve network congestion and strain on already deployed communications infrastructure. Today's technology demands greater data scope and speed. Small cells are key to strengthening coverage to ensure Anaheim residents have the most reliable access to entertainment, education, and public safety services.
+  - name: Utah
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585031967/USA/CCI/fjcqvt0ujvtiifh692ry.jpg
+    link: https://www.crowncastle.com/communities/salt-lake-city-ut.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Utah
+    about:
+    - Today, we're proposing a much-needed upgrade to Salt Lake City's existing wireless infrastructure. It involves the deployment of a small cell network of approximately 126 low-powered antennas called "nodes" that sit closer to the ground than traditional cell towers, are connected by fiber optic cable, and can handle large amounts of data at high speeds.
+  - name: Texas
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898098/USA/CCI/hz640ifzmvy2m5mjdob5.jpg
+    link: https://www.crowncastle.com/communities/el-paso-tx.aspx
+    address: null
+    category: Diversified
+    country: USA
     state: Texas
     about:
-      - Located in Northwest Austin, Texas, Great Hills Plaza is a Class B office building which is close to residential housing, retail centres including Arboretum - one of Austin's major retail centres, and is served by two freeways. The building is also minutes away from the Austin central business district.
-      - The property was upgraded recently and is occupied by tenants from a diverse range of trade sectors. It currently features a modernised lobby as well as remodeled atriums with enhanced landscaping.
-      - Great Hills Plaza is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 471"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  139,252 sq ft"
-      - "Valuation as at June 2017  US$ 33.3m"
-
-  - name: Westech 360, Austin
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503621/Singapore/CMOU.SI/photos/image_yfadou.jpg
-    link: https://www.koreusreit.com/portfolio/austin/westech-360/
-    address: 8911 N Capital of Texas Hwy, Austin, Texas
-    category: null
-    country: United States
-    state: Texas
-    about:
-      - Located along the Loop 360 Corridor (also known as Capital of Texas Highway) in Northwest Austin, Westech 360 is an office park that comprises four Class B buildings. It enjoys excellent accessibility to the major business centres around Austin and is well served by two freeways and a network of primary and secondary neighbourhood roads.
-      - Tenants from the professional services as well as finance and insurance sectors largely occupy these buildings. The office park underwent significant capital improvements over the past few years, including an extensive upgrade of the landscaping, signage and lighting for the buildings to increase its visibility from Loop 360. 
-      - The property is a recipient of the US Environmental Protection Agency’s prestigious Energy STAR © label. 
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 628"
-      - "Number of Storeys  Three"
-      - "Net Lettable Area (NLA)  173,058 sq ft"
-      - "Valuation as at June 2017  US$ 43.8m"
-
-  - name: 1800 West Loop South, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503648/Singapore/CMOU.SI/photos/image_bc0rzf.jpg
-    link: https://www.koreusreit.com/portfolio/houston/1800-west-loop-south/
-    address: 1800 West Loop South, Houston, Harris County, Texas
-    category: null
-    country: United States
-    state: Texas
-    about:
-      - Located in Uptown Houston in the Galleria submarket, 1800 West Loop South is a Class A landmark office tower. The property’s location within the well-established submarket offers close proximity to demand generators and local amenities. Additionally, its location within the uptown area has a significant household base to the north (Tanglewood) that is one of the wealthiest neighbourhoods in the Houston area.
-      - The property offers highly functional floorplates averaging 20,000 sq ft and can accommodate up to eight corner offices per floor. Recent asset enhancements include a complete renovation of the building lobby, elevator modernisation and an addition of a new conference room facility. 
-      - Its close proximity to major roads and public transportation with good accessibility to surrounding markets also benefitted its tenants from diverse trade sectors.
-      - 1800 West Loop South was the first high-rise office building in the city of Houston—and in the state of Texas, to receive the Leadership in Energy and Environmental Design (LEED) Silver Certification by the US Green Building Council for Existing Buildings. The building has since achieved LEED Gold status. Additionally, it is a multiple recipient of the US Environmental Protection Agency’s prestigious ENERGY STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,024"
-      - "Number of Storeys  21"
-      - "Net Lettable Area (NLA)  398,490 sq ft"
-      - "Valuation as at June 2017  UUS$ 82.0m"
-
-
-  - name: Bellaire Park, Houston
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503671/Singapore/CMOU.SI/photos/image_n3vx2y.jpg
-    link: https://www.koreusreit.com/portfolio/houston/bellaire-park/
-    address: 6565 and 6575 West Loop South, Bellaire, Harris County, Texas
-    category: null
-    country: United States
-    state: Texas
-    about:
-      - West Loop I & II features two Class A office buildings located in Bellaire, an affluent suburb in Houston, Texas which has a significant residential household base. The buildings underwent significant refurbishments in 2013 and 2014, resulting in remodelled entrances, complete elevator modernisations and improved chillers and cooling towers to help retain existing tenants and attract new tenancy. 
-      - Situated about six miles west of the Houston central business district, the property benefits from its location near the Medical Center which contributed to its high concentration of tenants from the healthcare and professional services sectors.
-      - Also, the property is located near major thoroughfares and public transportation with good accessibility to surrounding markets.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,044"
-      - "Number of Storeys  West Loop I: Eight; West Loop II: Seven"
-      - "Net Lettable Area (NLA)  313,873 sq ft"
-      - "Valuation as at June 2017  US$ 50.7m"
-
-
-  - name: Westmoor Center, Denver
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503707/Singapore/CMOU.SI/photos/image_x6umyc.jpg
-    link: https://www.koreusreit.com/portfolio/denver/westmoor-center/
-    address: 10055-10385 Westmoor Drive, Westminister, Colorado
-    category: null
-    country: United States
+    - Working in partnership with city staff, our plan is to deploy a small cell network of 25 low-powered antennas called "nodes" across El Paso. These nodes sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. It's more than just a viable solution for El Paso's wireless infrastructure right now—it also can help the area prepare for next-generation networks such as 5G, as well as for a wide variety of smart city innovations.
+  - name: Colorado
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585032034/USA/CCI/gjlw3g2l1edjyndtxmuq.jpg
+    link: https://www.crowncastle.com/communities/denver-co.aspx
+    address: null
+    category: Diversified
+    country: USA
     state: Colorado
     about:
-      - Westmoor Center is situated in Northwest Denver, comprising six Class A office buildings which are close to downtown Denver and Boulder, both of which are talent hubs. It is also within easy reach of large retail centres and a variety of entertainment and recreational facilities.
-      - Some major tenants of the property include Ball Aerospace, Oracle America, Convergys Corporation, Reed Group, Cabela's Inc, Health Inventures, LLC, and Zimmer Biomet Spine, Inc.. Asset enhancements such as a new access card system, upgraded lobby and common areas were completed at these buildings between 2014 to 2016.
-      - Westmoor Center is a recipient of the US Environmental Protection Agency's prestigious Energy STAR © label.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 2,809"
-      - "Number of Storeys Two- to three-storey buildings"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 121.4m"
-
-  - name: Powers Ferry, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503735/Singapore/CMOU.SI/photos/image_f9jscc.jpg
-    link: https://www.koreusreit.com/portfolio/atlanta/powers-ferry/
-    address: 6190 Powers Ferry Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
+    - Our plan is to upgrade Denver's existing wireless infrastructure by deploying a small cell network of approximately 815 low-powered antennas called "nodes" that sit close to the ground and are connected by fiber optic cable which handle large amounts of data at high speeds. Looking ahead, these nodes can pave the way for next-generation networks such as 5G, which promise to turn innovations including autonomous vehicles and citywide data sharing into reality.
+  - name: Illinois
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585124121/USA/CCI/ui8zwf9tepz8hxzeduga.jpg
+    link: https://www.crowncastle.com/communities/chicago-ils.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Illinois
+    about:
+    - We're seeking to supplement Chicago's existing wireless infrastructure by deploying a small cell network of 3,068 low-powered antennas called "nodes" that are connected by fiber optic cable and can handle large amounts of data at high speeds. Small cells can pave the way for next-generation networks such as 5G, which promise to expand "smart city" innovations including autonomous vehicles and citywide data sharing.
+  - name: Kentucky
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585125430/USA/CCI/vzkqu95yw11yyftf59fe.jpg
+    link: https://www.crowncastle.com/communities/kentucky.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Kentucky
+    about:
+    - Looking ahead, we aim to enhance Kentucky's existing wireless infrastructure by deploying a small cell network of approximately 125 low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. Small cells also hold promise for the future—paving the way for next-generation networks such as 5G and enabling connectivity across the Commonwealth.               
+  - name: Georgia
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898203/USA/CCI/atxco1mftid5eb2jimfr.jpg
+    link: https://www.crowncastle.com/communities/atlanta-ga.aspx
+    address: null
+    category: Diversified
+    country: USA
     state: Georgia
     about:
-      - Powers Ferry is a Class B office building situated in the Cumberland/I-75 submarket of the Atlanta Office Market. The property benefits from being located within a well-established submarket that is easily accessible via Interstates 285 and 75, proximate to primary demand generators and local area amenities.
-      - n addition, the property is located within the city of Sandy Springs, which has a significant household base that supports professional and financial services and healthcare-related tenancy. In 2013, Powers Ferry renovated its common areas, conference facilities and tenant amenities to maintain and boost tenancy. 
-      - The property’s proximity to major Atlanta highways positions itself well for office usage as the building is easily accessible by potential tenants in the Atlanta metro area, which has enjoyed a steady stream of businesses relocating and expanding in the region.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 569"
-      - "Number of Storeys 6"
-      - "Net Lettable Area (NLA)  607,755 sq ft"
-      - "Valuation as at June 2017  US$ 19.2m"
-
-  - name: Northridge Center I and II, Atlanta
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503767/Singapore/CMOU.SI/photos/image_akepy2.jpg
-    link: https://www.koreusreit.com/portfolio/atlanta/northridge-center/
-    address: 365 and 375 Northridge Road, Atlanta, Fulton County, Georgia
-    category: null
-    country: United States
-    state: Georgia
-    about:
-      - Northridge Center I & II features two Class B buildings, located in the Central Perimeter, one of the largest office submarkets in Atlanta, Georgia. Refurbished in 2011 with upgraded lobbies and common areas, Northridge Center I & II enjoys excellent access to affluent suburbs, medical facilities, interstate access and the Metropolitan Atlanta Rapid Transit Authority Rail System.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 724"
-      - "Number of Storeys Building 1: Four; Building 2: Six"
-      - "Net Lettable Area (NLA)  186,580 sq ft"
-      - "Valuation as at June 2017  US$ 20.5m"
-
-
-  - name: Maitland Promenade II, Orlando
-    images: https://res.cloudinary.com/reitscreener/image/upload/v1556503798/Singapore/CMOU.SI/photos/image_cgr6wa.jpg
-    link: https://www.koreusreit.com/portfolio/orlando/maitland-promenade/
-    address: 495N Keller Road, Maitland, Orange County, Florida
-    category: null
-    country: United States
+    - Our plan is to expand the coverage and capacity of the Atlanta area's wireless infrastructure by deploying a small cell network of 336 low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. We anticipate that these small cells will pave the way for next-generation networks such as 5G, which promise to expand "smart city" innovations including autonomous vehicles, traffic management tools, smart lighting, and smart waste management.
+  - name: Florida
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898228/USA/CCI/a46y2gxodvk1gqmu3fmo.jpg
+    link: https://www.crowncastle.com/communities/orlando-fl.aspx
+    address: null
+    category: Diversified
+    country: USA
     state: Florida
     about:
-      - Maitland Promenade II is a Class A office building located in Orlando, Florida. Situated in the heart of Orlando's largest and well-established submarket, the Maitland Center and a few miles away from the central business district, the property is close to primary demand generators and amenities. Moreover, its location within the community of Maitland has a significant household base that supports professional and financial services and healthcare-related office tenancy.
-      - The property also provides direct access to destinations throughout the Orlando Metropolitan Statistical Area and Interstate 4 and is less than an hour's drive from the Orlando International Airport.
-      - Maitland Promenade II is designed and built with contemporary architecture, modern building systems, and highly functional floor plates which can accommodate large and small users. From 2013 to 2016, common areas in Maitland Promenade II were renovated and the property was equipped with a new conference facility.
-      - "Land Tenure  Freehold"
-      - "Parking Stalls 1,052"
-      - "Number of Storeys Eight (Five-storey office and three-storey parking garage)"
-      - "Net Lettable Area (NLA)  226,990 sq ft"
-      - "Valuation as at June 2017  US$ 43.4m"
+    - We're working in partnership with Orlando city staff to deploy a small cell network of 75 low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable and can handle large amounts of data at high speeds for multiple carriers. Looking ahead, the benefits of upgrading Orlando's wireless infrastructure to accommodate next-generation networks such as 5G also can bring about "smart city" innovations that spark business growth, deliver better public services, and make life easier.
+  - name: South Carolina
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585032163/USA/CCI/hcstkbuictlcivaktinr.jpg
+    link: https://www.crowncastle.com/communities/charleston-sc.aspx
+    address:  null
+    category: Diversified
+    country: USA
+    state: South Carolina
+    about:
+    - Our plan is to deploy a small cell network of 32 low-powered antennas called "nodes" across Charleston. The nodes sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. We believe it's an ideal approach for Charleston's increasingly burdened wireless infrastructure—it promises to reduce network congestion significantly today, and to help the area prepare for next-generation networks and a wide variety of "smart city" innovations.  
+  - name: North Carolina
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898296/USA/CCI/gcschr0y6yohlryakhhi.jpg
+    link: https://www.crowncastle.com/communities/charlotte-ncss.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: North Carolina
+    about:
+    - We're seeking to supplement Charlotte's existing wireless infrastructure by deploying a small cell network of approximately 100 low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable and can handle large amounts of data at high speeds. Small cells can pave the way for next-generation networks such as 5G, which promise to expand "smart city" innovations including autonomous vehicles and citywide data sharing.
+  - name: Maryland
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585032223/USA/CCI/js8lzqnvfnnuhmrzqkqh.jpg
+    link: https://www.crowncastle.com/communities/prince-george-county-md.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Maryland
+    about:
+    - Our plan is to supplement Prince George's County's existing wireless infrastructure by deploying a small cell network of 33 low-powered antennas called "nodes"—the first of its kind in the county—that sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. Small cells can pave the way for next-generation networks such as 5G, which promise to expand future-focused innovations including citywide data sharing across many areas in Prince George's County.
+  - name: Washington DC
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898356/USA/CCI/e2ruarzkbiqejlwqe5pz.jpg
+    link: https://www.crowncastle.com/communities/washington-dc.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Washington DC
+    about:
+    - We're seeking to supplement Washington, D.C.'s existing wireless infrastructure by deploying a small cell network of 766 low-powered antennas called "nodes" that sit on utility poles, streetlights, or decorative poles, are connected by fiber optic cable, and can handle large amounts of data at high speeds for multiple carriers. These small cells can pave the way for next-generation networks such as 5G, which promise to enable D.C. to consider "smart city" innovations including autonomous vehicles and citywide data sharing.      
+  - name: Philadelphia
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898386/USA/CCI/c7ejcucyicm28swfjlcg.jpg
+    link: https://www.crowncastle.com/communities/philadelphia-pa.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Pennsylvania
+    about:
+    - We see real potential in the use of small cells, and that's why we believe in continuing to build out Philadelphia's wireless infrastructure. To date, we've deployed a small cell network of approximately 574 low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. The nodes are designed to provide immediate enhancements to mobile coverage and capacity—and help ease Philadelphia's transition to next-generation networks such as 5G, as well as to a variety of beneficial "smart city" innovations.
+  - name: New York
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1584898419/USA/CCI/ii9tpkkc05jgtzbadwd6.jpg
+    link: https://www.crowncastle.com/communities/long-island-ny.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: New York
+    about:
+    - It's our vision to modernize Long Island's existing wireless infrastructure by deploying a small cell network of 219 proposed low-powered antennas called "nodes" that sit close to the ground, are connected by fiber optic cable, and can handle large amounts of data at high speeds. Also, small cells can pave the way for next-generation networks such as 5G, which can help towns throughout Long Island make inroads with "smart city" innovations including autonomous vehicles and citywide data sharing.       
+  - name: Massachussetts
+    images: https://res.cloudinary.com/reitscreener/image/upload/v1585032282/USA/CCI/sc8xe7c7rzipw3ipppa6.jpg
+    link: https://www.crowncastle.com/communities/boston-ma.aspx
+    address: null
+    category: Diversified
+    country: USA
+    state: Massachussetts
+    about:
+    - Crown Castle already has a robust network in Boston and plans to deploy an additional 36 small cell nodes in Dorchester, Charlestown, and South Boston. This network will allow Boston to eventually build out next-generation networks such as 5G, which can bring about "smart city" innovations that spark business growth, deliver better public services, and make life easier for residents.    
+  
